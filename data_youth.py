@@ -7,9 +7,9 @@ import plotly.express as px
     # - Pie chart of Custodial and community supervision community supervision with geo and date filter
     # - Line chart of Probation and Incarceration rate with geo and date filter
     # - Pie chart of correctional services, by initial entry status with geo and date filter
-    # - 
 
 def plot_actual_in_counts(start_year, end_year, geo=None):
+    """Pie chart of Custodial and community supervision actual-in count with geo and date filter"""
     df = pd.read_csv("35100003.csv")
     df = df[(df['REF_DATE'].str[:4].astype(int) >= start_year) & (df['REF_DATE'].str[5:].astype(int) <= end_year)]
     
@@ -26,10 +26,12 @@ def plot_actual_in_counts(start_year, end_year, geo=None):
                  hover_data={"Custodial and community supervision": False, "REF_DATE": True, "VALUE": True},
                  category_orders={"Custodial and community supervision": sorted(df_actual_in["REF_DATE"].unique())},)
     fig.show()
+    return fig
 
 # Usage: plot_actual_in_counts(2018,2022) or plot_actual_in_counts(2018,2022,['Alberta','Ontario'])
 
 def initial_entry_status_pie_chart(start_year, end_year, geos):
+    """Pie chart of correctional services, by initial entry status with geo and date filter"""
     df = pd.read_csv("35100004.csv")
 
     df = df[['REF_DATE', 'GEO', 'Initial entry status', 'VALUE']]
@@ -44,5 +46,6 @@ def initial_entry_status_pie_chart(start_year, end_year, geos):
                  title=f'Distribution of Initial Entry Status by GEO from {start_year} to {end_year}')
     fig.update_traces(textposition='inside', textinfo='percent+label')
     fig.show()
+    return fig
 
 #Usage: initial_entry_status_pie_chart(1999, 2001, ['Alberta'])
