@@ -1,0 +1,577 @@
+﻿"REF_DATE","GEO","DGUID","Correctional services","Visible minority group","Sex","UOM","UOM_ID","SCALAR_FACTOR","SCALAR_ID","VECTOR","COORDINATE","VALUE","STATUS","SYMBOL","TERMINATED","DECIMALS"
+"2019/2020","Nova Scotia","2016A000212","Total correctional services admissions","Total, visible minority group","Total, sex","Number","223","units","0","v1331435666","1.1.1.1","273","","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total correctional services admissions","Total, visible minority group","Males","Number","223","units","0","v1331435667","1.1.1.2","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total correctional services admissions","Total, visible minority group","Females","Number","223","units","0","v1331435668","1.1.1.3","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total correctional services admissions","Total, visible minority group","Sex unknown","Number","223","units","0","v1331435669","1.1.1.4","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total correctional services admissions","Visible minority","Total, sex","Number","223","units","0","v1331435670","1.1.2.1","34","","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total correctional services admissions","Visible minority","Males","Number","223","units","0","v1331435671","1.1.2.2","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total correctional services admissions","Visible minority","Females","Number","223","units","0","v1331435672","1.1.2.3","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total correctional services admissions","Visible minority","Sex unknown","Number","223","units","0","v1331435673","1.1.2.4","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total correctional services admissions","Not a visible minority","Total, sex","Number","223","units","0","v1331435674","1.1.3.1","201","","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total correctional services admissions","Not a visible minority","Males","Number","223","units","0","v1331435675","1.1.3.2","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total correctional services admissions","Not a visible minority","Females","Number","223","units","0","v1331435676","1.1.3.3","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total correctional services admissions","Not a visible minority","Sex unknown","Number","223","units","0","v1331435677","1.1.3.4","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total correctional services admissions","Unknown, visible minority group","Total, sex","Number","223","units","0","v1331435678","1.1.4.1","38","","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total correctional services admissions","Unknown, visible minority group","Males","Number","223","units","0","v1331435679","1.1.4.2","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total correctional services admissions","Unknown, visible minority group","Females","Number","223","units","0","v1331435680","1.1.4.3","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total correctional services admissions","Unknown, visible minority group","Sex unknown","Number","223","units","0","v1331435681","1.1.4.4","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total custodial admissions
+","Total, visible minority group","Total, sex","Number","223","units","0","v1331435682","1.2.1.1","134","","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total custodial admissions
+","Total, visible minority group","Males","Number","223","units","0","v1331435683","1.2.1.2","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total custodial admissions
+","Total, visible minority group","Females","Number","223","units","0","v1331435684","1.2.1.3","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total custodial admissions
+","Total, visible minority group","Sex unknown","Number","223","units","0","v1331435685","1.2.1.4","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total custodial admissions
+","Visible minority","Total, sex","Number","223","units","0","v1331435686","1.2.2.1","14","","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total custodial admissions
+","Visible minority","Males","Number","223","units","0","v1331435687","1.2.2.2","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total custodial admissions
+","Visible minority","Females","Number","223","units","0","v1331435688","1.2.2.3","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total custodial admissions
+","Visible minority","Sex unknown","Number","223","units","0","v1331435689","1.2.2.4","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total custodial admissions
+","Not a visible minority","Total, sex","Number","223","units","0","v1331435690","1.2.3.1","115","","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total custodial admissions
+","Not a visible minority","Males","Number","223","units","0","v1331435691","1.2.3.2","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total custodial admissions
+","Not a visible minority","Females","Number","223","units","0","v1331435692","1.2.3.3","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total custodial admissions
+","Not a visible minority","Sex unknown","Number","223","units","0","v1331435693","1.2.3.4","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total custodial admissions
+","Unknown, visible minority group","Total, sex","Number","223","units","0","v1331435694","1.2.4.1","5","","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total custodial admissions
+","Unknown, visible minority group","Males","Number","223","units","0","v1331435695","1.2.4.2","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total custodial admissions
+","Unknown, visible minority group","Females","Number","223","units","0","v1331435696","1.2.4.3","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total custodial admissions
+","Unknown, visible minority group","Sex unknown","Number","223","units","0","v1331435697","1.2.4.4","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total community admissions","Total, visible minority group","Total, sex","Number","223","units","0","v1331435698","1.3.1.1","139","","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total community admissions","Total, visible minority group","Males","Number","223","units","0","v1331435699","1.3.1.2","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total community admissions","Total, visible minority group","Females","Number","223","units","0","v1331435700","1.3.1.3","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total community admissions","Total, visible minority group","Sex unknown","Number","223","units","0","v1331435701","1.3.1.4","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total community admissions","Visible minority","Total, sex","Number","223","units","0","v1331435702","1.3.2.1","20","","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total community admissions","Visible minority","Males","Number","223","units","0","v1331435703","1.3.2.2","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total community admissions","Visible minority","Females","Number","223","units","0","v1331435704","1.3.2.3","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total community admissions","Visible minority","Sex unknown","Number","223","units","0","v1331435705","1.3.2.4","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total community admissions","Not a visible minority","Total, sex","Number","223","units","0","v1331435706","1.3.3.1","86","","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total community admissions","Not a visible minority","Males","Number","223","units","0","v1331435707","1.3.3.2","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total community admissions","Not a visible minority","Females","Number","223","units","0","v1331435708","1.3.3.3","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total community admissions","Not a visible minority","Sex unknown","Number","223","units","0","v1331435709","1.3.3.4","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total community admissions","Unknown, visible minority group","Total, sex","Number","223","units","0","v1331435710","1.3.4.1","33","","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total community admissions","Unknown, visible minority group","Males","Number","223","units","0","v1331435711","1.3.4.2","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total community admissions","Unknown, visible minority group","Females","Number","223","units","0","v1331435712","1.3.4.3","","x","","","0"
+"2019/2020","Nova Scotia","2016A000212","Total community admissions","Unknown, visible minority group","Sex unknown","Number","223","units","0","v1331435713","1.3.4.4","","x","","","0"
+"2019/2020","Alberta","2016A000248","Total correctional services admissions","Total, visible minority group","Total, sex","Number","223","units","0","v1331435714","2.1.1.1","4038","","","","0"
+"2019/2020","Alberta","2016A000248","Total correctional services admissions","Total, visible minority group","Males","Number","223","units","0","v1331435715","2.1.1.2","3174","","","","0"
+"2019/2020","Alberta","2016A000248","Total correctional services admissions","Total, visible minority group","Females","Number","223","units","0","v1331435716","2.1.1.3","864","","","","0"
+"2019/2020","Alberta","2016A000248","Total correctional services admissions","Total, visible minority group","Sex unknown","Number","223","units","0","v1331435717","2.1.1.4","0","","","","0"
+"2019/2020","Alberta","2016A000248","Total correctional services admissions","Visible minority","Total, sex","Number","223","units","0","v1331435718","2.1.2.1","714","","","","0"
+"2019/2020","Alberta","2016A000248","Total correctional services admissions","Visible minority","Males","Number","223","units","0","v1331435719","2.1.2.2","635","","","","0"
+"2019/2020","Alberta","2016A000248","Total correctional services admissions","Visible minority","Females","Number","223","units","0","v1331435720","2.1.2.3","79","","","","0"
+"2019/2020","Alberta","2016A000248","Total correctional services admissions","Visible minority","Sex unknown","Number","223","units","0","v1331435721","2.1.2.4","0","","","","0"
+"2019/2020","Alberta","2016A000248","Total correctional services admissions","Not a visible minority","Total, sex","Number","223","units","0","v1331435722","2.1.3.1","2837","","","","0"
+"2019/2020","Alberta","2016A000248","Total correctional services admissions","Not a visible minority","Males","Number","223","units","0","v1331435723","2.1.3.2","2196","","","","0"
+"2019/2020","Alberta","2016A000248","Total correctional services admissions","Not a visible minority","Females","Number","223","units","0","v1331435724","2.1.3.3","641","","","","0"
+"2019/2020","Alberta","2016A000248","Total correctional services admissions","Not a visible minority","Sex unknown","Number","223","units","0","v1331435725","2.1.3.4","0","","","","0"
+"2019/2020","Alberta","2016A000248","Total correctional services admissions","Unknown, visible minority group","Total, sex","Number","223","units","0","v1331435726","2.1.4.1","487","","","","0"
+"2019/2020","Alberta","2016A000248","Total correctional services admissions","Unknown, visible minority group","Males","Number","223","units","0","v1331435727","2.1.4.2","343","","","","0"
+"2019/2020","Alberta","2016A000248","Total correctional services admissions","Unknown, visible minority group","Females","Number","223","units","0","v1331435728","2.1.4.3","144","","","","0"
+"2019/2020","Alberta","2016A000248","Total correctional services admissions","Unknown, visible minority group","Sex unknown","Number","223","units","0","v1331435729","2.1.4.4","0","","","","0"
+"2019/2020","Alberta","2016A000248","Total custodial admissions
+","Total, visible minority group","Total, sex","Number","223","units","0","v1331435730","2.2.1.1","973","","","","0"
+"2019/2020","Alberta","2016A000248","Total custodial admissions
+","Total, visible minority group","Males","Number","223","units","0","v1331435731","2.2.1.2","853","","","","0"
+"2019/2020","Alberta","2016A000248","Total custodial admissions
+","Total, visible minority group","Females","Number","223","units","0","v1331435732","2.2.1.3","120","","","","0"
+"2019/2020","Alberta","2016A000248","Total custodial admissions
+","Total, visible minority group","Sex unknown","Number","223","units","0","v1331435733","2.2.1.4","0","","","","0"
+"2019/2020","Alberta","2016A000248","Total custodial admissions
+","Visible minority","Total, sex","Number","223","units","0","v1331435734","2.2.2.1","213","","","","0"
+"2019/2020","Alberta","2016A000248","Total custodial admissions
+","Visible minority","Males","Number","223","units","0","v1331435735","2.2.2.2","200","","","","0"
+"2019/2020","Alberta","2016A000248","Total custodial admissions
+","Visible minority","Females","Number","223","units","0","v1331435736","2.2.2.3","13","","","","0"
+"2019/2020","Alberta","2016A000248","Total custodial admissions
+","Visible minority","Sex unknown","Number","223","units","0","v1331435737","2.2.2.4","0","","","","0"
+"2019/2020","Alberta","2016A000248","Total custodial admissions
+","Not a visible minority","Total, sex","Number","223","units","0","v1331435738","2.2.3.1","741","","","","0"
+"2019/2020","Alberta","2016A000248","Total custodial admissions
+","Not a visible minority","Males","Number","223","units","0","v1331435739","2.2.3.2","636","","","","0"
+"2019/2020","Alberta","2016A000248","Total custodial admissions
+","Not a visible minority","Females","Number","223","units","0","v1331435740","2.2.3.3","105","","","","0"
+"2019/2020","Alberta","2016A000248","Total custodial admissions
+","Not a visible minority","Sex unknown","Number","223","units","0","v1331435741","2.2.3.4","0","","","","0"
+"2019/2020","Alberta","2016A000248","Total custodial admissions
+","Unknown, visible minority group","Total, sex","Number","223","units","0","v1331435742","2.2.4.1","19","","","","0"
+"2019/2020","Alberta","2016A000248","Total custodial admissions
+","Unknown, visible minority group","Males","Number","223","units","0","v1331435743","2.2.4.2","17","","","","0"
+"2019/2020","Alberta","2016A000248","Total custodial admissions
+","Unknown, visible minority group","Females","Number","223","units","0","v1331435744","2.2.4.3","2","","","","0"
+"2019/2020","Alberta","2016A000248","Total custodial admissions
+","Unknown, visible minority group","Sex unknown","Number","223","units","0","v1331435745","2.2.4.4","0","","","","0"
+"2019/2020","Alberta","2016A000248","Total community admissions","Total, visible minority group","Total, sex","Number","223","units","0","v1331435746","2.3.1.1","3065","","","","0"
+"2019/2020","Alberta","2016A000248","Total community admissions","Total, visible minority group","Males","Number","223","units","0","v1331435747","2.3.1.2","2321","","","","0"
+"2019/2020","Alberta","2016A000248","Total community admissions","Total, visible minority group","Females","Number","223","units","0","v1331435748","2.3.1.3","744","","","","0"
+"2019/2020","Alberta","2016A000248","Total community admissions","Total, visible minority group","Sex unknown","Number","223","units","0","v1331435749","2.3.1.4","0","","","","0"
+"2019/2020","Alberta","2016A000248","Total community admissions","Visible minority","Total, sex","Number","223","units","0","v1331435750","2.3.2.1","501","","","","0"
+"2019/2020","Alberta","2016A000248","Total community admissions","Visible minority","Males","Number","223","units","0","v1331435751","2.3.2.2","435","","","","0"
+"2019/2020","Alberta","2016A000248","Total community admissions","Visible minority","Females","Number","223","units","0","v1331435752","2.3.2.3","66","","","","0"
+"2019/2020","Alberta","2016A000248","Total community admissions","Visible minority","Sex unknown","Number","223","units","0","v1331435753","2.3.2.4","0","","","","0"
+"2019/2020","Alberta","2016A000248","Total community admissions","Not a visible minority","Total, sex","Number","223","units","0","v1331435754","2.3.3.1","2096","","","","0"
+"2019/2020","Alberta","2016A000248","Total community admissions","Not a visible minority","Males","Number","223","units","0","v1331435755","2.3.3.2","1560","","","","0"
+"2019/2020","Alberta","2016A000248","Total community admissions","Not a visible minority","Females","Number","223","units","0","v1331435756","2.3.3.3","536","","","","0"
+"2019/2020","Alberta","2016A000248","Total community admissions","Not a visible minority","Sex unknown","Number","223","units","0","v1331435757","2.3.3.4","0","","","","0"
+"2019/2020","Alberta","2016A000248","Total community admissions","Unknown, visible minority group","Total, sex","Number","223","units","0","v1331435758","2.3.4.1","468","","","","0"
+"2019/2020","Alberta","2016A000248","Total community admissions","Unknown, visible minority group","Males","Number","223","units","0","v1331435759","2.3.4.2","326","","","","0"
+"2019/2020","Alberta","2016A000248","Total community admissions","Unknown, visible minority group","Females","Number","223","units","0","v1331435760","2.3.4.3","142","","","","0"
+"2019/2020","Alberta","2016A000248","Total community admissions","Unknown, visible minority group","Sex unknown","Number","223","units","0","v1331435761","2.3.4.4","0","","","","0"
+"2019/2020","British Columbia","2016A000259","Total correctional services admissions","Total, visible minority group","Total, sex","Number","223","units","0","v1331435762","3.1.1.1","2493","","","","0"
+"2019/2020","British Columbia","2016A000259","Total correctional services admissions","Total, visible minority group","Males","Number","223","units","0","v1331435763","3.1.1.2","1917","","","","0"
+"2019/2020","British Columbia","2016A000259","Total correctional services admissions","Total, visible minority group","Females","Number","223","units","0","v1331435764","3.1.1.3","575","","","","0"
+"2019/2020","British Columbia","2016A000259","Total correctional services admissions","Total, visible minority group","Sex unknown","Number","223","units","0","v1331435765","3.1.1.4","1","","","","0"
+"2019/2020","British Columbia","2016A000259","Total correctional services admissions","Visible minority","Total, sex","Number","223","units","0","v1331435766","3.1.2.1","403","","","","0"
+"2019/2020","British Columbia","2016A000259","Total correctional services admissions","Visible minority","Males","Number","223","units","0","v1331435767","3.1.2.2","329","","","","0"
+"2019/2020","British Columbia","2016A000259","Total correctional services admissions","Visible minority","Females","Number","223","units","0","v1331435768","3.1.2.3","73","","","","0"
+"2019/2020","British Columbia","2016A000259","Total correctional services admissions","Visible minority","Sex unknown","Number","223","units","0","v1331435769","3.1.2.4","1","","","","0"
+"2019/2020","British Columbia","2016A000259","Total correctional services admissions","Not a visible minority","Total, sex","Number","223","units","0","v1331435770","3.1.3.1","2045","","","","0"
+"2019/2020","British Columbia","2016A000259","Total correctional services admissions","Not a visible minority","Males","Number","223","units","0","v1331435771","3.1.3.2","1556","","","","0"
+"2019/2020","British Columbia","2016A000259","Total correctional services admissions","Not a visible minority","Females","Number","223","units","0","v1331435772","3.1.3.3","489","","","","0"
+"2019/2020","British Columbia","2016A000259","Total correctional services admissions","Not a visible minority","Sex unknown","Number","223","units","0","v1331435773","3.1.3.4","0","","","","0"
+"2019/2020","British Columbia","2016A000259","Total correctional services admissions","Unknown, visible minority group","Total, sex","Number","223","units","0","v1331435774","3.1.4.1","45","","","","0"
+"2019/2020","British Columbia","2016A000259","Total correctional services admissions","Unknown, visible minority group","Males","Number","223","units","0","v1331435775","3.1.4.2","32","","","","0"
+"2019/2020","British Columbia","2016A000259","Total correctional services admissions","Unknown, visible minority group","Females","Number","223","units","0","v1331435776","3.1.4.3","13","","","","0"
+"2019/2020","British Columbia","2016A000259","Total correctional services admissions","Unknown, visible minority group","Sex unknown","Number","223","units","0","v1331435777","3.1.4.4","0","","","","0"
+"2019/2020","British Columbia","2016A000259","Total custodial admissions
+","Total, visible minority group","Total, sex","Number","223","units","0","v1331435778","3.2.1.1","444","","","","0"
+"2019/2020","British Columbia","2016A000259","Total custodial admissions
+","Total, visible minority group","Males","Number","223","units","0","v1331435779","3.2.1.2","341","","","","0"
+"2019/2020","British Columbia","2016A000259","Total custodial admissions
+","Total, visible minority group","Females","Number","223","units","0","v1331435780","3.2.1.3","103","","","","0"
+"2019/2020","British Columbia","2016A000259","Total custodial admissions
+","Total, visible minority group","Sex unknown","Number","223","units","0","v1331435781","3.2.1.4","0","","","","0"
+"2019/2020","British Columbia","2016A000259","Total custodial admissions
+","Visible minority","Total, sex","Number","223","units","0","v1331435782","3.2.2.1","82","","","","0"
+"2019/2020","British Columbia","2016A000259","Total custodial admissions
+","Visible minority","Males","Number","223","units","0","v1331435783","3.2.2.2","63","","","","0"
+"2019/2020","British Columbia","2016A000259","Total custodial admissions
+","Visible minority","Females","Number","223","units","0","v1331435784","3.2.2.3","19","","","","0"
+"2019/2020","British Columbia","2016A000259","Total custodial admissions
+","Visible minority","Sex unknown","Number","223","units","0","v1331435785","3.2.2.4","0","","","","0"
+"2019/2020","British Columbia","2016A000259","Total custodial admissions
+","Not a visible minority","Total, sex","Number","223","units","0","v1331435786","3.2.3.1","360","","","","0"
+"2019/2020","British Columbia","2016A000259","Total custodial admissions
+","Not a visible minority","Males","Number","223","units","0","v1331435787","3.2.3.2","276","","","","0"
+"2019/2020","British Columbia","2016A000259","Total custodial admissions
+","Not a visible minority","Females","Number","223","units","0","v1331435788","3.2.3.3","84","","","","0"
+"2019/2020","British Columbia","2016A000259","Total custodial admissions
+","Not a visible minority","Sex unknown","Number","223","units","0","v1331435789","3.2.3.4","0","","","","0"
+"2019/2020","British Columbia","2016A000259","Total custodial admissions
+","Unknown, visible minority group","Total, sex","Number","223","units","0","v1331435790","3.2.4.1","2","","","","0"
+"2019/2020","British Columbia","2016A000259","Total custodial admissions
+","Unknown, visible minority group","Males","Number","223","units","0","v1331435791","3.2.4.2","2","","","","0"
+"2019/2020","British Columbia","2016A000259","Total custodial admissions
+","Unknown, visible minority group","Females","Number","223","units","0","v1331435792","3.2.4.3","0","","","","0"
+"2019/2020","British Columbia","2016A000259","Total custodial admissions
+","Unknown, visible minority group","Sex unknown","Number","223","units","0","v1331435793","3.2.4.4","0","","","","0"
+"2019/2020","British Columbia","2016A000259","Total community admissions","Total, visible minority group","Total, sex","Number","223","units","0","v1331435794","3.3.1.1","2049","","","","0"
+"2019/2020","British Columbia","2016A000259","Total community admissions","Total, visible minority group","Males","Number","223","units","0","v1331435795","3.3.1.2","1576","","","","0"
+"2019/2020","British Columbia","2016A000259","Total community admissions","Total, visible minority group","Females","Number","223","units","0","v1331435796","3.3.1.3","472","","","","0"
+"2019/2020","British Columbia","2016A000259","Total community admissions","Total, visible minority group","Sex unknown","Number","223","units","0","v1331435797","3.3.1.4","1","","","","0"
+"2019/2020","British Columbia","2016A000259","Total community admissions","Visible minority","Total, sex","Number","223","units","0","v1331435798","3.3.2.1","321","","","","0"
+"2019/2020","British Columbia","2016A000259","Total community admissions","Visible minority","Males","Number","223","units","0","v1331435799","3.3.2.2","266","","","","0"
+"2019/2020","British Columbia","2016A000259","Total community admissions","Visible minority","Females","Number","223","units","0","v1331435800","3.3.2.3","54","","","","0"
+"2019/2020","British Columbia","2016A000259","Total community admissions","Visible minority","Sex unknown","Number","223","units","0","v1331435801","3.3.2.4","1","","","","0"
+"2019/2020","British Columbia","2016A000259","Total community admissions","Not a visible minority","Total, sex","Number","223","units","0","v1331435802","3.3.3.1","1685","","","","0"
+"2019/2020","British Columbia","2016A000259","Total community admissions","Not a visible minority","Males","Number","223","units","0","v1331435803","3.3.3.2","1280","","","","0"
+"2019/2020","British Columbia","2016A000259","Total community admissions","Not a visible minority","Females","Number","223","units","0","v1331435804","3.3.3.3","405","","","","0"
+"2019/2020","British Columbia","2016A000259","Total community admissions","Not a visible minority","Sex unknown","Number","223","units","0","v1331435805","3.3.3.4","0","","","","0"
+"2019/2020","British Columbia","2016A000259","Total community admissions","Unknown, visible minority group","Total, sex","Number","223","units","0","v1331435806","3.3.4.1","43","","","","0"
+"2019/2020","British Columbia","2016A000259","Total community admissions","Unknown, visible minority group","Males","Number","223","units","0","v1331435807","3.3.4.2","30","","","","0"
+"2019/2020","British Columbia","2016A000259","Total community admissions","Unknown, visible minority group","Females","Number","223","units","0","v1331435808","3.3.4.3","13","","","","0"
+"2019/2020","British Columbia","2016A000259","Total community admissions","Unknown, visible minority group","Sex unknown","Number","223","units","0","v1331435809","3.3.4.4","0","","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total correctional services admissions","Total, visible minority group","Total, sex","Number","223","units","0","v1331435666","1.1.1.1","157","","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total correctional services admissions","Total, visible minority group","Males","Number","223","units","0","v1331435667","1.1.1.2","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total correctional services admissions","Total, visible minority group","Females","Number","223","units","0","v1331435668","1.1.1.3","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total correctional services admissions","Total, visible minority group","Sex unknown","Number","223","units","0","v1331435669","1.1.1.4","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total correctional services admissions","Visible minority","Total, sex","Number","223","units","0","v1331435670","1.1.2.1","22","","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total correctional services admissions","Visible minority","Males","Number","223","units","0","v1331435671","1.1.2.2","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total correctional services admissions","Visible minority","Females","Number","223","units","0","v1331435672","1.1.2.3","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total correctional services admissions","Visible minority","Sex unknown","Number","223","units","0","v1331435673","1.1.2.4","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total correctional services admissions","Not a visible minority","Total, sex","Number","223","units","0","v1331435674","1.1.3.1","113","","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total correctional services admissions","Not a visible minority","Males","Number","223","units","0","v1331435675","1.1.3.2","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total correctional services admissions","Not a visible minority","Females","Number","223","units","0","v1331435676","1.1.3.3","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total correctional services admissions","Not a visible minority","Sex unknown","Number","223","units","0","v1331435677","1.1.3.4","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total correctional services admissions","Unknown, visible minority group","Total, sex","Number","223","units","0","v1331435678","1.1.4.1","22","","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total correctional services admissions","Unknown, visible minority group","Males","Number","223","units","0","v1331435679","1.1.4.2","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total correctional services admissions","Unknown, visible minority group","Females","Number","223","units","0","v1331435680","1.1.4.3","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total correctional services admissions","Unknown, visible minority group","Sex unknown","Number","223","units","0","v1331435681","1.1.4.4","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total custodial admissions
+","Total, visible minority group","Total, sex","Number","223","units","0","v1331435682","1.2.1.1","76","","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total custodial admissions
+","Total, visible minority group","Males","Number","223","units","0","v1331435683","1.2.1.2","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total custodial admissions
+","Total, visible minority group","Females","Number","223","units","0","v1331435684","1.2.1.3","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total custodial admissions
+","Total, visible minority group","Sex unknown","Number","223","units","0","v1331435685","1.2.1.4","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total custodial admissions
+","Visible minority","Total, sex","Number","223","units","0","v1331435686","1.2.2.1","12","","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total custodial admissions
+","Visible minority","Males","Number","223","units","0","v1331435687","1.2.2.2","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total custodial admissions
+","Visible minority","Females","Number","223","units","0","v1331435688","1.2.2.3","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total custodial admissions
+","Visible minority","Sex unknown","Number","223","units","0","v1331435689","1.2.2.4","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total custodial admissions
+","Not a visible minority","Total, sex","Number","223","units","0","v1331435690","1.2.3.1","60","","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total custodial admissions
+","Not a visible minority","Males","Number","223","units","0","v1331435691","1.2.3.2","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total custodial admissions
+","Not a visible minority","Females","Number","223","units","0","v1331435692","1.2.3.3","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total custodial admissions
+","Not a visible minority","Sex unknown","Number","223","units","0","v1331435693","1.2.3.4","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total custodial admissions
+","Unknown, visible minority group","Total, sex","Number","223","units","0","v1331435694","1.2.4.1","4","","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total custodial admissions
+","Unknown, visible minority group","Males","Number","223","units","0","v1331435695","1.2.4.2","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total custodial admissions
+","Unknown, visible minority group","Females","Number","223","units","0","v1331435696","1.2.4.3","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total custodial admissions
+","Unknown, visible minority group","Sex unknown","Number","223","units","0","v1331435697","1.2.4.4","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total community admissions","Total, visible minority group","Total, sex","Number","223","units","0","v1331435698","1.3.1.1","81","","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total community admissions","Total, visible minority group","Males","Number","223","units","0","v1331435699","1.3.1.2","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total community admissions","Total, visible minority group","Females","Number","223","units","0","v1331435700","1.3.1.3","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total community admissions","Total, visible minority group","Sex unknown","Number","223","units","0","v1331435701","1.3.1.4","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total community admissions","Visible minority","Total, sex","Number","223","units","0","v1331435702","1.3.2.1","10","","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total community admissions","Visible minority","Males","Number","223","units","0","v1331435703","1.3.2.2","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total community admissions","Visible minority","Females","Number","223","units","0","v1331435704","1.3.2.3","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total community admissions","Visible minority","Sex unknown","Number","223","units","0","v1331435705","1.3.2.4","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total community admissions","Not a visible minority","Total, sex","Number","223","units","0","v1331435706","1.3.3.1","53","","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total community admissions","Not a visible minority","Males","Number","223","units","0","v1331435707","1.3.3.2","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total community admissions","Not a visible minority","Females","Number","223","units","0","v1331435708","1.3.3.3","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total community admissions","Not a visible minority","Sex unknown","Number","223","units","0","v1331435709","1.3.3.4","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total community admissions","Unknown, visible minority group","Total, sex","Number","223","units","0","v1331435710","1.3.4.1","18","","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total community admissions","Unknown, visible minority group","Males","Number","223","units","0","v1331435711","1.3.4.2","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total community admissions","Unknown, visible minority group","Females","Number","223","units","0","v1331435712","1.3.4.3","","x","","","0"
+"2020/2021","Nova Scotia","2016A000212","Total community admissions","Unknown, visible minority group","Sex unknown","Number","223","units","0","v1331435713","1.3.4.4","","x","","","0"
+"2020/2021","Alberta","2016A000248","Total correctional services admissions","Total, visible minority group","Total, sex","Number","223","units","0","v1331435714","2.1.1.1","2240","","","","0"
+"2020/2021","Alberta","2016A000248","Total correctional services admissions","Total, visible minority group","Males","Number","223","units","0","v1331435715","2.1.1.2","1785","","","","0"
+"2020/2021","Alberta","2016A000248","Total correctional services admissions","Total, visible minority group","Females","Number","223","units","0","v1331435716","2.1.1.3","454","","","","0"
+"2020/2021","Alberta","2016A000248","Total correctional services admissions","Total, visible minority group","Sex unknown","Number","223","units","0","v1331435717","2.1.1.4","1","","","","0"
+"2020/2021","Alberta","2016A000248","Total correctional services admissions","Visible minority","Total, sex","Number","223","units","0","v1331435718","2.1.2.1","407","","","","0"
+"2020/2021","Alberta","2016A000248","Total correctional services admissions","Visible minority","Males","Number","223","units","0","v1331435719","2.1.2.2","369","","","","0"
+"2020/2021","Alberta","2016A000248","Total correctional services admissions","Visible minority","Females","Number","223","units","0","v1331435720","2.1.2.3","38","","","","0"
+"2020/2021","Alberta","2016A000248","Total correctional services admissions","Visible minority","Sex unknown","Number","223","units","0","v1331435721","2.1.2.4","0","","","","0"
+"2020/2021","Alberta","2016A000248","Total correctional services admissions","Not a visible minority","Total, sex","Number","223","units","0","v1331435722","2.1.3.1","1570","","","","0"
+"2020/2021","Alberta","2016A000248","Total correctional services admissions","Not a visible minority","Males","Number","223","units","0","v1331435723","2.1.3.2","1225","","","","0"
+"2020/2021","Alberta","2016A000248","Total correctional services admissions","Not a visible minority","Females","Number","223","units","0","v1331435724","2.1.3.3","344","","","","0"
+"2020/2021","Alberta","2016A000248","Total correctional services admissions","Not a visible minority","Sex unknown","Number","223","units","0","v1331435725","2.1.3.4","1","","","","0"
+"2020/2021","Alberta","2016A000248","Total correctional services admissions","Unknown, visible minority group","Total, sex","Number","223","units","0","v1331435726","2.1.4.1","263","","","","0"
+"2020/2021","Alberta","2016A000248","Total correctional services admissions","Unknown, visible minority group","Males","Number","223","units","0","v1331435727","2.1.4.2","191","","","","0"
+"2020/2021","Alberta","2016A000248","Total correctional services admissions","Unknown, visible minority group","Females","Number","223","units","0","v1331435728","2.1.4.3","72","","","","0"
+"2020/2021","Alberta","2016A000248","Total correctional services admissions","Unknown, visible minority group","Sex unknown","Number","223","units","0","v1331435729","2.1.4.4","0","","","","0"
+"2020/2021","Alberta","2016A000248","Total custodial admissions
+","Total, visible minority group","Total, sex","Number","223","units","0","v1331435730","2.2.1.1","540","","","","0"
+"2020/2021","Alberta","2016A000248","Total custodial admissions
+","Total, visible minority group","Males","Number","223","units","0","v1331435731","2.2.1.2","481","","","","0"
+"2020/2021","Alberta","2016A000248","Total custodial admissions
+","Total, visible minority group","Females","Number","223","units","0","v1331435732","2.2.1.3","59","","","","0"
+"2020/2021","Alberta","2016A000248","Total custodial admissions
+","Total, visible minority group","Sex unknown","Number","223","units","0","v1331435733","2.2.1.4","0","","","","0"
+"2020/2021","Alberta","2016A000248","Total custodial admissions
+","Visible minority","Total, sex","Number","223","units","0","v1331435734","2.2.2.1","124","","","","0"
+"2020/2021","Alberta","2016A000248","Total custodial admissions
+","Visible minority","Males","Number","223","units","0","v1331435735","2.2.2.2","119","","","","0"
+"2020/2021","Alberta","2016A000248","Total custodial admissions
+","Visible minority","Females","Number","223","units","0","v1331435736","2.2.2.3","5","","","","0"
+"2020/2021","Alberta","2016A000248","Total custodial admissions
+","Visible minority","Sex unknown","Number","223","units","0","v1331435737","2.2.2.4","0","","","","0"
+"2020/2021","Alberta","2016A000248","Total custodial admissions
+","Not a visible minority","Total, sex","Number","223","units","0","v1331435738","2.2.3.1","410","","","","0"
+"2020/2021","Alberta","2016A000248","Total custodial admissions
+","Not a visible minority","Males","Number","223","units","0","v1331435739","2.2.3.2","356","","","","0"
+"2020/2021","Alberta","2016A000248","Total custodial admissions
+","Not a visible minority","Females","Number","223","units","0","v1331435740","2.2.3.3","54","","","","0"
+"2020/2021","Alberta","2016A000248","Total custodial admissions
+","Not a visible minority","Sex unknown","Number","223","units","0","v1331435741","2.2.3.4","0","","","","0"
+"2020/2021","Alberta","2016A000248","Total custodial admissions
+","Unknown, visible minority group","Total, sex","Number","223","units","0","v1331435742","2.2.4.1","6","","","","0"
+"2020/2021","Alberta","2016A000248","Total custodial admissions
+","Unknown, visible minority group","Males","Number","223","units","0","v1331435743","2.2.4.2","6","","","","0"
+"2020/2021","Alberta","2016A000248","Total custodial admissions
+","Unknown, visible minority group","Females","Number","223","units","0","v1331435744","2.2.4.3","0","","","","0"
+"2020/2021","Alberta","2016A000248","Total custodial admissions
+","Unknown, visible minority group","Sex unknown","Number","223","units","0","v1331435745","2.2.4.4","0","","","","0"
+"2020/2021","Alberta","2016A000248","Total community admissions","Total, visible minority group","Total, sex","Number","223","units","0","v1331435746","2.3.1.1","1700","","","","0"
+"2020/2021","Alberta","2016A000248","Total community admissions","Total, visible minority group","Males","Number","223","units","0","v1331435747","2.3.1.2","1304","","","","0"
+"2020/2021","Alberta","2016A000248","Total community admissions","Total, visible minority group","Females","Number","223","units","0","v1331435748","2.3.1.3","395","","","","0"
+"2020/2021","Alberta","2016A000248","Total community admissions","Total, visible minority group","Sex unknown","Number","223","units","0","v1331435749","2.3.1.4","1","","","","0"
+"2020/2021","Alberta","2016A000248","Total community admissions","Visible minority","Total, sex","Number","223","units","0","v1331435750","2.3.2.1","283","","","","0"
+"2020/2021","Alberta","2016A000248","Total community admissions","Visible minority","Males","Number","223","units","0","v1331435751","2.3.2.2","250","","","","0"
+"2020/2021","Alberta","2016A000248","Total community admissions","Visible minority","Females","Number","223","units","0","v1331435752","2.3.2.3","33","","","","0"
+"2020/2021","Alberta","2016A000248","Total community admissions","Visible minority","Sex unknown","Number","223","units","0","v1331435753","2.3.2.4","0","","","","0"
+"2020/2021","Alberta","2016A000248","Total community admissions","Not a visible minority","Total, sex","Number","223","units","0","v1331435754","2.3.3.1","1160","","","","0"
+"2020/2021","Alberta","2016A000248","Total community admissions","Not a visible minority","Males","Number","223","units","0","v1331435755","2.3.3.2","869","","","","0"
+"2020/2021","Alberta","2016A000248","Total community admissions","Not a visible minority","Females","Number","223","units","0","v1331435756","2.3.3.3","290","","","","0"
+"2020/2021","Alberta","2016A000248","Total community admissions","Not a visible minority","Sex unknown","Number","223","units","0","v1331435757","2.3.3.4","1","","","","0"
+"2020/2021","Alberta","2016A000248","Total community admissions","Unknown, visible minority group","Total, sex","Number","223","units","0","v1331435758","2.3.4.1","257","","","","0"
+"2020/2021","Alberta","2016A000248","Total community admissions","Unknown, visible minority group","Males","Number","223","units","0","v1331435759","2.3.4.2","185","","","","0"
+"2020/2021","Alberta","2016A000248","Total community admissions","Unknown, visible minority group","Females","Number","223","units","0","v1331435760","2.3.4.3","72","","","","0"
+"2020/2021","Alberta","2016A000248","Total community admissions","Unknown, visible minority group","Sex unknown","Number","223","units","0","v1331435761","2.3.4.4","0","","","","0"
+"2020/2021","British Columbia","2016A000259","Total correctional services admissions","Total, visible minority group","Total, sex","Number","223","units","0","v1331435762","3.1.1.1","1521","","","","0"
+"2020/2021","British Columbia","2016A000259","Total correctional services admissions","Total, visible minority group","Males","Number","223","units","0","v1331435763","3.1.1.2","1182","","","","0"
+"2020/2021","British Columbia","2016A000259","Total correctional services admissions","Total, visible minority group","Females","Number","223","units","0","v1331435764","3.1.1.3","337","","","","0"
+"2020/2021","British Columbia","2016A000259","Total correctional services admissions","Total, visible minority group","Sex unknown","Number","223","units","0","v1331435765","3.1.1.4","2","","","","0"
+"2020/2021","British Columbia","2016A000259","Total correctional services admissions","Visible minority","Total, sex","Number","223","units","0","v1331435766","3.1.2.1","235","","","","0"
+"2020/2021","British Columbia","2016A000259","Total correctional services admissions","Visible minority","Males","Number","223","units","0","v1331435767","3.1.2.2","192","","","","0"
+"2020/2021","British Columbia","2016A000259","Total correctional services admissions","Visible minority","Females","Number","223","units","0","v1331435768","3.1.2.3","41","","","","0"
+"2020/2021","British Columbia","2016A000259","Total correctional services admissions","Visible minority","Sex unknown","Number","223","units","0","v1331435769","3.1.2.4","2","","","","0"
+"2020/2021","British Columbia","2016A000259","Total correctional services admissions","Not a visible minority","Total, sex","Number","223","units","0","v1331435770","3.1.3.1","1247","","","","0"
+"2020/2021","British Columbia","2016A000259","Total correctional services admissions","Not a visible minority","Males","Number","223","units","0","v1331435771","3.1.3.2","965","","","","0"
+"2020/2021","British Columbia","2016A000259","Total correctional services admissions","Not a visible minority","Females","Number","223","units","0","v1331435772","3.1.3.3","282","","","","0"
+"2020/2021","British Columbia","2016A000259","Total correctional services admissions","Not a visible minority","Sex unknown","Number","223","units","0","v1331435773","3.1.3.4","0","","","","0"
+"2020/2021","British Columbia","2016A000259","Total correctional services admissions","Unknown, visible minority group","Total, sex","Number","223","units","0","v1331435774","3.1.4.1","39","","","","0"
+"2020/2021","British Columbia","2016A000259","Total correctional services admissions","Unknown, visible minority group","Males","Number","223","units","0","v1331435775","3.1.4.2","25","","","","0"
+"2020/2021","British Columbia","2016A000259","Total correctional services admissions","Unknown, visible minority group","Females","Number","223","units","0","v1331435776","3.1.4.3","14","","","","0"
+"2020/2021","British Columbia","2016A000259","Total correctional services admissions","Unknown, visible minority group","Sex unknown","Number","223","units","0","v1331435777","3.1.4.4","0","","","","0"
+"2020/2021","British Columbia","2016A000259","Total custodial admissions
+","Total, visible minority group","Total, sex","Number","223","units","0","v1331435778","3.2.1.1","203","","","","0"
+"2020/2021","British Columbia","2016A000259","Total custodial admissions
+","Total, visible minority group","Males","Number","223","units","0","v1331435779","3.2.1.2","168","","","","0"
+"2020/2021","British Columbia","2016A000259","Total custodial admissions
+","Total, visible minority group","Females","Number","223","units","0","v1331435780","3.2.1.3","35","","","","0"
+"2020/2021","British Columbia","2016A000259","Total custodial admissions
+","Total, visible minority group","Sex unknown","Number","223","units","0","v1331435781","3.2.1.4","0","","","","0"
+"2020/2021","British Columbia","2016A000259","Total custodial admissions
+","Visible minority","Total, sex","Number","223","units","0","v1331435782","3.2.2.1","39","","","","0"
+"2020/2021","British Columbia","2016A000259","Total custodial admissions
+","Visible minority","Males","Number","223","units","0","v1331435783","3.2.2.2","29","","","","0"
+"2020/2021","British Columbia","2016A000259","Total custodial admissions
+","Visible minority","Females","Number","223","units","0","v1331435784","3.2.2.3","10","","","","0"
+"2020/2021","British Columbia","2016A000259","Total custodial admissions
+","Visible minority","Sex unknown","Number","223","units","0","v1331435785","3.2.2.4","0","","","","0"
+"2020/2021","British Columbia","2016A000259","Total custodial admissions
+","Not a visible minority","Total, sex","Number","223","units","0","v1331435786","3.2.3.1","163","","","","0"
+"2020/2021","British Columbia","2016A000259","Total custodial admissions
+","Not a visible minority","Males","Number","223","units","0","v1331435787","3.2.3.2","138","","","","0"
+"2020/2021","British Columbia","2016A000259","Total custodial admissions
+","Not a visible minority","Females","Number","223","units","0","v1331435788","3.2.3.3","25","","","","0"
+"2020/2021","British Columbia","2016A000259","Total custodial admissions
+","Not a visible minority","Sex unknown","Number","223","units","0","v1331435789","3.2.3.4","0","","","","0"
+"2020/2021","British Columbia","2016A000259","Total custodial admissions
+","Unknown, visible minority group","Total, sex","Number","223","units","0","v1331435790","3.2.4.1","1","","","","0"
+"2020/2021","British Columbia","2016A000259","Total custodial admissions
+","Unknown, visible minority group","Males","Number","223","units","0","v1331435791","3.2.4.2","1","","","","0"
+"2020/2021","British Columbia","2016A000259","Total custodial admissions
+","Unknown, visible minority group","Females","Number","223","units","0","v1331435792","3.2.4.3","0","","","","0"
+"2020/2021","British Columbia","2016A000259","Total custodial admissions
+","Unknown, visible minority group","Sex unknown","Number","223","units","0","v1331435793","3.2.4.4","0","","","","0"
+"2020/2021","British Columbia","2016A000259","Total community admissions","Total, visible minority group","Total, sex","Number","223","units","0","v1331435794","3.3.1.1","1318","","","","0"
+"2020/2021","British Columbia","2016A000259","Total community admissions","Total, visible minority group","Males","Number","223","units","0","v1331435795","3.3.1.2","1014","","","","0"
+"2020/2021","British Columbia","2016A000259","Total community admissions","Total, visible minority group","Females","Number","223","units","0","v1331435796","3.3.1.3","302","","","","0"
+"2020/2021","British Columbia","2016A000259","Total community admissions","Total, visible minority group","Sex unknown","Number","223","units","0","v1331435797","3.3.1.4","2","","","","0"
+"2020/2021","British Columbia","2016A000259","Total community admissions","Visible minority","Total, sex","Number","223","units","0","v1331435798","3.3.2.1","196","","","","0"
+"2020/2021","British Columbia","2016A000259","Total community admissions","Visible minority","Males","Number","223","units","0","v1331435799","3.3.2.2","163","","","","0"
+"2020/2021","British Columbia","2016A000259","Total community admissions","Visible minority","Females","Number","223","units","0","v1331435800","3.3.2.3","31","","","","0"
+"2020/2021","British Columbia","2016A000259","Total community admissions","Visible minority","Sex unknown","Number","223","units","0","v1331435801","3.3.2.4","2","","","","0"
+"2020/2021","British Columbia","2016A000259","Total community admissions","Not a visible minority","Total, sex","Number","223","units","0","v1331435802","3.3.3.1","1084","","","","0"
+"2020/2021","British Columbia","2016A000259","Total community admissions","Not a visible minority","Males","Number","223","units","0","v1331435803","3.3.3.2","827","","","","0"
+"2020/2021","British Columbia","2016A000259","Total community admissions","Not a visible minority","Females","Number","223","units","0","v1331435804","3.3.3.3","257","","","","0"
+"2020/2021","British Columbia","2016A000259","Total community admissions","Not a visible minority","Sex unknown","Number","223","units","0","v1331435805","3.3.3.4","0","","","","0"
+"2020/2021","British Columbia","2016A000259","Total community admissions","Unknown, visible minority group","Total, sex","Number","223","units","0","v1331435806","3.3.4.1","38","","","","0"
+"2020/2021","British Columbia","2016A000259","Total community admissions","Unknown, visible minority group","Males","Number","223","units","0","v1331435807","3.3.4.2","24","","","","0"
+"2020/2021","British Columbia","2016A000259","Total community admissions","Unknown, visible minority group","Females","Number","223","units","0","v1331435808","3.3.4.3","14","","","","0"
+"2020/2021","British Columbia","2016A000259","Total community admissions","Unknown, visible minority group","Sex unknown","Number","223","units","0","v1331435809","3.3.4.4","0","","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total correctional services admissions","Total, visible minority group","Total, sex","Number","223","units","0","v1331435666","1.1.1.1","129","","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total correctional services admissions","Total, visible minority group","Males","Number","223","units","0","v1331435667","1.1.1.2","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total correctional services admissions","Total, visible minority group","Females","Number","223","units","0","v1331435668","1.1.1.3","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total correctional services admissions","Total, visible minority group","Sex unknown","Number","223","units","0","v1331435669","1.1.1.4","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total correctional services admissions","Visible minority","Total, sex","Number","223","units","0","v1331435670","1.1.2.1","28","","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total correctional services admissions","Visible minority","Males","Number","223","units","0","v1331435671","1.1.2.2","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total correctional services admissions","Visible minority","Females","Number","223","units","0","v1331435672","1.1.2.3","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total correctional services admissions","Visible minority","Sex unknown","Number","223","units","0","v1331435673","1.1.2.4","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total correctional services admissions","Not a visible minority","Total, sex","Number","223","units","0","v1331435674","1.1.3.1","83","","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total correctional services admissions","Not a visible minority","Males","Number","223","units","0","v1331435675","1.1.3.2","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total correctional services admissions","Not a visible minority","Females","Number","223","units","0","v1331435676","1.1.3.3","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total correctional services admissions","Not a visible minority","Sex unknown","Number","223","units","0","v1331435677","1.1.3.4","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total correctional services admissions","Unknown, visible minority group","Total, sex","Number","223","units","0","v1331435678","1.1.4.1","18","","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total correctional services admissions","Unknown, visible minority group","Males","Number","223","units","0","v1331435679","1.1.4.2","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total correctional services admissions","Unknown, visible minority group","Females","Number","223","units","0","v1331435680","1.1.4.3","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total correctional services admissions","Unknown, visible minority group","Sex unknown","Number","223","units","0","v1331435681","1.1.4.4","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total custodial admissions
+","Total, visible minority group","Total, sex","Number","223","units","0","v1331435682","1.2.1.1","50","","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total custodial admissions
+","Total, visible minority group","Males","Number","223","units","0","v1331435683","1.2.1.2","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total custodial admissions
+","Total, visible minority group","Females","Number","223","units","0","v1331435684","1.2.1.3","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total custodial admissions
+","Total, visible minority group","Sex unknown","Number","223","units","0","v1331435685","1.2.1.4","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total custodial admissions
+","Visible minority","Total, sex","Number","223","units","0","v1331435686","1.2.2.1","15","","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total custodial admissions
+","Visible minority","Males","Number","223","units","0","v1331435687","1.2.2.2","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total custodial admissions
+","Visible minority","Females","Number","223","units","0","v1331435688","1.2.2.3","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total custodial admissions
+","Visible minority","Sex unknown","Number","223","units","0","v1331435689","1.2.2.4","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total custodial admissions
+","Not a visible minority","Total, sex","Number","223","units","0","v1331435690","1.2.3.1","30","","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total custodial admissions
+","Not a visible minority","Males","Number","223","units","0","v1331435691","1.2.3.2","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total custodial admissions
+","Not a visible minority","Females","Number","223","units","0","v1331435692","1.2.3.3","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total custodial admissions
+","Not a visible minority","Sex unknown","Number","223","units","0","v1331435693","1.2.3.4","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total custodial admissions
+","Unknown, visible minority group","Total, sex","Number","223","units","0","v1331435694","1.2.4.1","5","","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total custodial admissions
+","Unknown, visible minority group","Males","Number","223","units","0","v1331435695","1.2.4.2","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total custodial admissions
+","Unknown, visible minority group","Females","Number","223","units","0","v1331435696","1.2.4.3","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total custodial admissions
+","Unknown, visible minority group","Sex unknown","Number","223","units","0","v1331435697","1.2.4.4","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total community admissions","Total, visible minority group","Total, sex","Number","223","units","0","v1331435698","1.3.1.1","79","","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total community admissions","Total, visible minority group","Males","Number","223","units","0","v1331435699","1.3.1.2","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total community admissions","Total, visible minority group","Females","Number","223","units","0","v1331435700","1.3.1.3","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total community admissions","Total, visible minority group","Sex unknown","Number","223","units","0","v1331435701","1.3.1.4","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total community admissions","Visible minority","Total, sex","Number","223","units","0","v1331435702","1.3.2.1","13","","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total community admissions","Visible minority","Males","Number","223","units","0","v1331435703","1.3.2.2","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total community admissions","Visible minority","Females","Number","223","units","0","v1331435704","1.3.2.3","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total community admissions","Visible minority","Sex unknown","Number","223","units","0","v1331435705","1.3.2.4","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total community admissions","Not a visible minority","Total, sex","Number","223","units","0","v1331435706","1.3.3.1","53","","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total community admissions","Not a visible minority","Males","Number","223","units","0","v1331435707","1.3.3.2","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total community admissions","Not a visible minority","Females","Number","223","units","0","v1331435708","1.3.3.3","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total community admissions","Not a visible minority","Sex unknown","Number","223","units","0","v1331435709","1.3.3.4","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total community admissions","Unknown, visible minority group","Total, sex","Number","223","units","0","v1331435710","1.3.4.1","13","","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total community admissions","Unknown, visible minority group","Males","Number","223","units","0","v1331435711","1.3.4.2","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total community admissions","Unknown, visible minority group","Females","Number","223","units","0","v1331435712","1.3.4.3","","x","","","0"
+"2021/2022","Nova Scotia","2016A000212","Total community admissions","Unknown, visible minority group","Sex unknown","Number","223","units","0","v1331435713","1.3.4.4","","x","","","0"
+"2021/2022","Alberta","2016A000248","Total correctional services admissions","Total, visible minority group","Total, sex","Number","223","units","0","v1331435714","2.1.1.1","2057","","","","0"
+"2021/2022","Alberta","2016A000248","Total correctional services admissions","Total, visible minority group","Males","Number","223","units","0","v1331435715","2.1.1.2","1581","","","","0"
+"2021/2022","Alberta","2016A000248","Total correctional services admissions","Total, visible minority group","Females","Number","223","units","0","v1331435716","2.1.1.3","472","","","","0"
+"2021/2022","Alberta","2016A000248","Total correctional services admissions","Total, visible minority group","Sex unknown","Number","223","units","0","v1331435717","2.1.1.4","4","","","","0"
+"2021/2022","Alberta","2016A000248","Total correctional services admissions","Visible minority","Total, sex","Number","223","units","0","v1331435718","2.1.2.1","346","","","","0"
+"2021/2022","Alberta","2016A000248","Total correctional services admissions","Visible minority","Males","Number","223","units","0","v1331435719","2.1.2.2","290","","","","0"
+"2021/2022","Alberta","2016A000248","Total correctional services admissions","Visible minority","Females","Number","223","units","0","v1331435720","2.1.2.3","54","","","","0"
+"2021/2022","Alberta","2016A000248","Total correctional services admissions","Visible minority","Sex unknown","Number","223","units","0","v1331435721","2.1.2.4","2","","","","0"
+"2021/2022","Alberta","2016A000248","Total correctional services admissions","Not a visible minority","Total, sex","Number","223","units","0","v1331435722","2.1.3.1","1426","","","","0"
+"2021/2022","Alberta","2016A000248","Total correctional services admissions","Not a visible minority","Males","Number","223","units","0","v1331435723","2.1.3.2","1092","","","","0"
+"2021/2022","Alberta","2016A000248","Total correctional services admissions","Not a visible minority","Females","Number","223","units","0","v1331435724","2.1.3.3","333","","","","0"
+"2021/2022","Alberta","2016A000248","Total correctional services admissions","Not a visible minority","Sex unknown","Number","223","units","0","v1331435725","2.1.3.4","1","","","","0"
+"2021/2022","Alberta","2016A000248","Total correctional services admissions","Unknown, visible minority group","Total, sex","Number","223","units","0","v1331435726","2.1.4.1","285","","","","0"
+"2021/2022","Alberta","2016A000248","Total correctional services admissions","Unknown, visible minority group","Males","Number","223","units","0","v1331435727","2.1.4.2","199","","","","0"
+"2021/2022","Alberta","2016A000248","Total correctional services admissions","Unknown, visible minority group","Females","Number","223","units","0","v1331435728","2.1.4.3","85","","","","0"
+"2021/2022","Alberta","2016A000248","Total correctional services admissions","Unknown, visible minority group","Sex unknown","Number","223","units","0","v1331435729","2.1.4.4","1","","","","0"
+"2021/2022","Alberta","2016A000248","Total custodial admissions
+","Total, visible minority group","Total, sex","Number","223","units","0","v1331435730","2.2.1.1","391","","","","0"
+"2021/2022","Alberta","2016A000248","Total custodial admissions
+","Total, visible minority group","Males","Number","223","units","0","v1331435731","2.2.1.2","322","","","","0"
+"2021/2022","Alberta","2016A000248","Total custodial admissions
+","Total, visible minority group","Females","Number","223","units","0","v1331435732","2.2.1.3","69","","","","0"
+"2021/2022","Alberta","2016A000248","Total custodial admissions
+","Total, visible minority group","Sex unknown","Number","223","units","0","v1331435733","2.2.1.4","0","","","","0"
+"2021/2022","Alberta","2016A000248","Total custodial admissions
+","Visible minority","Total, sex","Number","223","units","0","v1331435734","2.2.2.1","103","","","","0"
+"2021/2022","Alberta","2016A000248","Total custodial admissions
+","Visible minority","Males","Number","223","units","0","v1331435735","2.2.2.2","88","","","","0"
+"2021/2022","Alberta","2016A000248","Total custodial admissions
+","Visible minority","Females","Number","223","units","0","v1331435736","2.2.2.3","15","","","","0"
+"2021/2022","Alberta","2016A000248","Total custodial admissions
+","Visible minority","Sex unknown","Number","223","units","0","v1331435737","2.2.2.4","0","","","","0"
+"2021/2022","Alberta","2016A000248","Total custodial admissions
+","Not a visible minority","Total, sex","Number","223","units","0","v1331435738","2.2.3.1","275","","","","0"
+"2021/2022","Alberta","2016A000248","Total custodial admissions
+","Not a visible minority","Males","Number","223","units","0","v1331435739","2.2.3.2","223","","","","0"
+"2021/2022","Alberta","2016A000248","Total custodial admissions
+","Not a visible minority","Females","Number","223","units","0","v1331435740","2.2.3.3","52","","","","0"
+"2021/2022","Alberta","2016A000248","Total custodial admissions
+","Not a visible minority","Sex unknown","Number","223","units","0","v1331435741","2.2.3.4","0","","","","0"
+"2021/2022","Alberta","2016A000248","Total custodial admissions
+","Unknown, visible minority group","Total, sex","Number","223","units","0","v1331435742","2.2.4.1","13","","","","0"
+"2021/2022","Alberta","2016A000248","Total custodial admissions
+","Unknown, visible minority group","Males","Number","223","units","0","v1331435743","2.2.4.2","11","","","","0"
+"2021/2022","Alberta","2016A000248","Total custodial admissions
+","Unknown, visible minority group","Females","Number","223","units","0","v1331435744","2.2.4.3","2","","","","0"
+"2021/2022","Alberta","2016A000248","Total custodial admissions
+","Unknown, visible minority group","Sex unknown","Number","223","units","0","v1331435745","2.2.4.4","0","","","","0"
+"2021/2022","Alberta","2016A000248","Total community admissions","Total, visible minority group","Total, sex","Number","223","units","0","v1331435746","2.3.1.1","1666","","","","0"
+"2021/2022","Alberta","2016A000248","Total community admissions","Total, visible minority group","Males","Number","223","units","0","v1331435747","2.3.1.2","1259","","","","0"
+"2021/2022","Alberta","2016A000248","Total community admissions","Total, visible minority group","Females","Number","223","units","0","v1331435748","2.3.1.3","403","","","","0"
+"2021/2022","Alberta","2016A000248","Total community admissions","Total, visible minority group","Sex unknown","Number","223","units","0","v1331435749","2.3.1.4","4","","","","0"
+"2021/2022","Alberta","2016A000248","Total community admissions","Visible minority","Total, sex","Number","223","units","0","v1331435750","2.3.2.1","243","","","","0"
+"2021/2022","Alberta","2016A000248","Total community admissions","Visible minority","Males","Number","223","units","0","v1331435751","2.3.2.2","202","","","","0"
+"2021/2022","Alberta","2016A000248","Total community admissions","Visible minority","Females","Number","223","units","0","v1331435752","2.3.2.3","39","","","","0"
+"2021/2022","Alberta","2016A000248","Total community admissions","Visible minority","Sex unknown","Number","223","units","0","v1331435753","2.3.2.4","2","","","","0"
+"2021/2022","Alberta","2016A000248","Total community admissions","Not a visible minority","Total, sex","Number","223","units","0","v1331435754","2.3.3.1","1151","","","","0"
+"2021/2022","Alberta","2016A000248","Total community admissions","Not a visible minority","Males","Number","223","units","0","v1331435755","2.3.3.2","869","","","","0"
+"2021/2022","Alberta","2016A000248","Total community admissions","Not a visible minority","Females","Number","223","units","0","v1331435756","2.3.3.3","281","","","","0"
+"2021/2022","Alberta","2016A000248","Total community admissions","Not a visible minority","Sex unknown","Number","223","units","0","v1331435757","2.3.3.4","1","","","","0"
+"2021/2022","Alberta","2016A000248","Total community admissions","Unknown, visible minority group","Total, sex","Number","223","units","0","v1331435758","2.3.4.1","272","","","","0"
+"2021/2022","Alberta","2016A000248","Total community admissions","Unknown, visible minority group","Males","Number","223","units","0","v1331435759","2.3.4.2","188","","","","0"
+"2021/2022","Alberta","2016A000248","Total community admissions","Unknown, visible minority group","Females","Number","223","units","0","v1331435760","2.3.4.3","83","","","","0"
+"2021/2022","Alberta","2016A000248","Total community admissions","Unknown, visible minority group","Sex unknown","Number","223","units","0","v1331435761","2.3.4.4","1","","","","0"
+"2021/2022","British Columbia","2016A000259","Total correctional services admissions","Total, visible minority group","Total, sex","Number","223","units","0","v1331435762","3.1.1.1","1461","","","","0"
+"2021/2022","British Columbia","2016A000259","Total correctional services admissions","Total, visible minority group","Males","Number","223","units","0","v1331435763","3.1.1.2","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total correctional services admissions","Total, visible minority group","Females","Number","223","units","0","v1331435764","3.1.1.3","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total correctional services admissions","Total, visible minority group","Sex unknown","Number","223","units","0","v1331435765","3.1.1.4","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total correctional services admissions","Visible minority","Total, sex","Number","223","units","0","v1331435766","3.1.2.1","215","","","","0"
+"2021/2022","British Columbia","2016A000259","Total correctional services admissions","Visible minority","Males","Number","223","units","0","v1331435767","3.1.2.2","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total correctional services admissions","Visible minority","Females","Number","223","units","0","v1331435768","3.1.2.3","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total correctional services admissions","Visible minority","Sex unknown","Number","223","units","0","v1331435769","3.1.2.4","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total correctional services admissions","Not a visible minority","Total, sex","Number","223","units","0","v1331435770","3.1.3.1","1225","","","","0"
+"2021/2022","British Columbia","2016A000259","Total correctional services admissions","Not a visible minority","Males","Number","223","units","0","v1331435771","3.1.3.2","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total correctional services admissions","Not a visible minority","Females","Number","223","units","0","v1331435772","3.1.3.3","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total correctional services admissions","Not a visible minority","Sex unknown","Number","223","units","0","v1331435773","3.1.3.4","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total correctional services admissions","Unknown, visible minority group","Total, sex","Number","223","units","0","v1331435774","3.1.4.1","21","","","","0"
+"2021/2022","British Columbia","2016A000259","Total correctional services admissions","Unknown, visible minority group","Males","Number","223","units","0","v1331435775","3.1.4.2","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total correctional services admissions","Unknown, visible minority group","Females","Number","223","units","0","v1331435776","3.1.4.3","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total correctional services admissions","Unknown, visible minority group","Sex unknown","Number","223","units","0","v1331435777","3.1.4.4","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total custodial admissions
+","Total, visible minority group","Total, sex","Number","223","units","0","v1331435778","3.2.1.1","158","","","","0"
+"2021/2022","British Columbia","2016A000259","Total custodial admissions
+","Total, visible minority group","Males","Number","223","units","0","v1331435779","3.2.1.2","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total custodial admissions
+","Total, visible minority group","Females","Number","223","units","0","v1331435780","3.2.1.3","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total custodial admissions
+","Total, visible minority group","Sex unknown","Number","223","units","0","v1331435781","3.2.1.4","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total custodial admissions
+","Visible minority","Total, sex","Number","223","units","0","v1331435782","3.2.2.1","36","","","","0"
+"2021/2022","British Columbia","2016A000259","Total custodial admissions
+","Visible minority","Males","Number","223","units","0","v1331435783","3.2.2.2","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total custodial admissions
+","Visible minority","Females","Number","223","units","0","v1331435784","3.2.2.3","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total custodial admissions
+","Visible minority","Sex unknown","Number","223","units","0","v1331435785","3.2.2.4","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total custodial admissions
+","Not a visible minority","Total, sex","Number","223","units","0","v1331435786","3.2.3.1","121","","","","0"
+"2021/2022","British Columbia","2016A000259","Total custodial admissions
+","Not a visible minority","Males","Number","223","units","0","v1331435787","3.2.3.2","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total custodial admissions
+","Not a visible minority","Females","Number","223","units","0","v1331435788","3.2.3.3","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total custodial admissions
+","Not a visible minority","Sex unknown","Number","223","units","0","v1331435789","3.2.3.4","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total custodial admissions
+","Unknown, visible minority group","Total, sex","Number","223","units","0","v1331435790","3.2.4.1","1","","","","0"
+"2021/2022","British Columbia","2016A000259","Total custodial admissions
+","Unknown, visible minority group","Males","Number","223","units","0","v1331435791","3.2.4.2","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total custodial admissions
+","Unknown, visible minority group","Females","Number","223","units","0","v1331435792","3.2.4.3","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total custodial admissions
+","Unknown, visible minority group","Sex unknown","Number","223","units","0","v1331435793","3.2.4.4","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total community admissions","Total, visible minority group","Total, sex","Number","223","units","0","v1331435794","3.3.1.1","1303","","","","0"
+"2021/2022","British Columbia","2016A000259","Total community admissions","Total, visible minority group","Males","Number","223","units","0","v1331435795","3.3.1.2","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total community admissions","Total, visible minority group","Females","Number","223","units","0","v1331435796","3.3.1.3","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total community admissions","Total, visible minority group","Sex unknown","Number","223","units","0","v1331435797","3.3.1.4","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total community admissions","Visible minority","Total, sex","Number","223","units","0","v1331435798","3.3.2.1","179","","","","0"
+"2021/2022","British Columbia","2016A000259","Total community admissions","Visible minority","Males","Number","223","units","0","v1331435799","3.3.2.2","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total community admissions","Visible minority","Females","Number","223","units","0","v1331435800","3.3.2.3","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total community admissions","Visible minority","Sex unknown","Number","223","units","0","v1331435801","3.3.2.4","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total community admissions","Not a visible minority","Total, sex","Number","223","units","0","v1331435802","3.3.3.1","1104","","","","0"
+"2021/2022","British Columbia","2016A000259","Total community admissions","Not a visible minority","Males","Number","223","units","0","v1331435803","3.3.3.2","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total community admissions","Not a visible minority","Females","Number","223","units","0","v1331435804","3.3.3.3","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total community admissions","Not a visible minority","Sex unknown","Number","223","units","0","v1331435805","3.3.3.4","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total community admissions","Unknown, visible minority group","Total, sex","Number","223","units","0","v1331435806","3.3.4.1","20","","","","0"
+"2021/2022","British Columbia","2016A000259","Total community admissions","Unknown, visible minority group","Males","Number","223","units","0","v1331435807","3.3.4.2","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total community admissions","Unknown, visible minority group","Females","Number","223","units","0","v1331435808","3.3.4.3","","x","","","0"
+"2021/2022","British Columbia","2016A000259","Total community admissions","Unknown, visible minority group","Sex unknown","Number","223","units","0","v1331435809","3.3.4.4","","x","","","0"
