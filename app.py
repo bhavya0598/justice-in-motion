@@ -7,12 +7,13 @@ from dash import Dash, html, dcc
 import dash_bootstrap_components as dbc
 from dash_bootstrap_templates import load_figure_template
 import plotly.express as px
-from data_youth import initial_entry_status_pie_chart, plot_actual_in_counts
+from data_youth import youth_in_correctional_services, youth_in_correctional_services_trend ,youth_commencing_correctional_services, youth_admissions_and_releases_to_correctional_services
 
 df = px.data.gapminder()
-# fig1 = initial_entry_status_pie_chart(1999, 2001, ['Alberta'])
-fig2 = plot_actual_in_counts(2018,2022)
-figures = [fig2]
+# fig1 = youth_custodial_and_community_supervision_trend('Alberta')
+fig2 = youth_commencing_correctional_services(1999, 2022,['Alberta', 'Nunavut'])
+fig3= youth_admissions_and_releases_to_correctional_services(1999,2005,['Alberta','Manitoba'])
+figures = [fig3]
 
 templates = [
     "bootstrap",
