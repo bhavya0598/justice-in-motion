@@ -10,7 +10,7 @@ import plotly.express as px
 
 def plot_actual_in_counts(start_year, end_year, geo=None):
     """Pie chart of Custodial and community supervision actual-in count with geo and date filter"""
-    df = pd.read_csv("35100003.csv")
+    df = pd.read_csv("./dataset/35100003.csv")
     df = df[(df['REF_DATE'].str[:4].astype(int) >= start_year) & (df['REF_DATE'].str[5:].astype(int) <= end_year)]
     
     if geo is not None:
@@ -32,7 +32,7 @@ def plot_actual_in_counts(start_year, end_year, geo=None):
 
 def initial_entry_status_pie_chart(start_year, end_year, geos):
     """Pie chart of correctional services, by initial entry status with geo and date filter"""
-    df = pd.read_csv("35100004.csv")
+    df = pd.read_csv("./dataset/35100004.csv")
 
     df = df[['REF_DATE', 'GEO', 'Initial entry status', 'VALUE']]
 
