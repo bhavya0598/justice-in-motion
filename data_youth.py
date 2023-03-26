@@ -223,3 +223,72 @@ def youth_gender_trends_and_pie(start_year, end_year, geos=None):
     return fig
 
 # Usage: youth_gender_trends_and_pie(1997,2005,['Alberta']) OR youth_gender_trends_and_pie(1997,2005) - for all locations
+
+def youth_age_by_geo(start_year, end_year, geos=None):
+    """Admissions to correctional services by age"""
+    df = pd.read_csv("./dataset/35100006.csv",low_memory=False)
+    df['GEO'] = df['GEO'].replace(['Ontario, Ministry of Children and Youth Services (MCYS)',
+                               'Ontario, Ministry of Community Safety and Correctional Services (MCSCS)'],
+                              'Ontario')
+    
+    df= df[(df['REF_DATE'].str[:4].astype(int) >= start_year) & (df['REF_DATE'].str[5:].astype(int) <= end_year)]
+    if geos is not None:
+        df= df[df['GEO'].isin(geos)]
+        
+    df_filtered = df[(df['Correctional services'] == 'Total correctional services') & 
+                     (df['Sex'] == 'Total, admissions by sex')]
+    df_filtered = df_filtered[~df_filtered['Age at time of admission'].isin(['Total, admissions by age'])]
+    
+    grouped = df_filtered.groupby(['GEO', 'Age at time of admission']).agg({'VALUE': 'sum'}).reset_index()
+    
+    fig = px.bar(grouped, x='GEO', y='VALUE', color='Age at time of admission',
+                 labels={'VALUE': 'Number of admissions'})
+    
+    fig.update_layout(title=f"Age at time of admission to Correctional Services ({start_year}-{end_year})")
+    return fig
+
+#Usage: youth_age_by_geo(1999,2022) or youth_age_by_geo(1999,2022,['Ontario','Alberta','Manitoba','Provinces and territories'])
+
+def youth_indigenous_vs_nonindigenous(start_year, end_year, geos=None):
+    df = pd.read_csv("./dataset/35100007.csv", low_memory=False)
+
+    # Filter data based on the input parameters
+    df = df[(df['REF_DATE'].str[:4].astype(int) >= start_year) & (df['REF_DATE'].str[5:].astype(int) <= end_year)]
+    
+    if geos is not None:
+        df = df[df['GEO'].isin(geos)]
+        
+    df['GEO'] = df['GEO'].replace(['Ontario, Ministry of Children and Youth Services (MCYS)',
+                               'Ontario, Ministry of Community Safety and Correctional Services (MCSCS)'],
+                              'Ontario')
+        
+    df = df[df['Sex'] == 'Total, admissions by sex']
+    df = df[df['Correctional services'] == 'Total correctional services']
+    df = df[df['Indigenous identity'].isin(['Indigenous identity', 'Non-Indigenous identity'])]
+
+    # Pivot the data to create separate columns for Indigenous and Non-Indigenous admissions
+    df = df.pivot_table(index=['GEO'], columns=['Indigenous identity'], values=['VALUE'], aggfunc=sum)
+
+    # Rename the columns and reset the index
+    df.columns = [' '.join(col).strip() for col in df.columns.values]
+    df = df.reset_index()
+
+    # Calculate the total number of admissions for each GEO
+    df['total'] = df['VALUE Indigenous identity'] + df['VALUE Non-Indigenous identity']
+    
+    # Calculate the percentage of Indigenous and Non-Indigenous admissions for each GEO
+    df['% Indigenous identity'] = (df['VALUE Indigenous identity'] / df['total']) * 100
+    df['% Non-Indigenous identity'] = (df['VALUE Non-Indigenous identity'] / df['total']) * 100
+
+    # Create the plot
+    fig = px.bar(df, x='GEO', y=['% Indigenous identity', '% Non-Indigenous identity'],
+                 labels={'value': '% of admissions', 'variable': 'Indigenous identity'},
+                 title=f"Indigenous vs Non-Indigenous Youth Admissions to Correctional Services ({start_year}-{end_year})",
+                 color_discrete_sequence=px.colors.qualitative.Pastel)
+    fig.update_layout(barmode='stack', xaxis_tickangle=-45)
+    fig.update_traces(hovertemplate="%{y:.2f}%")
+
+    return fig
+
+# Usage: youth_indigenous_vs_nonindigenous(2019, 2020, ['Ontario', 'Manitoba','Alberta'])
+# Usage: youth_indigenous_vs_nonindigenous(1999, 2005)
