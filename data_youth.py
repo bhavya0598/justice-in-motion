@@ -18,15 +18,16 @@ import plotly.graph_objs as go
 # TODO: modify to Add callbacks in functions: ideas: year range selector; dropdown or map for geo and radio buttons for other data (like supervision-type)
 
 
-def youth_in_correctional_services(start_year, end_year, supervision_type='actual-in', geo=None):
-    """Pie chart of Custodial and community supervision actual-in count/community supervision count with geo and date filter"""
+def youth_in_correctional_services(start_year, end_year, supervision_type='actual-in', geos=None):
+    """Pie chart of Custodial and community supervision actual-in count/community supervision count with GEOs and date filter"""
     df = pd.read_csv("./dataset/youth/35100003.csv")
     df = df[(df['REF_DATE'].str[:4].astype(int) >= start_year) & (df['REF_DATE'].str[5:].astype(int) <= end_year)]
     
-    if geo is not None:
-        df = df[df['GEO'].isin(geo)]
+    if geos is not None:
+        df = df[df['GEO'].isin(geos)]
     else:
-        pass
+        geos=['All Provinces and territories']
+        df = df[~df['GEO'].isin(['Provinces and Territories'])]
 
     df_actual_in = df[df["Custodial and community supervision"].str.contains(supervision_type)]
 
@@ -35,6 +36,10 @@ def youth_in_correctional_services(start_year, end_year, supervision_type='actua
                  labels={"Custodial and community supervision": "", "VALUE": "Count", "REF_DATE": "Year"},
                  hover_data={"Custodial and community supervision": False, "REF_DATE": True, "VALUE": True},
                  category_orders={"Custodial and community supervision": sorted(df_actual_in["REF_DATE"].unique())},)
+    fig.update_layout(annotations=[go.layout.Annotation(x=0.5, y=1.25, text=f"Selected Location: {','.join(geos)}", 
+                                                      showarrow=False, xref='paper', yref='paper', 
+                                                      font=dict(size=14))])
+
     return fig
 
 # Usage: youth_in_correctional_services(start_year=2015, end_year=2020, supervision_type="actual-in", geo=["Alberta"]) or youth_in_correctional_services(start_year=2015, end_year=2020, supervision_type="community supervision")
@@ -104,6 +109,13 @@ def youth_commencing_correctional_services(start_year, end_year, geos=None):
     df= df[(df['REF_DATE'].str[:4].astype(int) >= start_year) & (df['REF_DATE'].str[5:].astype(int) <= end_year)]
     if geos is not None:
         df= df[df['GEO'].isin(geos)]
+    else:
+        geos=['All Provinces and territories']
+        df = df[~df['GEO'].isin(['Provinces and territories'])]
+
+    df['GEO'] = df['GEO'].replace(['Ontario, Ministry of Children and Youth Services (MCYS)',
+                               'Ontario, Ministry of Community Safety and Correctional Services (MCSCS)'],
+                              'Ontario')
 
     # Filter relevant data for pie chart
     relevant_statuses_pie = ['Pre-trial detention', 'Secure custody', 
@@ -138,6 +150,11 @@ def youth_commencing_correctional_services(start_year, end_year, geos=None):
     fig.add_trace(fig_pie.data[0], row=1, col=1)
     fig.add_trace(fig_bar.data[0], row=1, col=2)
 
+    fig.update_layout(title_text=f"Youth commencing correctional services, by initial entry status ({start_year} to {end_year})")
+    fig.update_layout(annotations=[go.layout.Annotation(x=0.5, y=1, text=f"Selected Location: {','.join(geos)}", 
+                                                      showarrow=False, xref='paper', yref='paper', 
+                                                      font=dict(size=14))])
+
     return fig
 
 #Usage: youth_commencing_correctional_services(1999, 2022) OR youth_commencing_correctional_services(1999, 2022,['Ontario','Alberta'])
@@ -150,6 +167,10 @@ def youth_admissions_and_releases_to_correctional_services(start_year, end_year,
     
     if geos is not None:
         df = df[df['GEO'].isin(geos)]
+    else:
+        geos=['All Provinces and territories']
+        df = df[~df['GEO'].isin(['Provinces and territories'])]
+
     
     # Filter the data based on 'Youth admissions' and 'Youth releases' only
     df = df[df['Admissions and releases'].isin(['Youth admissions', 'Youth releases'])]
@@ -171,9 +192,12 @@ def youth_admissions_and_releases_to_correctional_services(start_year, end_year,
                  labels={'variable': 'Admission/Release', 'value': 'Number of Youth'})
     
     # Set the plot title and axis labels
-    fig.update_layout(title=f'Youth Admissions and Releases to Correctional Service from {start_year} to {end_year}', 
+    fig.update_layout(title=f'Youth Admissions and Releases to Correctional Service from ({start_year} to {end_year})', 
                       xaxis_title='Correctional Service Category', yaxis_title='Number of Youth', 
                       barmode='group')
+    fig.update_layout(annotations=[go.layout.Annotation(x=0.5, y=1.1, text=f"Selected Location: {','.join(geos)}", 
+                                                      showarrow=False, xref='paper', yref='paper', 
+                                                      font=dict(size=14))])
 
     return fig
 
@@ -187,6 +211,9 @@ def youth_gender_trends_and_pie(start_year, end_year, geos=None):
         df= df[df['GEO'].isin(geos)]
     else:
         df= df[df['GEO'] == 'Provinces and territories']
+
+    colors = ['blue', 'red', 'green']
+    
         
     # filter the dataframe for the required values
     df_filtered = df[(df['Correctional services'] == 'Total correctional services') & 
@@ -200,9 +227,9 @@ def youth_gender_trends_and_pie(start_year, end_year, geos=None):
 
     # create the gender trend plot
     fig1 = go.Figure()
-    fig1.add_trace(go.Scatter(x=df_pivot.index, y=df_pivot['Males'], name='Males'))
-    fig1.add_trace(go.Scatter(x=df_pivot.index, y=df_pivot['Females'], name='Females'))
-    fig1.add_trace(go.Scatter(x=df_pivot.index, y=df_pivot['Total, admissions by sex'], name='Total'))
+    fig1.add_trace(go.Scatter(x=df_pivot.index, y=df_pivot['Males'], name='Males',line_color='red'))
+    fig1.add_trace(go.Scatter(x=df_pivot.index, y=df_pivot['Females'], name='Females',line_color='green'))
+    fig1.add_trace(go.Scatter(x=df_pivot.index, y=df_pivot['Total, admissions by sex'], name='Total',line_color='blue'))
     fig1.update_layout(title='Gender Trends for Total Correctional Services',
                       xaxis_title='Year',
                       yaxis_title='Number of Admissions')
