@@ -11,15 +11,13 @@ import data_youth
 
 df = px.data.gapminder()
 # fig1 = youth_custodial_and_community_supervision_trend('Alberta')
-fig2 = data_youth.youth_commencing_correctional_services(
-    1999, 2022, ["Alberta", "Nunavut"]
-)
-fig3 = data_youth.youth_admissions_and_releases_to_correctional_services(
-    1999, 2005, ["Alberta", "Manitoba"]
-)
-fig4 = data_youth.youth_in_correctional_services_trend_3d("Incarceration")
-fig5 = data_youth.youth_gender_trends_and_pie(1997, 2005)
-figures = [fig5]
+fig2 = data_youth.youth_commencing_correctional_services(1999, 2022,['Alberta', 'Nunavut'])
+fig3= data_youth.youth_admissions_and_releases_to_correctional_services(1999,2005,['Alberta','Manitoba'])
+fig4 = data_youth.youth_in_correctional_services_trend_3d('Incarceration')
+fig5 = data_youth.youth_gender_trends_and_pie(1997,2005)
+fig6 = data_youth.youth_age_by_geo(1999,2022,['Ontario','Alberta','Manitoba','Provinces and territories'])
+fig7 = data_youth.youth_indigenous_vs_nonindigenous(1999, 2005)
+figures = [fig7]
 
 templates = [
     "bootstrap",
