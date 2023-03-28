@@ -20,7 +20,7 @@ import plotly.graph_objs as go
 
 def youth_in_correctional_services(start_year, end_year, supervision_type='actual-in', geo=None):
     """Pie chart of Custodial and community supervision actual-in count/community supervision count with geo and date filter"""
-    df = pd.read_csv("./dataset/35100003.csv")
+    df = pd.read_csv("./dataset/youth/35100003.csv")
     df = df[(df['REF_DATE'].str[:4].astype(int) >= start_year) & (df['REF_DATE'].str[5:].astype(int) <= end_year)]
     
     if geo is not None:
@@ -41,7 +41,7 @@ def youth_in_correctional_services(start_year, end_year, supervision_type='actua
 
 def youth_in_correctional_services_trend(geo):
     """Line chart of Probation and Incarceration rate with geo and date filter"""
-    data = pd.read_csv("./dataset/35100003.csv")
+    data = pd.read_csv("./dataset/youth/35100003.csv")
     filtered_data = data[(data['GEO'] == geo) & 
                          ((data['Custodial and community supervision'] == 'Incarceration rates per 10,000 young persons') |
                           (data['Custodial and community supervision'] == 'Probation rate per 10,000 young persons'))]
@@ -57,7 +57,7 @@ def youth_in_correctional_services_trend(geo):
 
 def youth_in_correctional_services_trend_3d(rate_type='Incarceration',geos=None):
     """3D Line chart of Incarceration or Probation rate with geo and date filter"""
-    data = pd.read_csv("./dataset/35100003.csv")
+    data = pd.read_csv("./dataset/youth/35100003.csv")
 
     # Filter data for the specified rate type
     if rate_type == 'Incarceration':
@@ -100,7 +100,7 @@ def youth_commencing_correctional_services(start_year, end_year, geos=None):
     for youth commencing correctional services in the specified time period and geographic regions.
     """
     # Load dataset
-    df = pd.read_csv("./dataset/35100004.csv")
+    df = pd.read_csv("./dataset/youth/35100004.csv")
     df= df[(df['REF_DATE'].str[:4].astype(int) >= start_year) & (df['REF_DATE'].str[5:].astype(int) <= end_year)]
     if geos is not None:
         df= df[df['GEO'].isin(geos)]
@@ -146,7 +146,7 @@ def youth_commencing_correctional_services(start_year, end_year, geos=None):
 def youth_admissions_and_releases_to_correctional_services(start_year, end_year, geos=None):
     """ Comparison chart for youth admission and release to correctional services """
     # Read the data
-    df = pd.read_csv("./dataset/35100005.csv")
+    df = pd.read_csv("./dataset/youth/35100005.csv")
     
     if geos is not None:
         df = df[df['GEO'].isin(geos)]
@@ -181,7 +181,7 @@ def youth_admissions_and_releases_to_correctional_services(start_year, end_year,
 
 def youth_gender_trends_and_pie(start_year, end_year, geos=None):
     '''Admissions to correctional services by gender (trend and distribution) ''' 
-    df = pd.read_csv("./dataset/35100006.csv",low_memory=False)
+    df = pd.read_csv("./dataset/youth/35100006.csv",low_memory=False)
     df= df[(df['REF_DATE'].str[:4].astype(int) >= start_year) & (df['REF_DATE'].str[5:].astype(int) <= end_year)]
     if geos is not None:
         df= df[df['GEO'].isin(geos)]
@@ -226,7 +226,7 @@ def youth_gender_trends_and_pie(start_year, end_year, geos=None):
 
 def youth_age_by_geo(start_year, end_year, geos=None):
     """Admissions to correctional services by age"""
-    df = pd.read_csv("./dataset/35100006.csv",low_memory=False)
+    df = pd.read_csv("./dataset/youth/35100006.csv",low_memory=False)
     df['GEO'] = df['GEO'].replace(['Ontario, Ministry of Children and Youth Services (MCYS)',
                                'Ontario, Ministry of Community Safety and Correctional Services (MCSCS)'],
                               'Ontario')
@@ -250,7 +250,7 @@ def youth_age_by_geo(start_year, end_year, geos=None):
 #Usage: youth_age_by_geo(1999,2022) or youth_age_by_geo(1999,2022,['Ontario','Alberta','Manitoba','Provinces and territories'])
 
 def youth_indigenous_vs_nonindigenous(start_year, end_year, geos=None):
-    df = pd.read_csv("./dataset/35100007.csv", low_memory=False)
+    df = pd.read_csv("./dataset/youth/35100007.csv", low_memory=False)
 
     # Filter data based on the input parameters
     df = df[(df['REF_DATE'].str[:4].astype(int) >= start_year) & (df['REF_DATE'].str[5:].astype(int) <= end_year)]
