@@ -23,43 +23,52 @@ def adult_admissions_3dtrend(start_year, end_year, geos=None):
 # Usage: adult_admissions_3dtrend(2000,2010)
 
 def adult_custody_admissions_age_group(start_year, end_year, geos=None):
-    
+
     df = pd.read_csv("./dataset/adult/35100017.csv")
     df = df[(df['REF_DATE'].str[:4].astype(int) >= start_year) & (df['REF_DATE'].str[5:].astype(int) <= end_year)]
-    
+    df = df[~df['Age group'].isin(['Median age on admission'])]
+
     if geos is not None:
         df = df[df['GEO'].isin(geos)] # example goes: ['Manitoba','Ontario','Alberta']
     else:
-        geos=['Provinces and territories']
+        geos=['All Provinces and territories']
         df = df[df['GEO'] == 'Provinces and territories']
-        
+
     # Filter the data to only include the relevant Custodial admissions and GEO values
     df_filtered = df[df['Custodial admissions'] == 'Total, custodial admissions']
     grouped = df_filtered.groupby(['GEO', 'Age group']).agg({'VALUE': 'sum'}).reset_index()
-    # print(grouped)
-    fig1 = go.Figure([go.Bar(x=grouped['Age group'], y=grouped['VALUE'], 
-                          customdata=grouped['GEO'],name='GEO')])
 
-    fig1.update_traces(hovertemplate='<br>'.join(['Age group: %{x}', 'VALUE: %{y}', 'GEO: %{customdata}']))
-    
+    # Create the bar chart using px.bar
+    fig1 = px.bar(grouped, x='Age group', y='VALUE', color='GEO', barmode='stack',color_discrete_sequence=px.colors.qualitative.Pastel)
+
+    fig1.update_layout(title='Adult admissions to correctional services by age group')
+
     # Filter the data to only include the relevant Custodial admissions values
     df_filtered = df[df['Custodial admissions'].isin(['Sentenced', 'Remand', 'Other custodial statuses'])]
-    
+
     # Group the data by GEO and Custodial admissions and sum the values
     df_grouped = df_filtered[df_filtered['Age group'] != 'Total, custodial admissions by age group'] \
                     .groupby(['GEO', 'Custodial admissions'])['VALUE'].sum().reset_index()
-    
+
     # Create a pie chart of the Custodial admissions for Provinces and territories
-    fig2 = go.Figure([go.Pie(labels=df_grouped[df_grouped['GEO'].isin(geos)]['Custodial admissions'],
-                              values=df_grouped[df_grouped['GEO'].isin(geos)]['VALUE'])])
+    fig2 = go.Figure([go.Pie(labels=df_grouped['Custodial admissions'], values=df_grouped['VALUE'])])
     fig2.update_layout(title='Custodial admissions for Provinces and territories')
-    
+
     # Create the subplot
     fig = make_subplots(rows=1, cols=2, specs=[[{'type': 'bar'}, {'type': 'pie'}]])
-    fig.add_trace(fig1.data[0], row=1, col=1)
-    fig.add_trace(fig2.data[0], row=1, col=2)
-    fig.update_layout(title=f'Adult admissions to correctional services by age group, ({start_year} to {end_year}) for {geos}')
+
+    for trace in fig1.data:
+        fig.add_trace(trace, 1, 1)
+    for trace in fig2.data:
+        fig.add_trace(trace, 1, 2)
+
     
+    fig.update_layout(title=f'Adult admissions to correctional services by age group, ({start_year} to {end_year})')
+    fig.update_layout(barmode="stack")
+    fig.update_layout(annotations=[go.layout.Annotation(x=0.5, y=1.15, text=f"Selected: {','.join(geos)}",
+                                                      showarrow=False, xref='paper', yref='paper',
+                                                      font=dict(size=14))])
+
     return fig
 
 #Usage: adult_custody_admissions_age_group(2000,2005)
@@ -74,7 +83,7 @@ def adult_custody_gender_heatmap(sex, start_year, end_year, geos=None):
     df = df[df['Sex'] == sex]
     df = df[(df['REF_DATE'].str[:4].astype(int) >= start_year) & (df['REF_DATE'].str[:4].astype(int) <= end_year)]
     fig = px.density_heatmap(df, x='REF_DATE', y='GEO', z='VALUE', nbinsx=len(df['REF_DATE'].unique()), nbinsy=len(df['GEO'].unique()), 
-                             title=f'Adult custody admissions by {sex.lower()}',text_auto=True)
+                             title=f'{sex} Adult custody admissions',text_auto=True)
     fig.update_xaxes(title='Year')
     fig.update_yaxes(title='Geography')
     fig.update_layout(height=600, width=800)
