@@ -17,8 +17,13 @@ from dash.dependencies import Input, Output, State
 from controls import geo_list, year_list
 
 df = px.data.gapminder()
-geos = geo_list()
-alberta = geos[0]
+# geos = geo_list()
+# Static list
+geos = ['All Provinces and territories','Alberta',  'British Columbia', 
+              'Manitoba', 'New Brunswick', 'Newfoundland and Labrador', 'Northwest Territories', 
+              'Northwest Territories including Nunavut', 'Nova Scotia', 'Nunavut', 'Ontario', 
+              'Prince Edward Island', 'Quebec', 'Saskatchewan', 'Yukon']
+allProvinces = geos[0]
 years = year_list()
 
 # stylesheet with the .dbc class
@@ -60,7 +65,7 @@ checklist = html.Div(
         dbc.Checklist(
             id="provinces",
             options=[{"label": i, "value": i} for i in geos],
-            value=[alberta],
+            value=[allProvinces],
             inline=False,
         ),
     ],
@@ -210,7 +215,7 @@ def render_tab_content(active_tab, years, provinces, theme):
     stored graphs, and renders the tab content depending on what the value of
     'active_tab' is.
     """
-    print(active_tab, years, provinces, theme)
+    print('render_tab_content:',active_tab, years, provinces, theme)
     start_year = years[0]
     end_year = years[1]
     if active_tab is not None:
@@ -224,9 +229,9 @@ def render_tab_content(active_tab, years, provinces, theme):
         fig3 = data_youth.youth_admissions_and_releases_to_correctional_services(
             start_year, end_year, template_from_url(theme), provinces
         )
-        # fig5 = data_youth.youth_gender_trends_and_pie(
-        #     start_year, end_year, template_from_url(theme), provinces
-        # )
+        fig5 = data_youth.youth_gender_trends_and_pie(
+            start_year, end_year, template_from_url(theme), provinces
+        )
         fig6 = data_youth.youth_age_by_geo(
             start_year, end_year, template_from_url(theme), provinces
         )
@@ -249,6 +254,7 @@ def render_tab_content(active_tab, years, provinces, theme):
             dcc.Graph(figure=fig1, className="m-4"),
             dcc.Graph(figure=fig2, className="m-4"),
             dcc.Graph(figure=fig3, className="m-4"),
+            dcc.Graph(figure=fig5, className="m-4"),
             radio,
             dcc.Graph(id="fig4", className="m-4"),
             dcc.Graph(figure=fig6, className="m-4"),
