@@ -1,14 +1,14 @@
 ﻿REF_DATE,GEO,Custodial and community admissions,VALUE
-2000/2001,Provinces and territories,Total custodial admissions,201357
-2000/2001,Provinces and territories,Sentenced,66069
-2000/2001,Provinces and territories,Remand,110387
-2000/2001,Provinces and territories,Other custodial statuses,24901
-2000/2001,Provinces and territories,Total community admissions,167204
-2000/2001,Provinces and territories,Probation and conditional sentences,99023
-2000/2001,Provinces and territories,Probation,81939
-2000/2001,Provinces and territories,Conditional sentence,17084
-2000/2001,Provinces and territories,Other community programs,68181
-2000/2001,Provinces and territories,Unknown community admissions,0
+2000/2001,All Provinces and territories,Total custodial admissions,201357
+2000/2001,All Provinces and territories,Sentenced,66069
+2000/2001,All Provinces and territories,Remand,110387
+2000/2001,All Provinces and territories,Other custodial statuses,24901
+2000/2001,All Provinces and territories,Total community admissions,167204
+2000/2001,All Provinces and territories,Probation and conditional sentences,99023
+2000/2001,All Provinces and territories,Probation,81939
+2000/2001,All Provinces and territories,Conditional sentence,17084
+2000/2001,All Provinces and territories,Other community programs,68181
+2000/2001,All Provinces and territories,Unknown community admissions,0
 2000/2001,Newfoundland and Labrador,Total custodial admissions,1332
 2000/2001,Newfoundland and Labrador,Sentenced,944
 2000/2001,Newfoundland and Labrador,Remand,388
@@ -138,16 +138,16 @@
 2000/2001,Nunavut,Conditional sentence,
 2000/2001,Nunavut,Other community programs,
 2000/2001,Nunavut,Unknown community admissions,
-2001/2002,Provinces and territories,Total custodial admissions,205885
-2001/2002,Provinces and territories,Sentenced,68087
-2001/2002,Provinces and territories,Remand,111601
-2001/2002,Provinces and territories,Other custodial statuses,26197
-2001/2002,Provinces and territories,Total community admissions,152357
-2001/2002,Provinces and territories,Probation and conditional sentences,102402
-2001/2002,Provinces and territories,Probation,83941
-2001/2002,Provinces and territories,Conditional sentence,18461
-2001/2002,Provinces and territories,Other community programs,49953
-2001/2002,Provinces and territories,Unknown community admissions,2
+2001/2002,All Provinces and territories,Total custodial admissions,205885
+2001/2002,All Provinces and territories,Sentenced,68087
+2001/2002,All Provinces and territories,Remand,111601
+2001/2002,All Provinces and territories,Other custodial statuses,26197
+2001/2002,All Provinces and territories,Total community admissions,152357
+2001/2002,All Provinces and territories,Probation and conditional sentences,102402
+2001/2002,All Provinces and territories,Probation,83941
+2001/2002,All Provinces and territories,Conditional sentence,18461
+2001/2002,All Provinces and territories,Other community programs,49953
+2001/2002,All Provinces and territories,Unknown community admissions,2
 2001/2002,Newfoundland and Labrador,Total custodial admissions,1750
 2001/2002,Newfoundland and Labrador,Sentenced,1235
 2001/2002,Newfoundland and Labrador,Remand,422
@@ -277,16 +277,16 @@
 2001/2002,Nunavut,Conditional sentence,55
 2001/2002,Nunavut,Other community programs,150
 2001/2002,Nunavut,Unknown community admissions,2
-2002/2003,Provinces and territories,Total custodial admissions,211092
-2002/2003,Provinces and territories,Sentenced,69033
-2002/2003,Provinces and territories,Remand,115521
-2002/2003,Provinces and territories,Other custodial statuses,26538
-2002/2003,Provinces and territories,Total community admissions,150843
-2002/2003,Provinces and territories,Probation and conditional sentences,101040
-2002/2003,Provinces and territories,Probation,82010
-2002/2003,Provinces and territories,Conditional sentence,19030
-2002/2003,Provinces and territories,Other community programs,49802
-2002/2003,Provinces and territories,Unknown community admissions,1
+2002/2003,All Provinces and territories,Total custodial admissions,211092
+2002/2003,All Provinces and territories,Sentenced,69033
+2002/2003,All Provinces and territories,Remand,115521
+2002/2003,All Provinces and territories,Other custodial statuses,26538
+2002/2003,All Provinces and territories,Total community admissions,150843
+2002/2003,All Provinces and territories,Probation and conditional sentences,101040
+2002/2003,All Provinces and territories,Probation,82010
+2002/2003,All Provinces and territories,Conditional sentence,19030
+2002/2003,All Provinces and territories,Other community programs,49802
+2002/2003,All Provinces and territories,Unknown community admissions,1
 2002/2003,Newfoundland and Labrador,Total custodial admissions,1675
 2002/2003,Newfoundland and Labrador,Sentenced,1148
 2002/2003,Newfoundland and Labrador,Remand,427
@@ -416,16 +416,16 @@
 2002/2003,Nunavut,Conditional sentence,95
 2002/2003,Nunavut,Other community programs,174
 2002/2003,Nunavut,Unknown community admissions,1
-2003/2004,Provinces and territories,Total custodial admissions,206403
-2003/2004,Provinces and territories,Sentenced,65632
-2003/2004,Provinces and territories,Remand,112781
-2003/2004,Provinces and territories,Other custodial statuses,27990
-2003/2004,Provinces and territories,Total community admissions,130668
-2003/2004,Provinces and territories,Probation and conditional sentences,95255
-2003/2004,Provinces and territories,Probation,76785
-2003/2004,Provinces and territories,Conditional sentence,18470
-2003/2004,Provinces and territories,Other community programs,35409
-2003/2004,Provinces and territories,Unknown community admissions,4
+2003/2004,All Provinces and territories,Total custodial admissions,206403
+2003/2004,All Provinces and territories,Sentenced,65632
+2003/2004,All Provinces and territories,Remand,112781
+2003/2004,All Provinces and territories,Other custodial statuses,27990
+2003/2004,All Provinces and territories,Total community admissions,130668
+2003/2004,All Provinces and territories,Probation and conditional sentences,95255
+2003/2004,All Provinces and territories,Probation,76785
+2003/2004,All Provinces and territories,Conditional sentence,18470
+2003/2004,All Provinces and territories,Other community programs,35409
+2003/2004,All Provinces and territories,Unknown community admissions,4
 2003/2004,Newfoundland and Labrador,Total custodial admissions,1746
 2003/2004,Newfoundland and Labrador,Sentenced,1187
 2003/2004,Newfoundland and Labrador,Remand,447
@@ -555,16 +555,16 @@
 2003/2004,Nunavut,Conditional sentence,112
 2003/2004,Nunavut,Other community programs,207
 2003/2004,Nunavut,Unknown community admissions,4
-2004/2005,Provinces and territories,Total custodial admissions,204589
-2004/2005,Provinces and territories,Sentenced,63013
-2004/2005,Provinces and territories,Remand,115430
-2004/2005,Provinces and territories,Other custodial statuses,26146
-2004/2005,Provinces and territories,Total community admissions,135375
-2004/2005,Provinces and territories,Probation and conditional sentences,98630
-2004/2005,Provinces and territories,Probation,79798
-2004/2005,Provinces and territories,Conditional sentence,18832
-2004/2005,Provinces and territories,Other community programs,36741
-2004/2005,Provinces and territories,Unknown community admissions,4
+2004/2005,All Provinces and territories,Total custodial admissions,204589
+2004/2005,All Provinces and territories,Sentenced,63013
+2004/2005,All Provinces and territories,Remand,115430
+2004/2005,All Provinces and territories,Other custodial statuses,26146
+2004/2005,All Provinces and territories,Total community admissions,135375
+2004/2005,All Provinces and territories,Probation and conditional sentences,98630
+2004/2005,All Provinces and territories,Probation,79798
+2004/2005,All Provinces and territories,Conditional sentence,18832
+2004/2005,All Provinces and territories,Other community programs,36741
+2004/2005,All Provinces and territories,Unknown community admissions,4
 2004/2005,Newfoundland and Labrador,Total custodial admissions,1680
 2004/2005,Newfoundland and Labrador,Sentenced,1085
 2004/2005,Newfoundland and Labrador,Remand,495
@@ -694,16 +694,16 @@
 2004/2005,Nunavut,Conditional sentence,72
 2004/2005,Nunavut,Other community programs,215
 2004/2005,Nunavut,Unknown community admissions,4
-2005/2006,Provinces and territories,Total custodial admissions,238448
-2005/2006,Provinces and territories,Sentenced,79773
-2005/2006,Provinces and territories,Remand,143057
-2005/2006,Provinces and territories,Other custodial statuses,15618
-2005/2006,Provinces and territories,Total community admissions,139780
-2005/2006,Provinces and territories,Probation and conditional sentences,100804
-2005/2006,Provinces and territories,Probation,82232
-2005/2006,Provinces and territories,Conditional sentence,18572
-2005/2006,Provinces and territories,Other community programs,38976
-2005/2006,Provinces and territories,Unknown community admissions,0
+2005/2006,All Provinces and territories,Total custodial admissions,238448
+2005/2006,All Provinces and territories,Sentenced,79773
+2005/2006,All Provinces and territories,Remand,143057
+2005/2006,All Provinces and territories,Other custodial statuses,15618
+2005/2006,All Provinces and territories,Total community admissions,139780
+2005/2006,All Provinces and territories,Probation and conditional sentences,100804
+2005/2006,All Provinces and territories,Probation,82232
+2005/2006,All Provinces and territories,Conditional sentence,18572
+2005/2006,All Provinces and territories,Other community programs,38976
+2005/2006,All Provinces and territories,Unknown community admissions,0
 2005/2006,Newfoundland and Labrador,Total custodial admissions,1626
 2005/2006,Newfoundland and Labrador,Sentenced,1047
 2005/2006,Newfoundland and Labrador,Remand,478
@@ -833,16 +833,16 @@
 2005/2006,Nunavut,Conditional sentence,99
 2005/2006,Nunavut,Other community programs,278
 2005/2006,Nunavut,Unknown community admissions,0
-2006/2007,Provinces and territories,Total custodial admissions,246863
-2006/2007,Provinces and territories,Sentenced,80744
-2006/2007,Provinces and territories,Remand,150399
-2006/2007,Provinces and territories,Other custodial statuses,15720
-2006/2007,Provinces and territories,Total community admissions,138132
-2006/2007,Provinces and territories,Probation and conditional sentences,99840
-2006/2007,Provinces and territories,Probation,82296
-2006/2007,Provinces and territories,Conditional sentence,17544
-2006/2007,Provinces and territories,Other community programs,38287
-2006/2007,Provinces and territories,Unknown community admissions,5
+2006/2007,All Provinces and territories,Total custodial admissions,246863
+2006/2007,All Provinces and territories,Sentenced,80744
+2006/2007,All Provinces and territories,Remand,150399
+2006/2007,All Provinces and territories,Other custodial statuses,15720
+2006/2007,All Provinces and territories,Total community admissions,138132
+2006/2007,All Provinces and territories,Probation and conditional sentences,99840
+2006/2007,All Provinces and territories,Probation,82296
+2006/2007,All Provinces and territories,Conditional sentence,17544
+2006/2007,All Provinces and territories,Other community programs,38287
+2006/2007,All Provinces and territories,Unknown community admissions,5
 2006/2007,Newfoundland and Labrador,Total custodial admissions,1647
 2006/2007,Newfoundland and Labrador,Sentenced,1025
 2006/2007,Newfoundland and Labrador,Remand,504
@@ -972,16 +972,16 @@
 2006/2007,Nunavut,Conditional sentence,81
 2006/2007,Nunavut,Other community programs,340
 2006/2007,Nunavut,Unknown community admissions,5
-2007/2008,Provinces and territories,Total custodial admissions,254751
-2007/2008,Provinces and territories,Sentenced,81853
-2007/2008,Provinces and territories,Remand,155808
-2007/2008,Provinces and territories,Other custodial statuses,17090
-2007/2008,Provinces and territories,Total community admissions,144635
-2007/2008,Provinces and territories,Probation and conditional sentences,101270
-2007/2008,Provinces and territories,Probation,83454
-2007/2008,Provinces and territories,Conditional sentence,17816
-2007/2008,Provinces and territories,Other community programs,43362
-2007/2008,Provinces and territories,Unknown community admissions,3
+2007/2008,All Provinces and territories,Total custodial admissions,254751
+2007/2008,All Provinces and territories,Sentenced,81853
+2007/2008,All Provinces and territories,Remand,155808
+2007/2008,All Provinces and territories,Other custodial statuses,17090
+2007/2008,All Provinces and territories,Total community admissions,144635
+2007/2008,All Provinces and territories,Probation and conditional sentences,101270
+2007/2008,All Provinces and territories,Probation,83454
+2007/2008,All Provinces and territories,Conditional sentence,17816
+2007/2008,All Provinces and territories,Other community programs,43362
+2007/2008,All Provinces and territories,Unknown community admissions,3
 2007/2008,Newfoundland and Labrador,Total custodial admissions,1677
 2007/2008,Newfoundland and Labrador,Sentenced,1009
 2007/2008,Newfoundland and Labrador,Remand,549
@@ -1111,16 +1111,16 @@
 2007/2008,Nunavut,Conditional sentence,106
 2007/2008,Nunavut,Other community programs,366
 2007/2008,Nunavut,Unknown community admissions,3
-2008/2009,Provinces and territories,Total custodial admissions,255775
-2008/2009,Provinces and territories,Sentenced,83078
-2008/2009,Provinces and territories,Remand,155160
-2008/2009,Provinces and territories,Other custodial statuses,17537
-2008/2009,Provinces and territories,Total community admissions,152346
-2008/2009,Provinces and territories,Probation and conditional sentences,104874
-2008/2009,Provinces and territories,Probation,86222
-2008/2009,Provinces and territories,Conditional sentence,18652
-2008/2009,Provinces and territories,Other community programs,47470
-2008/2009,Provinces and territories,Unknown community admissions,2
+2008/2009,All Provinces and territories,Total custodial admissions,255775
+2008/2009,All Provinces and territories,Sentenced,83078
+2008/2009,All Provinces and territories,Remand,155160
+2008/2009,All Provinces and territories,Other custodial statuses,17537
+2008/2009,All Provinces and territories,Total community admissions,152346
+2008/2009,All Provinces and territories,Probation and conditional sentences,104874
+2008/2009,All Provinces and territories,Probation,86222
+2008/2009,All Provinces and territories,Conditional sentence,18652
+2008/2009,All Provinces and territories,Other community programs,47470
+2008/2009,All Provinces and territories,Unknown community admissions,2
 2008/2009,Newfoundland and Labrador,Total custodial admissions,1655
 2008/2009,Newfoundland and Labrador,Sentenced,1015
 2008/2009,Newfoundland and Labrador,Remand,539
@@ -1250,16 +1250,16 @@
 2008/2009,Nunavut,Conditional sentence,101
 2008/2009,Nunavut,Other community programs,385
 2008/2009,Nunavut,Unknown community admissions,2
-2009/2010,Provinces and territories,Total custodial admissions,254551
-2009/2010,Provinces and territories,Sentenced,82976
-2009/2010,Provinces and territories,Remand,153185
-2009/2010,Provinces and territories,Other custodial statuses,18390
-2009/2010,Provinces and territories,Total community admissions,156217
-2009/2010,Provinces and territories,Probation and conditional sentences,108042
-2009/2010,Provinces and territories,Probation,89545
-2009/2010,Provinces and territories,Conditional sentence,18497
-2009/2010,Provinces and territories,Other community programs,48174
-2009/2010,Provinces and territories,Unknown community admissions,1
+2009/2010,All Provinces and territories,Total custodial admissions,254551
+2009/2010,All Provinces and territories,Sentenced,82976
+2009/2010,All Provinces and territories,Remand,153185
+2009/2010,All Provinces and territories,Other custodial statuses,18390
+2009/2010,All Provinces and territories,Total community admissions,156217
+2009/2010,All Provinces and territories,Probation and conditional sentences,108042
+2009/2010,All Provinces and territories,Probation,89545
+2009/2010,All Provinces and territories,Conditional sentence,18497
+2009/2010,All Provinces and territories,Other community programs,48174
+2009/2010,All Provinces and territories,Unknown community admissions,1
 2009/2010,Newfoundland and Labrador,Total custodial admissions,1978
 2009/2010,Newfoundland and Labrador,Sentenced,1154
 2009/2010,Newfoundland and Labrador,Remand,698
@@ -1389,16 +1389,16 @@
 2009/2010,Nunavut,Conditional sentence,105
 2009/2010,Nunavut,Other community programs,460
 2009/2010,Nunavut,Unknown community admissions,1
-2010/2011,Provinces and territories,Total custodial admissions,250980
-2010/2011,Provinces and territories,Sentenced,83976
-2010/2011,Provinces and territories,Remand,148455
-2010/2011,Provinces and territories,Other custodial statuses,18549
-2010/2011,Provinces and territories,Total community admissions,152562
-2010/2011,Provinces and territories,Probation and conditional sentences,105115
-2010/2011,Provinces and territories,Probation,86918
-2010/2011,Provinces and territories,Conditional sentence,18197
-2010/2011,Provinces and territories,Other community programs,47442
-2010/2011,Provinces and territories,Unknown community admissions,5
+2010/2011,All Provinces and territories,Total custodial admissions,250980
+2010/2011,All Provinces and territories,Sentenced,83976
+2010/2011,All Provinces and territories,Remand,148455
+2010/2011,All Provinces and territories,Other custodial statuses,18549
+2010/2011,All Provinces and territories,Total community admissions,152562
+2010/2011,All Provinces and territories,Probation and conditional sentences,105115
+2010/2011,All Provinces and territories,Probation,86918
+2010/2011,All Provinces and territories,Conditional sentence,18197
+2010/2011,All Provinces and territories,Other community programs,47442
+2010/2011,All Provinces and territories,Unknown community admissions,5
 2010/2011,Newfoundland and Labrador,Total custodial admissions,2030
 2010/2011,Newfoundland and Labrador,Sentenced,1253
 2010/2011,Newfoundland and Labrador,Remand,676
@@ -1528,16 +1528,16 @@
 2010/2011,Nunavut,Conditional sentence,92
 2010/2011,Nunavut,Other community programs,480
 2010/2011,Nunavut,Unknown community admissions,2
-2011/2012,Provinces and territories,Total custodial admissions,251629
-2011/2012,Provinces and territories,Sentenced,85013
-2011/2012,Provinces and territories,Remand,148135
-2011/2012,Provinces and territories,Other custodial statuses,18481
-2011/2012,Provinces and territories,Total community admissions,147486
-2011/2012,Provinces and territories,Probation and conditional sentences,101679
-2011/2012,Provinces and territories,Probation,83695
-2011/2012,Provinces and territories,Conditional sentence,17984
-2011/2012,Provinces and territories,Other community programs,45800
-2011/2012,Provinces and territories,Unknown community admissions,7
+2011/2012,All Provinces and territories,Total custodial admissions,251629
+2011/2012,All Provinces and territories,Sentenced,85013
+2011/2012,All Provinces and territories,Remand,148135
+2011/2012,All Provinces and territories,Other custodial statuses,18481
+2011/2012,All Provinces and territories,Total community admissions,147486
+2011/2012,All Provinces and territories,Probation and conditional sentences,101679
+2011/2012,All Provinces and territories,Probation,83695
+2011/2012,All Provinces and territories,Conditional sentence,17984
+2011/2012,All Provinces and territories,Other community programs,45800
+2011/2012,All Provinces and territories,Unknown community admissions,7
 2011/2012,Newfoundland and Labrador,Total custodial admissions,1909
 2011/2012,Newfoundland and Labrador,Sentenced,1209
 2011/2012,Newfoundland and Labrador,Remand,592
@@ -1667,16 +1667,16 @@
 2011/2012,Nunavut,Conditional sentence,56
 2011/2012,Nunavut,Other community programs,581
 2011/2012,Nunavut,Unknown community admissions,5
-2012/2013,Provinces and territories,Total custodial admissions,208444
-2012/2013,Provinces and territories,Sentenced,65922
-2012/2013,Provinces and territories,Remand,123736
-2012/2013,Provinces and territories,Other custodial statuses,18786
-2012/2013,Provinces and territories,Total community admissions,127124
-2012/2013,Provinces and territories,Probation and conditional sentences,88450
-2012/2013,Provinces and territories,Probation,72725
-2012/2013,Provinces and territories,Conditional sentence,15725
-2012/2013,Provinces and territories,Other community programs,38669
-2012/2013,Provinces and territories,Unknown community admissions,5
+2012/2013,All Provinces and territories,Total custodial admissions,208444
+2012/2013,All Provinces and territories,Sentenced,65922
+2012/2013,All Provinces and territories,Remand,123736
+2012/2013,All Provinces and territories,Other custodial statuses,18786
+2012/2013,All Provinces and territories,Total community admissions,127124
+2012/2013,All Provinces and territories,Probation and conditional sentences,88450
+2012/2013,All Provinces and territories,Probation,72725
+2012/2013,All Provinces and territories,Conditional sentence,15725
+2012/2013,All Provinces and territories,Other community programs,38669
+2012/2013,All Provinces and territories,Unknown community admissions,5
 2012/2013,Newfoundland and Labrador,Total custodial admissions,1896
 2012/2013,Newfoundland and Labrador,Sentenced,1110
 2012/2013,Newfoundland and Labrador,Remand,674
@@ -1806,16 +1806,16 @@
 2012/2013,Nunavut,Conditional sentence,72
 2012/2013,Nunavut,Other community programs,529
 2012/2013,Nunavut,Unknown community admissions,2
-2013/2014,Provinces and territories,Total custodial admissions,201099
-2013/2014,Provinces and territories,Sentenced,64604
-2013/2014,Provinces and territories,Remand,118512
-2013/2014,Provinces and territories,Other custodial statuses,17983
-2013/2014,Provinces and territories,Total community admissions,124850
-2013/2014,Provinces and territories,Probation and conditional sentences,85041
-2013/2014,Provinces and territories,Probation,70418
-2013/2014,Provinces and territories,Conditional sentence,14623
-2013/2014,Provinces and territories,Other community programs,39805
-2013/2014,Provinces and territories,Unknown community admissions,4
+2013/2014,All Provinces and territories,Total custodial admissions,201099
+2013/2014,All Provinces and territories,Sentenced,64604
+2013/2014,All Provinces and territories,Remand,118512
+2013/2014,All Provinces and territories,Other custodial statuses,17983
+2013/2014,All Provinces and territories,Total community admissions,124850
+2013/2014,All Provinces and territories,Probation and conditional sentences,85041
+2013/2014,All Provinces and territories,Probation,70418
+2013/2014,All Provinces and territories,Conditional sentence,14623
+2013/2014,All Provinces and territories,Other community programs,39805
+2013/2014,All Provinces and territories,Unknown community admissions,4
 2013/2014,Newfoundland and Labrador,Total custodial admissions,1901
 2013/2014,Newfoundland and Labrador,Sentenced,1085
 2013/2014,Newfoundland and Labrador,Remand,719
@@ -1945,16 +1945,16 @@
 2013/2014,Nunavut,Conditional sentence,75
 2013/2014,Nunavut,Other community programs,519
 2013/2014,Nunavut,Unknown community admissions,4
-2014/2015,Provinces and territories,Total custodial admissions,197454
-2014/2015,Provinces and territories,Sentenced,62279
-2014/2015,Provinces and territories,Remand,117211
-2014/2015,Provinces and territories,Other custodial statuses,17964
-2014/2015,Provinces and territories,Total community admissions,119487
-2014/2015,Provinces and territories,Probation and conditional sentences,78659
-2014/2015,Provinces and territories,Probation,66128
-2014/2015,Provinces and territories,Conditional sentence,12531
-2014/2015,Provinces and territories,Other community programs,40825
-2014/2015,Provinces and territories,Unknown community admissions,3
+2014/2015,All Provinces and territories,Total custodial admissions,197454
+2014/2015,All Provinces and territories,Sentenced,62279
+2014/2015,All Provinces and territories,Remand,117211
+2014/2015,All Provinces and territories,Other custodial statuses,17964
+2014/2015,All Provinces and territories,Total community admissions,119487
+2014/2015,All Provinces and territories,Probation and conditional sentences,78659
+2014/2015,All Provinces and territories,Probation,66128
+2014/2015,All Provinces and territories,Conditional sentence,12531
+2014/2015,All Provinces and territories,Other community programs,40825
+2014/2015,All Provinces and territories,Unknown community admissions,3
 2014/2015,Newfoundland and Labrador,Total custodial admissions,1981
 2014/2015,Newfoundland and Labrador,Sentenced,1131
 2014/2015,Newfoundland and Labrador,Remand,764
@@ -2084,16 +2084,16 @@
 2014/2015,Nunavut,Conditional sentence,40
 2014/2015,Nunavut,Other community programs,621
 2014/2015,Nunavut,Unknown community admissions,3
-2015/2016,Provinces and territories,Total custodial admissions,201189
-2015/2016,Provinces and territories,Sentenced,62771
-2015/2016,Provinces and territories,Remand,119625
-2015/2016,Provinces and territories,Other custodial statuses,18793
-2015/2016,Provinces and territories,Total community admissions,116885
-2015/2016,Provinces and territories,Probation and conditional sentences,76987
-2015/2016,Provinces and territories,Probation,65782
-2015/2016,Provinces and territories,Conditional sentence,11205
-2015/2016,Provinces and territories,Other community programs,39897
-2015/2016,Provinces and territories,Unknown community admissions,1
+2015/2016,All Provinces and territories,Total custodial admissions,201189
+2015/2016,All Provinces and territories,Sentenced,62771
+2015/2016,All Provinces and territories,Remand,119625
+2015/2016,All Provinces and territories,Other custodial statuses,18793
+2015/2016,All Provinces and territories,Total community admissions,116885
+2015/2016,All Provinces and territories,Probation and conditional sentences,76987
+2015/2016,All Provinces and territories,Probation,65782
+2015/2016,All Provinces and territories,Conditional sentence,11205
+2015/2016,All Provinces and territories,Other community programs,39897
+2015/2016,All Provinces and territories,Unknown community admissions,1
 2015/2016,Newfoundland and Labrador,Total custodial admissions,2030
 2015/2016,Newfoundland and Labrador,Sentenced,1038
 2015/2016,Newfoundland and Labrador,Remand,879
@@ -2223,16 +2223,16 @@
 2015/2016,Nunavut,Conditional sentence,21
 2015/2016,Nunavut,Other community programs,489
 2015/2016,Nunavut,Unknown community admissions,1
-2016/2017,Provinces and territories,Total custodial admissions,251986
-2016/2017,Provinces and territories,Sentenced,84543
-2016/2017,Provinces and territories,Remand,147348
-2016/2017,Provinces and territories,Other custodial statuses,20095
-2016/2017,Provinces and territories,Total community admissions,150794
-2016/2017,Provinces and territories,Probation and conditional sentences,89510
-2016/2017,Provinces and territories,Probation,77110
-2016/2017,Provinces and territories,Conditional sentence,12400
-2016/2017,Provinces and territories,Other community programs,61282
-2016/2017,Provinces and territories,Unknown community admissions,2
+2016/2017,All Provinces and territories,Total custodial admissions,251986
+2016/2017,All Provinces and territories,Sentenced,84543
+2016/2017,All Provinces and territories,Remand,147348
+2016/2017,All Provinces and territories,Other custodial statuses,20095
+2016/2017,All Provinces and territories,Total community admissions,150794
+2016/2017,All Provinces and territories,Probation and conditional sentences,89510
+2016/2017,All Provinces and territories,Probation,77110
+2016/2017,All Provinces and territories,Conditional sentence,12400
+2016/2017,All Provinces and territories,Other community programs,61282
+2016/2017,All Provinces and territories,Unknown community admissions,2
 2016/2017,Newfoundland and Labrador,Total custodial admissions,2050
 2016/2017,Newfoundland and Labrador,Sentenced,977
 2016/2017,Newfoundland and Labrador,Remand,981
@@ -2362,16 +2362,16 @@
 2016/2017,Nunavut,Conditional sentence,30
 2016/2017,Nunavut,Other community programs,766
 2016/2017,Nunavut,Unknown community admissions,2
-2017/2018,Provinces and territories,Total custodial admissions,243190
-2017/2018,Provinces and territories,Sentenced,80759
-2017/2018,Provinces and territories,Remand,141905
-2017/2018,Provinces and territories,Other custodial statuses,20526
-2017/2018,Provinces and territories,Total community admissions,150214
-2017/2018,Provinces and territories,Probation and conditional sentences,86786
-2017/2018,Provinces and territories,Probation,74623
-2017/2018,Provinces and territories,Conditional sentence,12163
-2017/2018,Provinces and territories,Other community programs,63427
-2017/2018,Provinces and territories,Unknown community admissions,1
+2017/2018,All Provinces and territories,Total custodial admissions,243190
+2017/2018,All Provinces and territories,Sentenced,80759
+2017/2018,All Provinces and territories,Remand,141905
+2017/2018,All Provinces and territories,Other custodial statuses,20526
+2017/2018,All Provinces and territories,Total community admissions,150214
+2017/2018,All Provinces and territories,Probation and conditional sentences,86786
+2017/2018,All Provinces and territories,Probation,74623
+2017/2018,All Provinces and territories,Conditional sentence,12163
+2017/2018,All Provinces and territories,Other community programs,63427
+2017/2018,All Provinces and territories,Unknown community admissions,1
 2017/2018,Newfoundland and Labrador,Total custodial admissions,1931
 2017/2018,Newfoundland and Labrador,Sentenced,938
 2017/2018,Newfoundland and Labrador,Remand,891
@@ -2502,16 +2502,16 @@
 2017/2018,Nunavut,Conditional sentence,50
 2017/2018,Nunavut,Other community programs,714
 2017/2018,Nunavut,Unknown community admissions,1
-2018/2019,Provinces and territories,Total custodial admissions,226048
-2018/2019,Provinces and territories,Sentenced,72312
-2018/2019,Provinces and territories,Remand,133267
-2018/2019,Provinces and territories,Other custodial statuses,20469
-2018/2019,Provinces and territories,Total community admissions,142773
-2018/2019,Provinces and territories,Probation and conditional sentences,81367
-2018/2019,Provinces and territories,Probation,70107
-2018/2019,Provinces and territories,Conditional sentence,11260
-2018/2019,Provinces and territories,Other community programs,61403
-2018/2019,Provinces and territories,Unknown community admissions,3
+2018/2019,All Provinces and territories,Total custodial admissions,226048
+2018/2019,All Provinces and territories,Sentenced,72312
+2018/2019,All Provinces and territories,Remand,133267
+2018/2019,All Provinces and territories,Other custodial statuses,20469
+2018/2019,All Provinces and territories,Total community admissions,142773
+2018/2019,All Provinces and territories,Probation and conditional sentences,81367
+2018/2019,All Provinces and territories,Probation,70107
+2018/2019,All Provinces and territories,Conditional sentence,11260
+2018/2019,All Provinces and territories,Other community programs,61403
+2018/2019,All Provinces and territories,Unknown community admissions,3
 2018/2019,Newfoundland and Labrador,Total custodial admissions,1776
 2018/2019,Newfoundland and Labrador,Sentenced,801
 2018/2019,Newfoundland and Labrador,Remand,838
@@ -2642,16 +2642,16 @@
 2018/2019,Nunavut,Conditional sentence,45
 2018/2019,Nunavut,Other community programs,767
 2018/2019,Nunavut,Unknown community admissions,3
-2019/2020,Provinces and territories,Total custodial admissions,227124
-2019/2020,Provinces and territories,Sentenced,64948
-2019/2020,Provinces and territories,Remand,127382
-2019/2020,Provinces and territories,Other custodial statuses,34794
-2019/2020,Provinces and territories,Total community admissions,133258
-2019/2020,Provinces and territories,Probation and conditional sentences,78579
-2019/2020,Provinces and territories,Probation,67573
-2019/2020,Provinces and territories,Conditional sentence,11006
-2019/2020,Provinces and territories,Other community programs,54677
-2019/2020,Provinces and territories,Unknown community admissions,2
+2019/2020,All Provinces and territories,Total custodial admissions,227124
+2019/2020,All Provinces and territories,Sentenced,64948
+2019/2020,All Provinces and territories,Remand,127382
+2019/2020,All Provinces and territories,Other custodial statuses,34794
+2019/2020,All Provinces and territories,Total community admissions,133258
+2019/2020,All Provinces and territories,Probation and conditional sentences,78579
+2019/2020,All Provinces and territories,Probation,67573
+2019/2020,All Provinces and territories,Conditional sentence,11006
+2019/2020,All Provinces and territories,Other community programs,54677
+2019/2020,All Provinces and territories,Unknown community admissions,2
 2019/2020,Newfoundland and Labrador,Total custodial admissions,1673
 2019/2020,Newfoundland and Labrador,Sentenced,652
 2019/2020,Newfoundland and Labrador,Remand,922
@@ -2782,16 +2782,16 @@
 2019/2020,Nunavut,Conditional sentence,88
 2019/2020,Nunavut,Other community programs,408
 2019/2020,Nunavut,Unknown community admissions,2
-2020/2021,Provinces and territories,Total custodial admissions,143975
-2020/2021,Provinces and territories,Sentenced,35562
-2020/2021,Provinces and territories,Remand,89643
-2020/2021,Provinces and territories,Other custodial statuses,18770
-2020/2021,Provinces and territories,Total community admissions,94174
-2020/2021,Provinces and territories,Probation and conditional sentences,56440
-2020/2021,Provinces and territories,Probation,45930
-2020/2021,Provinces and territories,Conditional sentence,10510
-2020/2021,Provinces and territories,Other community programs,37729
-2020/2021,Provinces and territories,Unknown community admissions,5
+2020/2021,All Provinces and territories,Total custodial admissions,143975
+2020/2021,All Provinces and territories,Sentenced,35562
+2020/2021,All Provinces and territories,Remand,89643
+2020/2021,All Provinces and territories,Other custodial statuses,18770
+2020/2021,All Provinces and territories,Total community admissions,94174
+2020/2021,All Provinces and territories,Probation and conditional sentences,56440
+2020/2021,All Provinces and territories,Probation,45930
+2020/2021,All Provinces and territories,Conditional sentence,10510
+2020/2021,All Provinces and territories,Other community programs,37729
+2020/2021,All Provinces and territories,Unknown community admissions,5
 2020/2021,Newfoundland and Labrador,Total custodial admissions,1390
 2020/2021,Newfoundland and Labrador,Sentenced,430
 2020/2021,Newfoundland and Labrador,Remand,864
@@ -2922,16 +2922,16 @@
 2020/2021,Nunavut,Conditional sentence,68
 2020/2021,Nunavut,Other community programs,269
 2020/2021,Nunavut,Unknown community admissions,5
-2021/2022,Provinces and territories,Total custodial admissions,149921
-2021/2022,Provinces and territories,Sentenced,37932
-2021/2022,Provinces and territories,Remand,92673
-2021/2022,Provinces and territories,Other custodial statuses,19316
-2021/2022,Provinces and territories,Total community admissions,108289
-2021/2022,Provinces and territories,Probation and conditional sentences,68184
-2021/2022,Provinces and territories,Probation,54493
-2021/2022,Provinces and territories,Conditional sentence,13691
-2021/2022,Provinces and territories,Other community programs,40105
-2021/2022,Provinces and territories,Unknown community admissions,0
+2021/2022,All Provinces and territories,Total custodial admissions,149921
+2021/2022,All Provinces and territories,Sentenced,37932
+2021/2022,All Provinces and territories,Remand,92673
+2021/2022,All Provinces and territories,Other custodial statuses,19316
+2021/2022,All Provinces and territories,Total community admissions,108289
+2021/2022,All Provinces and territories,Probation and conditional sentences,68184
+2021/2022,All Provinces and territories,Probation,54493
+2021/2022,All Provinces and territories,Conditional sentence,13691
+2021/2022,All Provinces and territories,Other community programs,40105
+2021/2022,All Provinces and territories,Unknown community admissions,0
 2021/2022,Newfoundland and Labrador,Total custodial admissions,1489
 2021/2022,Newfoundland and Labrador,Sentenced,446
 2021/2022,Newfoundland and Labrador,Remand,935

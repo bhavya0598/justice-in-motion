@@ -1,20 +1,20 @@
 ﻿REF_DATE,GEO,Custodial admissions,Sex,VALUE
-2000/2001,Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",201357
-2000/2001,Provinces and territories,"Total, custodial admissions",Male,181027
-2000/2001,Provinces and territories,"Total, custodial admissions",Female,19893
-2000/2001,Provinces and territories,"Total, custodial admissions",Sex unknown,437
-2000/2001,Provinces and territories,Sentenced,"Total, custodial admission by sex",66069
-2000/2001,Provinces and territories,Sentenced,Male,60216
-2000/2001,Provinces and territories,Sentenced,Female,5624
-2000/2001,Provinces and territories,Sentenced,Sex unknown,229
-2000/2001,Provinces and territories,Remand,"Total, custodial admission by sex",110387
-2000/2001,Provinces and territories,Remand,Male,99380
-2000/2001,Provinces and territories,Remand,Female,10802
-2000/2001,Provinces and territories,Remand,Sex unknown,205
-2000/2001,Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",24901
-2000/2001,Provinces and territories,Other custodial statuses,Male,21431
-2000/2001,Provinces and territories,Other custodial statuses,Female,3467
-2000/2001,Provinces and territories,Other custodial statuses,Sex unknown,3
+2000/2001,All Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",201357
+2000/2001,All Provinces and territories,"Total, custodial admissions",Male,181027
+2000/2001,All Provinces and territories,"Total, custodial admissions",Female,19893
+2000/2001,All Provinces and territories,"Total, custodial admissions",Sex unknown,437
+2000/2001,All Provinces and territories,Sentenced,"Total, custodial admission by sex",66069
+2000/2001,All Provinces and territories,Sentenced,Male,60216
+2000/2001,All Provinces and territories,Sentenced,Female,5624
+2000/2001,All Provinces and territories,Sentenced,Sex unknown,229
+2000/2001,All Provinces and territories,Remand,"Total, custodial admission by sex",110387
+2000/2001,All Provinces and territories,Remand,Male,99380
+2000/2001,All Provinces and territories,Remand,Female,10802
+2000/2001,All Provinces and territories,Remand,Sex unknown,205
+2000/2001,All Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",24901
+2000/2001,All Provinces and territories,Other custodial statuses,Male,21431
+2000/2001,All Provinces and territories,Other custodial statuses,Female,3467
+2000/2001,All Provinces and territories,Other custodial statuses,Sex unknown,3
 2000/2001,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admission by sex",1332
 2000/2001,Newfoundland and Labrador,"Total, custodial admissions",Male,1240
 2000/2001,Newfoundland and Labrador,"Total, custodial admissions",Female,92
@@ -219,22 +219,22 @@
 2000/2001,Nunavut,Remand,Male,
 2000/2001,Nunavut,Remand,Female,
 2000/2001,Nunavut,Remand,Sex unknown,205
-2001/2002,Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",205885
-2001/2002,Provinces and territories,"Total, custodial admissions",Male,184882
-2001/2002,Provinces and territories,"Total, custodial admissions",Female,20983
-2001/2002,Provinces and territories,"Total, custodial admissions",Sex unknown,20
-2001/2002,Provinces and territories,Sentenced,"Total, custodial admission by sex",68087
-2001/2002,Provinces and territories,Sentenced,Male,62174
-2001/2002,Provinces and territories,Sentenced,Female,5906
-2001/2002,Provinces and territories,Sentenced,Sex unknown,7
-2001/2002,Provinces and territories,Remand,"Total, custodial admission by sex",111601
-2001/2002,Provinces and territories,Remand,Male,100088
-2001/2002,Provinces and territories,Remand,Female,11501
-2001/2002,Provinces and territories,Remand,Sex unknown,12
-2001/2002,Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",26197
-2001/2002,Provinces and territories,Other custodial statuses,Male,22620
-2001/2002,Provinces and territories,Other custodial statuses,Female,3576
-2001/2002,Provinces and territories,Other custodial statuses,Sex unknown,1
+2001/2002,All Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",205885
+2001/2002,All Provinces and territories,"Total, custodial admissions",Male,184882
+2001/2002,All Provinces and territories,"Total, custodial admissions",Female,20983
+2001/2002,All Provinces and territories,"Total, custodial admissions",Sex unknown,20
+2001/2002,All Provinces and territories,Sentenced,"Total, custodial admission by sex",68087
+2001/2002,All Provinces and territories,Sentenced,Male,62174
+2001/2002,All Provinces and territories,Sentenced,Female,5906
+2001/2002,All Provinces and territories,Sentenced,Sex unknown,7
+2001/2002,All Provinces and territories,Remand,"Total, custodial admission by sex",111601
+2001/2002,All Provinces and territories,Remand,Male,100088
+2001/2002,All Provinces and territories,Remand,Female,11501
+2001/2002,All Provinces and territories,Remand,Sex unknown,12
+2001/2002,All Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",26197
+2001/2002,All Provinces and territories,Other custodial statuses,Male,22620
+2001/2002,All Provinces and territories,Other custodial statuses,Female,3576
+2001/2002,All Provinces and territories,Other custodial statuses,Sex unknown,1
 2001/2002,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admission by sex",1750
 2001/2002,Newfoundland and Labrador,"Total, custodial admissions",Male,1673
 2001/2002,Newfoundland and Labrador,"Total, custodial admissions",Female,77
@@ -439,22 +439,22 @@
 2001/2002,Nunavut,Remand,Male,218
 2001/2002,Nunavut,Remand,Female,0
 2001/2002,Nunavut,Remand,Sex unknown,0
-2002/2003,Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",211092
-2002/2003,Provinces and territories,"Total, custodial admissions",Male,188993
-2002/2003,Provinces and territories,"Total, custodial admissions",Female,21854
-2002/2003,Provinces and territories,"Total, custodial admissions",Sex unknown,245
-2002/2003,Provinces and territories,Sentenced,"Total, custodial admission by sex",69033
-2002/2003,Provinces and territories,Sentenced,Male,62766
-2002/2003,Provinces and territories,Sentenced,Female,6137
-2002/2003,Provinces and territories,Sentenced,Sex unknown,130
-2002/2003,Provinces and territories,Remand,"Total, custodial admission by sex",115521
-2002/2003,Provinces and territories,Remand,Male,103365
-2002/2003,Provinces and territories,Remand,Female,12147
-2002/2003,Provinces and territories,Remand,Sex unknown,9
-2002/2003,Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",26538
-2002/2003,Provinces and territories,Other custodial statuses,Male,22862
-2002/2003,Provinces and territories,Other custodial statuses,Female,3570
-2002/2003,Provinces and territories,Other custodial statuses,Sex unknown,106
+2002/2003,All Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",211092
+2002/2003,All Provinces and territories,"Total, custodial admissions",Male,188993
+2002/2003,All Provinces and territories,"Total, custodial admissions",Female,21854
+2002/2003,All Provinces and territories,"Total, custodial admissions",Sex unknown,245
+2002/2003,All Provinces and territories,Sentenced,"Total, custodial admission by sex",69033
+2002/2003,All Provinces and territories,Sentenced,Male,62766
+2002/2003,All Provinces and territories,Sentenced,Female,6137
+2002/2003,All Provinces and territories,Sentenced,Sex unknown,130
+2002/2003,All Provinces and territories,Remand,"Total, custodial admission by sex",115521
+2002/2003,All Provinces and territories,Remand,Male,103365
+2002/2003,All Provinces and territories,Remand,Female,12147
+2002/2003,All Provinces and territories,Remand,Sex unknown,9
+2002/2003,All Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",26538
+2002/2003,All Provinces and territories,Other custodial statuses,Male,22862
+2002/2003,All Provinces and territories,Other custodial statuses,Female,3570
+2002/2003,All Provinces and territories,Other custodial statuses,Sex unknown,106
 2002/2003,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admission by sex",1675
 2002/2003,Newfoundland and Labrador,"Total, custodial admissions",Male,1388
 2002/2003,Newfoundland and Labrador,"Total, custodial admissions",Female,64
@@ -659,22 +659,22 @@
 2002/2003,Nunavut,Remand,Male,229
 2002/2003,Nunavut,Remand,Female,0
 2002/2003,Nunavut,Remand,Sex unknown,0
-2003/2004,Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",206403
-2003/2004,Provinces and territories,"Total, custodial admissions",Male,184540
-2003/2004,Provinces and territories,"Total, custodial admissions",Female,21814
-2003/2004,Provinces and territories,"Total, custodial admissions",Sex unknown,49
-2003/2004,Provinces and territories,Sentenced,"Total, custodial admission by sex",65632
-2003/2004,Provinces and territories,Sentenced,Male,59744
-2003/2004,Provinces and territories,Sentenced,Female,5867
-2003/2004,Provinces and territories,Sentenced,Sex unknown,21
-2003/2004,Provinces and territories,Remand,"Total, custodial admission by sex",112781
-2003/2004,Provinces and territories,Remand,Male,100861
-2003/2004,Provinces and territories,Remand,Female,11894
-2003/2004,Provinces and territories,Remand,Sex unknown,26
-2003/2004,Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",27990
-2003/2004,Provinces and territories,Other custodial statuses,Male,23935
-2003/2004,Provinces and territories,Other custodial statuses,Female,4053
-2003/2004,Provinces and territories,Other custodial statuses,Sex unknown,2
+2003/2004,All Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",206403
+2003/2004,All Provinces and territories,"Total, custodial admissions",Male,184540
+2003/2004,All Provinces and territories,"Total, custodial admissions",Female,21814
+2003/2004,All Provinces and territories,"Total, custodial admissions",Sex unknown,49
+2003/2004,All Provinces and territories,Sentenced,"Total, custodial admission by sex",65632
+2003/2004,All Provinces and territories,Sentenced,Male,59744
+2003/2004,All Provinces and territories,Sentenced,Female,5867
+2003/2004,All Provinces and territories,Sentenced,Sex unknown,21
+2003/2004,All Provinces and territories,Remand,"Total, custodial admission by sex",112781
+2003/2004,All Provinces and territories,Remand,Male,100861
+2003/2004,All Provinces and territories,Remand,Female,11894
+2003/2004,All Provinces and territories,Remand,Sex unknown,26
+2003/2004,All Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",27990
+2003/2004,All Provinces and territories,Other custodial statuses,Male,23935
+2003/2004,All Provinces and territories,Other custodial statuses,Female,4053
+2003/2004,All Provinces and territories,Other custodial statuses,Sex unknown,2
 2003/2004,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admission by sex",1746
 2003/2004,Newfoundland and Labrador,"Total, custodial admissions",Male,1633
 2003/2004,Newfoundland and Labrador,"Total, custodial admissions",Female,96
@@ -879,22 +879,22 @@
 2003/2004,Nunavut,Remand,Male,228
 2003/2004,Nunavut,Remand,Female,1
 2003/2004,Nunavut,Remand,Sex unknown,0
-2004/2005,Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",204589
-2004/2005,Provinces and territories,"Total, custodial admissions",Male,182068
-2004/2005,Provinces and territories,"Total, custodial admissions",Female,22468
-2004/2005,Provinces and territories,"Total, custodial admissions",Sex unknown,53
-2004/2005,Provinces and territories,Sentenced,"Total, custodial admission by sex",63013
-2004/2005,Provinces and territories,Sentenced,Male,56991
-2004/2005,Provinces and territories,Sentenced,Female,5995
-2004/2005,Provinces and territories,Sentenced,Sex unknown,27
-2004/2005,Provinces and territories,Remand,"Total, custodial admission by sex",115430
-2004/2005,Provinces and territories,Remand,Male,102669
-2004/2005,Provinces and territories,Remand,Female,12739
-2004/2005,Provinces and territories,Remand,Sex unknown,22
-2004/2005,Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",26146
-2004/2005,Provinces and territories,Other custodial statuses,Male,22408
-2004/2005,Provinces and territories,Other custodial statuses,Female,3734
-2004/2005,Provinces and territories,Other custodial statuses,Sex unknown,4
+2004/2005,All Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",204589
+2004/2005,All Provinces and territories,"Total, custodial admissions",Male,182068
+2004/2005,All Provinces and territories,"Total, custodial admissions",Female,22468
+2004/2005,All Provinces and territories,"Total, custodial admissions",Sex unknown,53
+2004/2005,All Provinces and territories,Sentenced,"Total, custodial admission by sex",63013
+2004/2005,All Provinces and territories,Sentenced,Male,56991
+2004/2005,All Provinces and territories,Sentenced,Female,5995
+2004/2005,All Provinces and territories,Sentenced,Sex unknown,27
+2004/2005,All Provinces and territories,Remand,"Total, custodial admission by sex",115430
+2004/2005,All Provinces and territories,Remand,Male,102669
+2004/2005,All Provinces and territories,Remand,Female,12739
+2004/2005,All Provinces and territories,Remand,Sex unknown,22
+2004/2005,All Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",26146
+2004/2005,All Provinces and territories,Other custodial statuses,Male,22408
+2004/2005,All Provinces and territories,Other custodial statuses,Female,3734
+2004/2005,All Provinces and territories,Other custodial statuses,Sex unknown,4
 2004/2005,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admission by sex",1680
 2004/2005,Newfoundland and Labrador,"Total, custodial admissions",Male,1591
 2004/2005,Newfoundland and Labrador,"Total, custodial admissions",Female,69
@@ -1099,22 +1099,22 @@
 2004/2005,Nunavut,Remand,Male,267
 2004/2005,Nunavut,Remand,Female,0
 2004/2005,Nunavut,Remand,Sex unknown,0
-2005/2006,Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",238448
-2005/2006,Provinces and territories,"Total, custodial admissions",Male,210677
-2005/2006,Provinces and territories,"Total, custodial admissions",Female,27712
-2005/2006,Provinces and territories,"Total, custodial admissions",Sex unknown,59
-2005/2006,Provinces and territories,Sentenced,"Total, custodial admission by sex",79773
-2005/2006,Provinces and territories,Sentenced,Male,71292
-2005/2006,Provinces and territories,Sentenced,Female,8458
-2005/2006,Provinces and territories,Sentenced,Sex unknown,23
-2005/2006,Provinces and territories,Remand,"Total, custodial admission by sex",143057
-2005/2006,Provinces and territories,Remand,Male,125810
-2005/2006,Provinces and territories,Remand,Female,17215
-2005/2006,Provinces and territories,Remand,Sex unknown,32
-2005/2006,Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",15618
-2005/2006,Provinces and territories,Other custodial statuses,Male,13575
-2005/2006,Provinces and territories,Other custodial statuses,Female,2039
-2005/2006,Provinces and territories,Other custodial statuses,Sex unknown,4
+2005/2006,All Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",238448
+2005/2006,All Provinces and territories,"Total, custodial admissions",Male,210677
+2005/2006,All Provinces and territories,"Total, custodial admissions",Female,27712
+2005/2006,All Provinces and territories,"Total, custodial admissions",Sex unknown,59
+2005/2006,All Provinces and territories,Sentenced,"Total, custodial admission by sex",79773
+2005/2006,All Provinces and territories,Sentenced,Male,71292
+2005/2006,All Provinces and territories,Sentenced,Female,8458
+2005/2006,All Provinces and territories,Sentenced,Sex unknown,23
+2005/2006,All Provinces and territories,Remand,"Total, custodial admission by sex",143057
+2005/2006,All Provinces and territories,Remand,Male,125810
+2005/2006,All Provinces and territories,Remand,Female,17215
+2005/2006,All Provinces and territories,Remand,Sex unknown,32
+2005/2006,All Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",15618
+2005/2006,All Provinces and territories,Other custodial statuses,Male,13575
+2005/2006,All Provinces and territories,Other custodial statuses,Female,2039
+2005/2006,All Provinces and territories,Other custodial statuses,Sex unknown,4
 2005/2006,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admission by sex",1626
 2005/2006,Newfoundland and Labrador,"Total, custodial admissions",Male,1539
 2005/2006,Newfoundland and Labrador,"Total, custodial admissions",Female,66
@@ -1319,22 +1319,22 @@
 2005/2006,Nunavut,Remand,Male,314
 2005/2006,Nunavut,Remand,Female,9
 2005/2006,Nunavut,Remand,Sex unknown,0
-2006/2007,Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",246863
-2006/2007,Provinces and territories,"Total, custodial admissions",Male,216827
-2006/2007,Provinces and territories,"Total, custodial admissions",Female,29950
-2006/2007,Provinces and territories,"Total, custodial admissions",Sex unknown,86
-2006/2007,Provinces and territories,Sentenced,"Total, custodial admission by sex",80744
-2006/2007,Provinces and territories,Sentenced,Male,71688
-2006/2007,Provinces and territories,Sentenced,Female,9023
-2006/2007,Provinces and territories,Sentenced,Sex unknown,33
-2006/2007,Provinces and territories,Remand,"Total, custodial admission by sex",150399
-2006/2007,Provinces and territories,Remand,Male,131492
-2006/2007,Provinces and territories,Remand,Female,18858
-2006/2007,Provinces and territories,Remand,Sex unknown,49
-2006/2007,Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",15720
-2006/2007,Provinces and territories,Other custodial statuses,Male,13647
-2006/2007,Provinces and territories,Other custodial statuses,Female,2069
-2006/2007,Provinces and territories,Other custodial statuses,Sex unknown,4
+2006/2007,All Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",246863
+2006/2007,All Provinces and territories,"Total, custodial admissions",Male,216827
+2006/2007,All Provinces and territories,"Total, custodial admissions",Female,29950
+2006/2007,All Provinces and territories,"Total, custodial admissions",Sex unknown,86
+2006/2007,All Provinces and territories,Sentenced,"Total, custodial admission by sex",80744
+2006/2007,All Provinces and territories,Sentenced,Male,71688
+2006/2007,All Provinces and territories,Sentenced,Female,9023
+2006/2007,All Provinces and territories,Sentenced,Sex unknown,33
+2006/2007,All Provinces and territories,Remand,"Total, custodial admission by sex",150399
+2006/2007,All Provinces and territories,Remand,Male,131492
+2006/2007,All Provinces and territories,Remand,Female,18858
+2006/2007,All Provinces and territories,Remand,Sex unknown,49
+2006/2007,All Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",15720
+2006/2007,All Provinces and territories,Other custodial statuses,Male,13647
+2006/2007,All Provinces and territories,Other custodial statuses,Female,2069
+2006/2007,All Provinces and territories,Other custodial statuses,Sex unknown,4
 2006/2007,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admission by sex",1647
 2006/2007,Newfoundland and Labrador,"Total, custodial admissions",Male,1524
 2006/2007,Newfoundland and Labrador,"Total, custodial admissions",Female,101
@@ -1539,22 +1539,22 @@
 2006/2007,Nunavut,Remand,Male,337
 2006/2007,Nunavut,Remand,Female,14
 2006/2007,Nunavut,Remand,Sex unknown,0
-2007/2008,Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",254751
-2007/2008,Provinces and territories,"Total, custodial admissions",Male,223437
-2007/2008,Provinces and territories,"Total, custodial admissions",Female,31188
-2007/2008,Provinces and territories,"Total, custodial admissions",Sex unknown,126
-2007/2008,Provinces and territories,Sentenced,"Total, custodial admission by sex",81853
-2007/2008,Provinces and territories,Sentenced,Male,72748
-2007/2008,Provinces and territories,Sentenced,Female,9049
-2007/2008,Provinces and territories,Sentenced,Sex unknown,56
-2007/2008,Provinces and territories,Remand,"Total, custodial admission by sex",155808
-2007/2008,Provinces and territories,Remand,Male,135794
-2007/2008,Provinces and territories,Remand,Female,19945
-2007/2008,Provinces and territories,Remand,Sex unknown,69
-2007/2008,Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",17090
-2007/2008,Provinces and territories,Other custodial statuses,Male,14895
-2007/2008,Provinces and territories,Other custodial statuses,Female,2194
-2007/2008,Provinces and territories,Other custodial statuses,Sex unknown,1
+2007/2008,All Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",254751
+2007/2008,All Provinces and territories,"Total, custodial admissions",Male,223437
+2007/2008,All Provinces and territories,"Total, custodial admissions",Female,31188
+2007/2008,All Provinces and territories,"Total, custodial admissions",Sex unknown,126
+2007/2008,All Provinces and territories,Sentenced,"Total, custodial admission by sex",81853
+2007/2008,All Provinces and territories,Sentenced,Male,72748
+2007/2008,All Provinces and territories,Sentenced,Female,9049
+2007/2008,All Provinces and territories,Sentenced,Sex unknown,56
+2007/2008,All Provinces and territories,Remand,"Total, custodial admission by sex",155808
+2007/2008,All Provinces and territories,Remand,Male,135794
+2007/2008,All Provinces and territories,Remand,Female,19945
+2007/2008,All Provinces and territories,Remand,Sex unknown,69
+2007/2008,All Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",17090
+2007/2008,All Provinces and territories,Other custodial statuses,Male,14895
+2007/2008,All Provinces and territories,Other custodial statuses,Female,2194
+2007/2008,All Provinces and territories,Other custodial statuses,Sex unknown,1
 2007/2008,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admission by sex",1677
 2007/2008,Newfoundland and Labrador,"Total, custodial admissions",Male,1555
 2007/2008,Newfoundland and Labrador,"Total, custodial admissions",Female,110
@@ -1759,22 +1759,22 @@
 2007/2008,Nunavut,Remand,Male,367
 2007/2008,Nunavut,Remand,Female,23
 2007/2008,Nunavut,Remand,Sex unknown,0
-2008/2009,Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",255775
-2008/2009,Provinces and territories,"Total, custodial admissions",Male,224515
-2008/2009,Provinces and territories,"Total, custodial admissions",Female,31150
-2008/2009,Provinces and territories,"Total, custodial admissions",Sex unknown,110
-2008/2009,Provinces and territories,Sentenced,"Total, custodial admission by sex",83078
-2008/2009,Provinces and territories,Sentenced,Male,73805
-2008/2009,Provinces and territories,Sentenced,Female,9228
-2008/2009,Provinces and territories,Sentenced,Sex unknown,45
-2008/2009,Provinces and territories,Remand,"Total, custodial admission by sex",155160
-2008/2009,Provinces and territories,Remand,Male,135491
-2008/2009,Provinces and territories,Remand,Female,19607
-2008/2009,Provinces and territories,Remand,Sex unknown,62
-2008/2009,Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",17537
-2008/2009,Provinces and territories,Other custodial statuses,Male,15219
-2008/2009,Provinces and territories,Other custodial statuses,Female,2315
-2008/2009,Provinces and territories,Other custodial statuses,Sex unknown,3
+2008/2009,All Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",255775
+2008/2009,All Provinces and territories,"Total, custodial admissions",Male,224515
+2008/2009,All Provinces and territories,"Total, custodial admissions",Female,31150
+2008/2009,All Provinces and territories,"Total, custodial admissions",Sex unknown,110
+2008/2009,All Provinces and territories,Sentenced,"Total, custodial admission by sex",83078
+2008/2009,All Provinces and territories,Sentenced,Male,73805
+2008/2009,All Provinces and territories,Sentenced,Female,9228
+2008/2009,All Provinces and territories,Sentenced,Sex unknown,45
+2008/2009,All Provinces and territories,Remand,"Total, custodial admission by sex",155160
+2008/2009,All Provinces and territories,Remand,Male,135491
+2008/2009,All Provinces and territories,Remand,Female,19607
+2008/2009,All Provinces and territories,Remand,Sex unknown,62
+2008/2009,All Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",17537
+2008/2009,All Provinces and territories,Other custodial statuses,Male,15219
+2008/2009,All Provinces and territories,Other custodial statuses,Female,2315
+2008/2009,All Provinces and territories,Other custodial statuses,Sex unknown,3
 2008/2009,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admission by sex",1655
 2008/2009,Newfoundland and Labrador,"Total, custodial admissions",Male,1498
 2008/2009,Newfoundland and Labrador,"Total, custodial admissions",Female,152
@@ -1979,22 +1979,22 @@
 2008/2009,Nunavut,Remand,Male,410
 2008/2009,Nunavut,Remand,Female,35
 2008/2009,Nunavut,Remand,Sex unknown,0
-2009/2010,Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",254551
-2009/2010,Provinces and territories,"Total, custodial admissions",Male,223929
-2009/2010,Provinces and territories,"Total, custodial admissions",Female,30514
-2009/2010,Provinces and territories,"Total, custodial admissions",Sex unknown,108
-2009/2010,Provinces and territories,Sentenced,"Total, custodial admission by sex",82976
-2009/2010,Provinces and territories,Sentenced,Male,73940
-2009/2010,Provinces and territories,Sentenced,Female,8990
-2009/2010,Provinces and territories,Sentenced,Sex unknown,46
-2009/2010,Provinces and territories,Remand,"Total, custodial admission by sex",153185
-2009/2010,Provinces and territories,Remand,Male,134142
-2009/2010,Provinces and territories,Remand,Female,18985
-2009/2010,Provinces and territories,Remand,Sex unknown,58
-2009/2010,Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",18390
-2009/2010,Provinces and territories,Other custodial statuses,Male,15847
-2009/2010,Provinces and territories,Other custodial statuses,Female,2539
-2009/2010,Provinces and territories,Other custodial statuses,Sex unknown,4
+2009/2010,All Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",254551
+2009/2010,All Provinces and territories,"Total, custodial admissions",Male,223929
+2009/2010,All Provinces and territories,"Total, custodial admissions",Female,30514
+2009/2010,All Provinces and territories,"Total, custodial admissions",Sex unknown,108
+2009/2010,All Provinces and territories,Sentenced,"Total, custodial admission by sex",82976
+2009/2010,All Provinces and territories,Sentenced,Male,73940
+2009/2010,All Provinces and territories,Sentenced,Female,8990
+2009/2010,All Provinces and territories,Sentenced,Sex unknown,46
+2009/2010,All Provinces and territories,Remand,"Total, custodial admission by sex",153185
+2009/2010,All Provinces and territories,Remand,Male,134142
+2009/2010,All Provinces and territories,Remand,Female,18985
+2009/2010,All Provinces and territories,Remand,Sex unknown,58
+2009/2010,All Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",18390
+2009/2010,All Provinces and territories,Other custodial statuses,Male,15847
+2009/2010,All Provinces and territories,Other custodial statuses,Female,2539
+2009/2010,All Provinces and territories,Other custodial statuses,Sex unknown,4
 2009/2010,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admission by sex",1978
 2009/2010,Newfoundland and Labrador,"Total, custodial admissions",Male,1797
 2009/2010,Newfoundland and Labrador,"Total, custodial admissions",Female,170
@@ -2199,22 +2199,22 @@
 2009/2010,Nunavut,Remand,Male,368
 2009/2010,Nunavut,Remand,Female,37
 2009/2010,Nunavut,Remand,Sex unknown,0
-2010/2011,Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",250980
-2010/2011,Provinces and territories,"Total, custodial admissions",Male,220669
-2010/2011,Provinces and territories,"Total, custodial admissions",Female,30152
-2010/2011,Provinces and territories,"Total, custodial admissions",Sex unknown,159
-2010/2011,Provinces and territories,Sentenced,"Total, custodial admission by sex",83976
-2010/2011,Provinces and territories,Sentenced,Male,74781
-2010/2011,Provinces and territories,Sentenced,Female,9134
-2010/2011,Provinces and territories,Sentenced,Sex unknown,61
-2010/2011,Provinces and territories,Remand,"Total, custodial admission by sex",148455
-2010/2011,Provinces and territories,Remand,Male,130016
-2010/2011,Provinces and territories,Remand,Female,18351
-2010/2011,Provinces and territories,Remand,Sex unknown,88
-2010/2011,Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",18549
-2010/2011,Provinces and territories,Other custodial statuses,Male,15872
-2010/2011,Provinces and territories,Other custodial statuses,Female,2667
-2010/2011,Provinces and territories,Other custodial statuses,Sex unknown,10
+2010/2011,All Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",250980
+2010/2011,All Provinces and territories,"Total, custodial admissions",Male,220669
+2010/2011,All Provinces and territories,"Total, custodial admissions",Female,30152
+2010/2011,All Provinces and territories,"Total, custodial admissions",Sex unknown,159
+2010/2011,All Provinces and territories,Sentenced,"Total, custodial admission by sex",83976
+2010/2011,All Provinces and territories,Sentenced,Male,74781
+2010/2011,All Provinces and territories,Sentenced,Female,9134
+2010/2011,All Provinces and territories,Sentenced,Sex unknown,61
+2010/2011,All Provinces and territories,Remand,"Total, custodial admission by sex",148455
+2010/2011,All Provinces and territories,Remand,Male,130016
+2010/2011,All Provinces and territories,Remand,Female,18351
+2010/2011,All Provinces and territories,Remand,Sex unknown,88
+2010/2011,All Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",18549
+2010/2011,All Provinces and territories,Other custodial statuses,Male,15872
+2010/2011,All Provinces and territories,Other custodial statuses,Female,2667
+2010/2011,All Provinces and territories,Other custodial statuses,Sex unknown,10
 2010/2011,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admission by sex",2030
 2010/2011,Newfoundland and Labrador,"Total, custodial admissions",Male,1858
 2010/2011,Newfoundland and Labrador,"Total, custodial admissions",Female,164
@@ -2419,22 +2419,22 @@
 2010/2011,Nunavut,Remand,Male,342
 2010/2011,Nunavut,Remand,Female,24
 2010/2011,Nunavut,Remand,Sex unknown,0
-2011/2012,Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",251629
-2011/2012,Provinces and territories,"Total, custodial admissions",Male,220291
-2011/2012,Provinces and territories,"Total, custodial admissions",Female,31094
-2011/2012,Provinces and territories,"Total, custodial admissions",Sex unknown,244
-2011/2012,Provinces and territories,Sentenced,"Total, custodial admission by sex",85013
-2011/2012,Provinces and territories,Sentenced,Male,75327
-2011/2012,Provinces and territories,Sentenced,Female,9588
-2011/2012,Provinces and territories,Sentenced,Sex unknown,98
-2011/2012,Provinces and territories,Remand,"Total, custodial admission by sex",148135
-2011/2012,Provinces and territories,Remand,Male,129279
-2011/2012,Provinces and territories,Remand,Female,18721
-2011/2012,Provinces and territories,Remand,Sex unknown,135
-2011/2012,Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",18481
-2011/2012,Provinces and territories,Other custodial statuses,Male,15685
-2011/2012,Provinces and territories,Other custodial statuses,Female,2785
-2011/2012,Provinces and territories,Other custodial statuses,Sex unknown,11
+2011/2012,All Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",251629
+2011/2012,All Provinces and territories,"Total, custodial admissions",Male,220291
+2011/2012,All Provinces and territories,"Total, custodial admissions",Female,31094
+2011/2012,All Provinces and territories,"Total, custodial admissions",Sex unknown,244
+2011/2012,All Provinces and territories,Sentenced,"Total, custodial admission by sex",85013
+2011/2012,All Provinces and territories,Sentenced,Male,75327
+2011/2012,All Provinces and territories,Sentenced,Female,9588
+2011/2012,All Provinces and territories,Sentenced,Sex unknown,98
+2011/2012,All Provinces and territories,Remand,"Total, custodial admission by sex",148135
+2011/2012,All Provinces and territories,Remand,Male,129279
+2011/2012,All Provinces and territories,Remand,Female,18721
+2011/2012,All Provinces and territories,Remand,Sex unknown,135
+2011/2012,All Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",18481
+2011/2012,All Provinces and territories,Other custodial statuses,Male,15685
+2011/2012,All Provinces and territories,Other custodial statuses,Female,2785
+2011/2012,All Provinces and territories,Other custodial statuses,Sex unknown,11
 2011/2012,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admission by sex",1909
 2011/2012,Newfoundland and Labrador,"Total, custodial admissions",Male,1759
 2011/2012,Newfoundland and Labrador,"Total, custodial admissions",Female,143
@@ -2639,22 +2639,22 @@
 2011/2012,Nunavut,Remand,Male,322
 2011/2012,Nunavut,Remand,Female,23
 2011/2012,Nunavut,Remand,Sex unknown,0
-2012/2013,Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",208444
-2012/2013,Provinces and territories,"Total, custodial admissions",Male,182572
-2012/2013,Provinces and territories,"Total, custodial admissions",Female,25610
-2012/2013,Provinces and territories,"Total, custodial admissions",Sex unknown,262
-2012/2013,Provinces and territories,Sentenced,"Total, custodial admission by sex",65922
-2012/2013,Provinces and territories,Sentenced,Male,59010
-2012/2013,Provinces and territories,Sentenced,Female,6817
-2012/2013,Provinces and territories,Sentenced,Sex unknown,95
-2012/2013,Provinces and territories,Remand,"Total, custodial admission by sex",123736
-2012/2013,Provinces and territories,Remand,Male,107817
-2012/2013,Provinces and territories,Remand,Female,15763
-2012/2013,Provinces and territories,Remand,Sex unknown,156
-2012/2013,Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",18786
-2012/2013,Provinces and territories,Other custodial statuses,Male,15745
-2012/2013,Provinces and territories,Other custodial statuses,Female,3030
-2012/2013,Provinces and territories,Other custodial statuses,Sex unknown,11
+2012/2013,All Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",208444
+2012/2013,All Provinces and territories,"Total, custodial admissions",Male,182572
+2012/2013,All Provinces and territories,"Total, custodial admissions",Female,25610
+2012/2013,All Provinces and territories,"Total, custodial admissions",Sex unknown,262
+2012/2013,All Provinces and territories,Sentenced,"Total, custodial admission by sex",65922
+2012/2013,All Provinces and territories,Sentenced,Male,59010
+2012/2013,All Provinces and territories,Sentenced,Female,6817
+2012/2013,All Provinces and territories,Sentenced,Sex unknown,95
+2012/2013,All Provinces and territories,Remand,"Total, custodial admission by sex",123736
+2012/2013,All Provinces and territories,Remand,Male,107817
+2012/2013,All Provinces and territories,Remand,Female,15763
+2012/2013,All Provinces and territories,Remand,Sex unknown,156
+2012/2013,All Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",18786
+2012/2013,All Provinces and territories,Other custodial statuses,Male,15745
+2012/2013,All Provinces and territories,Other custodial statuses,Female,3030
+2012/2013,All Provinces and territories,Other custodial statuses,Sex unknown,11
 2012/2013,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admission by sex",1896
 2012/2013,Newfoundland and Labrador,"Total, custodial admissions",Male,1692
 2012/2013,Newfoundland and Labrador,"Total, custodial admissions",Female,188
@@ -2859,22 +2859,22 @@
 2012/2013,Nunavut,Remand,Male,415
 2012/2013,Nunavut,Remand,Female,24
 2012/2013,Nunavut,Remand,Sex unknown,0
-2013/2014,Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",201099
-2013/2014,Provinces and territories,"Total, custodial admissions",Male,175261
-2013/2014,Provinces and territories,"Total, custodial admissions",Female,25569
-2013/2014,Provinces and territories,"Total, custodial admissions",Sex unknown,269
-2013/2014,Provinces and territories,Sentenced,"Total, custodial admission by sex",64604
-2013/2014,Provinces and territories,Sentenced,Male,57596
-2013/2014,Provinces and territories,Sentenced,Female,6906
-2013/2014,Provinces and territories,Sentenced,Sex unknown,102
-2013/2014,Provinces and territories,Remand,"Total, custodial admission by sex",118512
-2013/2014,Provinces and territories,Remand,Male,102656
-2013/2014,Provinces and territories,Remand,Female,15702
-2013/2014,Provinces and territories,Remand,Sex unknown,154
-2013/2014,Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",17983
-2013/2014,Provinces and territories,Other custodial statuses,Male,15009
-2013/2014,Provinces and territories,Other custodial statuses,Female,2961
-2013/2014,Provinces and territories,Other custodial statuses,Sex unknown,13
+2013/2014,All Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",201099
+2013/2014,All Provinces and territories,"Total, custodial admissions",Male,175261
+2013/2014,All Provinces and territories,"Total, custodial admissions",Female,25569
+2013/2014,All Provinces and territories,"Total, custodial admissions",Sex unknown,269
+2013/2014,All Provinces and territories,Sentenced,"Total, custodial admission by sex",64604
+2013/2014,All Provinces and territories,Sentenced,Male,57596
+2013/2014,All Provinces and territories,Sentenced,Female,6906
+2013/2014,All Provinces and territories,Sentenced,Sex unknown,102
+2013/2014,All Provinces and territories,Remand,"Total, custodial admission by sex",118512
+2013/2014,All Provinces and territories,Remand,Male,102656
+2013/2014,All Provinces and territories,Remand,Female,15702
+2013/2014,All Provinces and territories,Remand,Sex unknown,154
+2013/2014,All Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",17983
+2013/2014,All Provinces and territories,Other custodial statuses,Male,15009
+2013/2014,All Provinces and territories,Other custodial statuses,Female,2961
+2013/2014,All Provinces and territories,Other custodial statuses,Sex unknown,13
 2013/2014,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admission by sex",1901
 2013/2014,Newfoundland and Labrador,"Total, custodial admissions",Male,1680
 2013/2014,Newfoundland and Labrador,"Total, custodial admissions",Female,216
@@ -3079,22 +3079,22 @@
 2013/2014,Nunavut,Remand,Male,438
 2013/2014,Nunavut,Remand,Female,34
 2013/2014,Nunavut,Remand,Sex unknown,0
-2014/2015,Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",197454
-2014/2015,Provinces and territories,"Total, custodial admissions",Male,172099
-2014/2015,Provinces and territories,"Total, custodial admissions",Female,25103
-2014/2015,Provinces and territories,"Total, custodial admissions",Sex unknown,252
-2014/2015,Provinces and territories,Sentenced,"Total, custodial admission by sex",62279
-2014/2015,Provinces and territories,Sentenced,Male,55535
-2014/2015,Provinces and territories,Sentenced,Female,6654
-2014/2015,Provinces and territories,Sentenced,Sex unknown,90
-2014/2015,Provinces and territories,Remand,"Total, custodial admission by sex",117211
-2014/2015,Provinces and territories,Remand,Male,101499
-2014/2015,Provinces and territories,Remand,Female,15565
-2014/2015,Provinces and territories,Remand,Sex unknown,147
-2014/2015,Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",17964
-2014/2015,Provinces and territories,Other custodial statuses,Male,15065
-2014/2015,Provinces and territories,Other custodial statuses,Female,2884
-2014/2015,Provinces and territories,Other custodial statuses,Sex unknown,15
+2014/2015,All Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",197454
+2014/2015,All Provinces and territories,"Total, custodial admissions",Male,172099
+2014/2015,All Provinces and territories,"Total, custodial admissions",Female,25103
+2014/2015,All Provinces and territories,"Total, custodial admissions",Sex unknown,252
+2014/2015,All Provinces and territories,Sentenced,"Total, custodial admission by sex",62279
+2014/2015,All Provinces and territories,Sentenced,Male,55535
+2014/2015,All Provinces and territories,Sentenced,Female,6654
+2014/2015,All Provinces and territories,Sentenced,Sex unknown,90
+2014/2015,All Provinces and territories,Remand,"Total, custodial admission by sex",117211
+2014/2015,All Provinces and territories,Remand,Male,101499
+2014/2015,All Provinces and territories,Remand,Female,15565
+2014/2015,All Provinces and territories,Remand,Sex unknown,147
+2014/2015,All Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",17964
+2014/2015,All Provinces and territories,Other custodial statuses,Male,15065
+2014/2015,All Provinces and territories,Other custodial statuses,Female,2884
+2014/2015,All Provinces and territories,Other custodial statuses,Sex unknown,15
 2014/2015,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admission by sex",1981
 2014/2015,Newfoundland and Labrador,"Total, custodial admissions",Male,1761
 2014/2015,Newfoundland and Labrador,"Total, custodial admissions",Female,208
@@ -3299,22 +3299,22 @@
 2014/2015,Nunavut,Remand,Male,525
 2014/2015,Nunavut,Remand,Female,22
 2014/2015,Nunavut,Remand,Sex unknown,0
-2015/2016,Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",201189
-2015/2016,Provinces and territories,"Total, custodial admissions",Male,174514
-2015/2016,Provinces and territories,"Total, custodial admissions",Female,26465
-2015/2016,Provinces and territories,"Total, custodial admissions",Sex unknown,210
-2015/2016,Provinces and territories,Sentenced,"Total, custodial admission by sex",62771
-2015/2016,Provinces and territories,Sentenced,Male,55662
-2015/2016,Provinces and territories,Sentenced,Female,7040
-2015/2016,Provinces and territories,Sentenced,Sex unknown,69
-2015/2016,Provinces and territories,Remand,"Total, custodial admission by sex",119625
-2015/2016,Provinces and territories,Remand,Male,103215
-2015/2016,Provinces and territories,Remand,Female,16279
-2015/2016,Provinces and territories,Remand,Sex unknown,131
-2015/2016,Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",18793
-2015/2016,Provinces and territories,Other custodial statuses,Male,15637
-2015/2016,Provinces and territories,Other custodial statuses,Female,3146
-2015/2016,Provinces and territories,Other custodial statuses,Sex unknown,10
+2015/2016,All Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",201189
+2015/2016,All Provinces and territories,"Total, custodial admissions",Male,174514
+2015/2016,All Provinces and territories,"Total, custodial admissions",Female,26465
+2015/2016,All Provinces and territories,"Total, custodial admissions",Sex unknown,210
+2015/2016,All Provinces and territories,Sentenced,"Total, custodial admission by sex",62771
+2015/2016,All Provinces and territories,Sentenced,Male,55662
+2015/2016,All Provinces and territories,Sentenced,Female,7040
+2015/2016,All Provinces and territories,Sentenced,Sex unknown,69
+2015/2016,All Provinces and territories,Remand,"Total, custodial admission by sex",119625
+2015/2016,All Provinces and territories,Remand,Male,103215
+2015/2016,All Provinces and territories,Remand,Female,16279
+2015/2016,All Provinces and territories,Remand,Sex unknown,131
+2015/2016,All Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",18793
+2015/2016,All Provinces and territories,Other custodial statuses,Male,15637
+2015/2016,All Provinces and territories,Other custodial statuses,Female,3146
+2015/2016,All Provinces and territories,Other custodial statuses,Sex unknown,10
 2015/2016,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admission by sex",2030
 2015/2016,Newfoundland and Labrador,"Total, custodial admissions",Male,1768
 2015/2016,Newfoundland and Labrador,"Total, custodial admissions",Female,249
@@ -3519,22 +3519,22 @@
 2015/2016,Nunavut,Remand,Male,412
 2015/2016,Nunavut,Remand,Female,17
 2015/2016,Nunavut,Remand,Sex unknown,0
-2016/2017,Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",251986
-2016/2017,Provinces and territories,"Total, custodial admissions",Male,215293
-2016/2017,Provinces and territories,"Total, custodial admissions",Female,36409
-2016/2017,Provinces and territories,"Total, custodial admissions",Sex unknown,284
-2016/2017,Provinces and territories,Sentenced,"Total, custodial admission by sex",84543
-2016/2017,Provinces and territories,Sentenced,Male,73642
-2016/2017,Provinces and territories,Sentenced,Female,10806
-2016/2017,Provinces and territories,Sentenced,Sex unknown,95
-2016/2017,Provinces and territories,Remand,"Total, custodial admission by sex",147348
-2016/2017,Provinces and territories,Remand,Male,125117
-2016/2017,Provinces and territories,Remand,Female,22054
-2016/2017,Provinces and territories,Remand,Sex unknown,177
-2016/2017,Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",20095
-2016/2017,Provinces and territories,Other custodial statuses,Male,16534
-2016/2017,Provinces and territories,Other custodial statuses,Female,3549
-2016/2017,Provinces and territories,Other custodial statuses,Sex unknown,12
+2016/2017,All Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",251986
+2016/2017,All Provinces and territories,"Total, custodial admissions",Male,215293
+2016/2017,All Provinces and territories,"Total, custodial admissions",Female,36409
+2016/2017,All Provinces and territories,"Total, custodial admissions",Sex unknown,284
+2016/2017,All Provinces and territories,Sentenced,"Total, custodial admission by sex",84543
+2016/2017,All Provinces and territories,Sentenced,Male,73642
+2016/2017,All Provinces and territories,Sentenced,Female,10806
+2016/2017,All Provinces and territories,Sentenced,Sex unknown,95
+2016/2017,All Provinces and territories,Remand,"Total, custodial admission by sex",147348
+2016/2017,All Provinces and territories,Remand,Male,125117
+2016/2017,All Provinces and territories,Remand,Female,22054
+2016/2017,All Provinces and territories,Remand,Sex unknown,177
+2016/2017,All Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",20095
+2016/2017,All Provinces and territories,Other custodial statuses,Male,16534
+2016/2017,All Provinces and territories,Other custodial statuses,Female,3549
+2016/2017,All Provinces and territories,Other custodial statuses,Sex unknown,12
 2016/2017,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admission by sex",2050
 2016/2017,Newfoundland and Labrador,"Total, custodial admissions",Male,1805
 2016/2017,Newfoundland and Labrador,"Total, custodial admissions",Female,239
@@ -3739,22 +3739,22 @@
 2016/2017,Nunavut,Remand,Male,415
 2016/2017,Nunavut,Remand,Female,29
 2016/2017,Nunavut,Remand,Sex unknown,0
-2017/2018,Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",243190
-2017/2018,Provinces and territories,"Total, custodial admissions",Male,207250
-2017/2018,Provinces and territories,"Total, custodial admissions",Female,35673
-2017/2018,Provinces and territories,"Total, custodial admissions",Sex unknown,267
-2017/2018,Provinces and territories,Sentenced,"Total, custodial admission by sex",80759
-2017/2018,Provinces and territories,Sentenced,Male,70337
-2017/2018,Provinces and territories,Sentenced,Female,10333
-2017/2018,Provinces and territories,Sentenced,Sex unknown,89
-2017/2018,Provinces and territories,Remand,"Total, custodial admission by sex",141905
-2017/2018,Provinces and territories,Remand,Male,120149
-2017/2018,Provinces and territories,Remand,Female,21584
-2017/2018,Provinces and territories,Remand,Sex unknown,172
-2017/2018,Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",20526
-2017/2018,Provinces and territories,Other custodial statuses,Male,16764
-2017/2018,Provinces and territories,Other custodial statuses,Female,3756
-2017/2018,Provinces and territories,Other custodial statuses,Sex unknown,6
+2017/2018,All Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",243190
+2017/2018,All Provinces and territories,"Total, custodial admissions",Male,207250
+2017/2018,All Provinces and territories,"Total, custodial admissions",Female,35673
+2017/2018,All Provinces and territories,"Total, custodial admissions",Sex unknown,267
+2017/2018,All Provinces and territories,Sentenced,"Total, custodial admission by sex",80759
+2017/2018,All Provinces and territories,Sentenced,Male,70337
+2017/2018,All Provinces and territories,Sentenced,Female,10333
+2017/2018,All Provinces and territories,Sentenced,Sex unknown,89
+2017/2018,All Provinces and territories,Remand,"Total, custodial admission by sex",141905
+2017/2018,All Provinces and territories,Remand,Male,120149
+2017/2018,All Provinces and territories,Remand,Female,21584
+2017/2018,All Provinces and territories,Remand,Sex unknown,172
+2017/2018,All Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",20526
+2017/2018,All Provinces and territories,Other custodial statuses,Male,16764
+2017/2018,All Provinces and territories,Other custodial statuses,Female,3756
+2017/2018,All Provinces and territories,Other custodial statuses,Sex unknown,6
 2017/2018,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admission by sex",1931
 2017/2018,Newfoundland and Labrador,"Total, custodial admissions",Male,1688
 2017/2018,Newfoundland and Labrador,"Total, custodial admissions",Female,239
@@ -3963,22 +3963,22 @@
 2017/2018,Nunavut,Other custodial statuses,Male,
 2017/2018,Nunavut,Other custodial statuses,Female,
 2017/2018,Nunavut,Other custodial statuses,Sex unknown,
-2018/2019,Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",226048
-2018/2019,Provinces and territories,"Total, custodial admissions",Male,192740
-2018/2019,Provinces and territories,"Total, custodial admissions",Female,33255
-2018/2019,Provinces and territories,"Total, custodial admissions",Sex unknown,53
-2018/2019,Provinces and territories,Sentenced,"Total, custodial admission by sex",72312
-2018/2019,Provinces and territories,Sentenced,Male,62973
-2018/2019,Provinces and territories,Sentenced,Female,9330
-2018/2019,Provinces and territories,Sentenced,Sex unknown,9
-2018/2019,Provinces and territories,Remand,"Total, custodial admission by sex",133267
-2018/2019,Provinces and territories,Remand,Male,113082
-2018/2019,Provinces and territories,Remand,Female,20150
-2018/2019,Provinces and territories,Remand,Sex unknown,35
-2018/2019,Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",20469
-2018/2019,Provinces and territories,Other custodial statuses,Male,16685
-2018/2019,Provinces and territories,Other custodial statuses,Female,3775
-2018/2019,Provinces and territories,Other custodial statuses,Sex unknown,9
+2018/2019,All Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",226048
+2018/2019,All Provinces and territories,"Total, custodial admissions",Male,192740
+2018/2019,All Provinces and territories,"Total, custodial admissions",Female,33255
+2018/2019,All Provinces and territories,"Total, custodial admissions",Sex unknown,53
+2018/2019,All Provinces and territories,Sentenced,"Total, custodial admission by sex",72312
+2018/2019,All Provinces and territories,Sentenced,Male,62973
+2018/2019,All Provinces and territories,Sentenced,Female,9330
+2018/2019,All Provinces and territories,Sentenced,Sex unknown,9
+2018/2019,All Provinces and territories,Remand,"Total, custodial admission by sex",133267
+2018/2019,All Provinces and territories,Remand,Male,113082
+2018/2019,All Provinces and territories,Remand,Female,20150
+2018/2019,All Provinces and territories,Remand,Sex unknown,35
+2018/2019,All Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",20469
+2018/2019,All Provinces and territories,Other custodial statuses,Male,16685
+2018/2019,All Provinces and territories,Other custodial statuses,Female,3775
+2018/2019,All Provinces and territories,Other custodial statuses,Sex unknown,9
 2018/2019,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admission by sex",1776
 2018/2019,Newfoundland and Labrador,"Total, custodial admissions",Male,1547
 2018/2019,Newfoundland and Labrador,"Total, custodial admissions",Female,226
@@ -4187,22 +4187,22 @@
 2018/2019,Nunavut,Other custodial statuses,Male,18
 2018/2019,Nunavut,Other custodial statuses,Female,0
 2018/2019,Nunavut,Other custodial statuses,Sex unknown,0
-2019/2020,Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",227124
-2019/2020,Provinces and territories,"Total, custodial admissions",Male,193822
-2019/2020,Provinces and territories,"Total, custodial admissions",Female,33285
-2019/2020,Provinces and territories,"Total, custodial admissions",Sex unknown,17
-2019/2020,Provinces and territories,Sentenced,"Total, custodial admission by sex",64948
-2019/2020,Provinces and territories,Sentenced,Male,56726
-2019/2020,Provinces and territories,Sentenced,Female,8221
-2019/2020,Provinces and territories,Sentenced,Sex unknown,1
-2019/2020,Provinces and territories,Remand,"Total, custodial admission by sex",127382
-2019/2020,Provinces and territories,Remand,Male,107958
-2019/2020,Provinces and territories,Remand,Female,19409
-2019/2020,Provinces and territories,Remand,Sex unknown,15
-2019/2020,Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",34794
-2019/2020,Provinces and territories,Other custodial statuses,Male,29138
-2019/2020,Provinces and territories,Other custodial statuses,Female,5655
-2019/2020,Provinces and territories,Other custodial statuses,Sex unknown,1
+2019/2020,All Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",227124
+2019/2020,All Provinces and territories,"Total, custodial admissions",Male,193822
+2019/2020,All Provinces and territories,"Total, custodial admissions",Female,33285
+2019/2020,All Provinces and territories,"Total, custodial admissions",Sex unknown,17
+2019/2020,All Provinces and territories,Sentenced,"Total, custodial admission by sex",64948
+2019/2020,All Provinces and territories,Sentenced,Male,56726
+2019/2020,All Provinces and territories,Sentenced,Female,8221
+2019/2020,All Provinces and territories,Sentenced,Sex unknown,1
+2019/2020,All Provinces and territories,Remand,"Total, custodial admission by sex",127382
+2019/2020,All Provinces and territories,Remand,Male,107958
+2019/2020,All Provinces and territories,Remand,Female,19409
+2019/2020,All Provinces and territories,Remand,Sex unknown,15
+2019/2020,All Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",34794
+2019/2020,All Provinces and territories,Other custodial statuses,Male,29138
+2019/2020,All Provinces and territories,Other custodial statuses,Female,5655
+2019/2020,All Provinces and territories,Other custodial statuses,Sex unknown,1
 2019/2020,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admission by sex",1673
 2019/2020,Newfoundland and Labrador,"Total, custodial admissions",Male,1458
 2019/2020,Newfoundland and Labrador,"Total, custodial admissions",Female,208
@@ -4411,22 +4411,22 @@
 2019/2020,Nunavut,Other custodial statuses,Male,0
 2019/2020,Nunavut,Other custodial statuses,Female,0
 2019/2020,Nunavut,Other custodial statuses,Sex unknown,0
-2020/2021,Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",143975
-2020/2021,Provinces and territories,"Total, custodial admissions",Male,126243
-2020/2021,Provinces and territories,"Total, custodial admissions",Female,17706
-2020/2021,Provinces and territories,"Total, custodial admissions",Sex unknown,26
-2020/2021,Provinces and territories,Sentenced,"Total, custodial admission by sex",35562
-2020/2021,Provinces and territories,Sentenced,Male,31403
-2020/2021,Provinces and territories,Sentenced,Female,4155
-2020/2021,Provinces and territories,Sentenced,Sex unknown,4
-2020/2021,Provinces and territories,Remand,"Total, custodial admission by sex",89643
-2020/2021,Provinces and territories,Remand,Male,78082
-2020/2021,Provinces and territories,Remand,Female,11541
-2020/2021,Provinces and territories,Remand,Sex unknown,20
-2020/2021,Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",18770
-2020/2021,Provinces and territories,Other custodial statuses,Male,16758
-2020/2021,Provinces and territories,Other custodial statuses,Female,2010
-2020/2021,Provinces and territories,Other custodial statuses,Sex unknown,2
+2020/2021,All Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",143975
+2020/2021,All Provinces and territories,"Total, custodial admissions",Male,126243
+2020/2021,All Provinces and territories,"Total, custodial admissions",Female,17706
+2020/2021,All Provinces and territories,"Total, custodial admissions",Sex unknown,26
+2020/2021,All Provinces and territories,Sentenced,"Total, custodial admission by sex",35562
+2020/2021,All Provinces and territories,Sentenced,Male,31403
+2020/2021,All Provinces and territories,Sentenced,Female,4155
+2020/2021,All Provinces and territories,Sentenced,Sex unknown,4
+2020/2021,All Provinces and territories,Remand,"Total, custodial admission by sex",89643
+2020/2021,All Provinces and territories,Remand,Male,78082
+2020/2021,All Provinces and territories,Remand,Female,11541
+2020/2021,All Provinces and territories,Remand,Sex unknown,20
+2020/2021,All Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",18770
+2020/2021,All Provinces and territories,Other custodial statuses,Male,16758
+2020/2021,All Provinces and territories,Other custodial statuses,Female,2010
+2020/2021,All Provinces and territories,Other custodial statuses,Sex unknown,2
 2020/2021,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admission by sex",1390
 2020/2021,Newfoundland and Labrador,"Total, custodial admissions",Male,1247
 2020/2021,Newfoundland and Labrador,"Total, custodial admissions",Female,139
@@ -4635,22 +4635,22 @@
 2020/2021,Nunavut,Other custodial statuses,Male,0
 2020/2021,Nunavut,Other custodial statuses,Female,0
 2020/2021,Nunavut,Other custodial statuses,Sex unknown,0
-2021/2022,Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",149921
-2021/2022,Provinces and territories,"Total, custodial admissions",Male,129868
-2021/2022,Provinces and territories,"Total, custodial admissions",Female,20012
-2021/2022,Provinces and territories,"Total, custodial admissions",Sex unknown,41
-2021/2022,Provinces and territories,Sentenced,"Total, custodial admission by sex",37932
-2021/2022,Provinces and territories,Sentenced,Male,33394
-2021/2022,Provinces and territories,Sentenced,Female,4526
-2021/2022,Provinces and territories,Sentenced,Sex unknown,12
-2021/2022,Provinces and territories,Remand,"Total, custodial admission by sex",92673
-2021/2022,Provinces and territories,Remand,Male,79378
-2021/2022,Provinces and territories,Remand,Female,13266
-2021/2022,Provinces and territories,Remand,Sex unknown,29
-2021/2022,Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",19316
-2021/2022,Provinces and territories,Other custodial statuses,Male,17096
-2021/2022,Provinces and territories,Other custodial statuses,Female,2220
-2021/2022,Provinces and territories,Other custodial statuses,Sex unknown,0
+2021/2022,All Provinces and territories,"Total, custodial admissions","Total, custodial admission by sex",149921
+2021/2022,All Provinces and territories,"Total, custodial admissions",Male,129868
+2021/2022,All Provinces and territories,"Total, custodial admissions",Female,20012
+2021/2022,All Provinces and territories,"Total, custodial admissions",Sex unknown,41
+2021/2022,All Provinces and territories,Sentenced,"Total, custodial admission by sex",37932
+2021/2022,All Provinces and territories,Sentenced,Male,33394
+2021/2022,All Provinces and territories,Sentenced,Female,4526
+2021/2022,All Provinces and territories,Sentenced,Sex unknown,12
+2021/2022,All Provinces and territories,Remand,"Total, custodial admission by sex",92673
+2021/2022,All Provinces and territories,Remand,Male,79378
+2021/2022,All Provinces and territories,Remand,Female,13266
+2021/2022,All Provinces and territories,Remand,Sex unknown,29
+2021/2022,All Provinces and territories,Other custodial statuses,"Total, custodial admission by sex",19316
+2021/2022,All Provinces and territories,Other custodial statuses,Male,17096
+2021/2022,All Provinces and territories,Other custodial statuses,Female,2220
+2021/2022,All Provinces and territories,Other custodial statuses,Sex unknown,0
 2021/2022,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admission by sex",1489
 2021/2022,Newfoundland and Labrador,"Total, custodial admissions",Male,1305
 2021/2022,Newfoundland and Labrador,"Total, custodial admissions",Female,173

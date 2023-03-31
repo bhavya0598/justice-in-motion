@@ -1,36 +1,36 @@
 ﻿REF_DATE,GEO,Sex,Sentence length ordered,VALUE
-2000/2001,Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",66069
-2000/2001,Provinces and territories,"Total, custodial admission by sex",1 month or less,27389
-2000/2001,Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,16099
-2000/2001,Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,7273
-2000/2001,Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,4307
-2000/2001,Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,2281
-2000/2001,Provinces and territories,"Total, custodial admission by sex",24 months or more,1958
-2000/2001,Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,6762
-2000/2001,Provinces and territories,Male,"Total, sentence length ordered",60216
-2000/2001,Provinces and territories,Male,1 month or less,24238
-2000/2001,Provinces and territories,Male,Greater than 1 month to 3 months,14982
-2000/2001,Provinces and territories,Male,Greater than 3 months to 6 months,6817
-2000/2001,Provinces and territories,Male,Greater than 6 months to 12 months,4113
-2000/2001,Provinces and territories,Male,Greater than 12 to less than 24 months,2186
-2000/2001,Provinces and territories,Male,24 months or more,1831
-2000/2001,Provinces and territories,Male,Unknown sentence length ordered,6049
-2000/2001,Provinces and territories,Female,"Total, sentence length ordered",5624
-2000/2001,Provinces and territories,Female,1 month or less,3151
-2000/2001,Provinces and territories,Female,Greater than 1 month to 3 months,1117
-2000/2001,Provinces and territories,Female,Greater than 3 months to 6 months,456
-2000/2001,Provinces and territories,Female,Greater than 6 months to 12 months,194
-2000/2001,Provinces and territories,Female,Greater than 12 to less than 24 months,95
-2000/2001,Provinces and territories,Female,24 months or more,127
-2000/2001,Provinces and territories,Female,Unknown sentence length ordered,484
-2000/2001,Provinces and territories,Sex unknown,"Total, sentence length ordered",229
-2000/2001,Provinces and territories,Sex unknown,1 month or less,0
-2000/2001,Provinces and territories,Sex unknown,Greater than 1 month to 3 months,0
-2000/2001,Provinces and territories,Sex unknown,Greater than 3 months to 6 months,0
-2000/2001,Provinces and territories,Sex unknown,Greater than 6 months to 12 months,0
-2000/2001,Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,0
-2000/2001,Provinces and territories,Sex unknown,24 months or more,0
-2000/2001,Provinces and territories,Sex unknown,Unknown sentence length ordered,229
+2000/2001,All Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",66069
+2000/2001,All Provinces and territories,"Total, custodial admission by sex",1 month or less,27389
+2000/2001,All Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,16099
+2000/2001,All Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,7273
+2000/2001,All Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,4307
+2000/2001,All Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,2281
+2000/2001,All Provinces and territories,"Total, custodial admission by sex",24 months or more,1958
+2000/2001,All Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,6762
+2000/2001,All Provinces and territories,Male,"Total, sentence length ordered",60216
+2000/2001,All Provinces and territories,Male,1 month or less,24238
+2000/2001,All Provinces and territories,Male,Greater than 1 month to 3 months,14982
+2000/2001,All Provinces and territories,Male,Greater than 3 months to 6 months,6817
+2000/2001,All Provinces and territories,Male,Greater than 6 months to 12 months,4113
+2000/2001,All Provinces and territories,Male,Greater than 12 to less than 24 months,2186
+2000/2001,All Provinces and territories,Male,24 months or more,1831
+2000/2001,All Provinces and territories,Male,Unknown sentence length ordered,6049
+2000/2001,All Provinces and territories,Female,"Total, sentence length ordered",5624
+2000/2001,All Provinces and territories,Female,1 month or less,3151
+2000/2001,All Provinces and territories,Female,Greater than 1 month to 3 months,1117
+2000/2001,All Provinces and territories,Female,Greater than 3 months to 6 months,456
+2000/2001,All Provinces and territories,Female,Greater than 6 months to 12 months,194
+2000/2001,All Provinces and territories,Female,Greater than 12 to less than 24 months,95
+2000/2001,All Provinces and territories,Female,24 months or more,127
+2000/2001,All Provinces and territories,Female,Unknown sentence length ordered,484
+2000/2001,All Provinces and territories,Sex unknown,"Total, sentence length ordered",229
+2000/2001,All Provinces and territories,Sex unknown,1 month or less,0
+2000/2001,All Provinces and territories,Sex unknown,Greater than 1 month to 3 months,0
+2000/2001,All Provinces and territories,Sex unknown,Greater than 3 months to 6 months,0
+2000/2001,All Provinces and territories,Sex unknown,Greater than 6 months to 12 months,0
+2000/2001,All Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,0
+2000/2001,All Provinces and territories,Sex unknown,24 months or more,0
+2000/2001,All Provinces and territories,Sex unknown,Unknown sentence length ordered,229
 2000/2001,Newfoundland and Labrador,"Total, custodial admission by sex","Total, sentence length ordered",944
 2000/2001,Newfoundland and Labrador,"Total, custodial admission by sex",1 month or less,381
 2000/2001,Newfoundland and Labrador,"Total, custodial admission by sex",Greater than 1 month to 3 months,248
@@ -458,38 +458,38 @@
 2000/2001,Nunavut,Sex unknown,Greater than 12 to less than 24 months,
 2000/2001,Nunavut,Sex unknown,24 months or more,
 2000/2001,Nunavut,Sex unknown,Unknown sentence length ordered,229
-2001/2002,Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",68087
-2001/2002,Provinces and territories,"Total, custodial admission by sex",1 month or less,28188
-2001/2002,Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,15996
-2001/2002,Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,7316
-2001/2002,Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,3936
-2001/2002,Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,2017
-2001/2002,Provinces and territories,"Total, custodial admission by sex",24 months or more,2228
-2001/2002,Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,8406
-2001/2002,Provinces and territories,Male,"Total, sentence length ordered",62174
-2001/2002,Provinces and territories,Male,1 month or less,24893
-2001/2002,Provinces and territories,Male,Greater than 1 month to 3 months,14868
-2001/2002,Provinces and territories,Male,Greater than 3 months to 6 months,6870
-2001/2002,Provinces and territories,Male,Greater than 6 months to 12 months,3760
-2001/2002,Provinces and territories,Male,Greater than 12 to less than 24 months,1943
-2001/2002,Provinces and territories,Male,24 months or more,2100
-2001/2002,Provinces and territories,Male,Unknown sentence length ordered,7740
-2001/2002,Provinces and territories,Female,"Total, sentence length ordered",5906
-2001/2002,Provinces and territories,Female,1 month or less,3293
-2001/2002,Provinces and territories,Female,Greater than 1 month to 3 months,1127
-2001/2002,Provinces and territories,Female,Greater than 3 months to 6 months,445
-2001/2002,Provinces and territories,Female,Greater than 6 months to 12 months,174
-2001/2002,Provinces and territories,Female,Greater than 12 to less than 24 months,74
-2001/2002,Provinces and territories,Female,24 months or more,127
-2001/2002,Provinces and territories,Female,Unknown sentence length ordered,666
-2001/2002,Provinces and territories,Sex unknown,"Total, sentence length ordered",7
-2001/2002,Provinces and territories,Sex unknown,1 month or less,2
-2001/2002,Provinces and territories,Sex unknown,Greater than 1 month to 3 months,1
-2001/2002,Provinces and territories,Sex unknown,Greater than 3 months to 6 months,1
-2001/2002,Provinces and territories,Sex unknown,Greater than 6 months to 12 months,2
-2001/2002,Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,0
-2001/2002,Provinces and territories,Sex unknown,24 months or more,1
-2001/2002,Provinces and territories,Sex unknown,Unknown sentence length ordered,0
+2001/2002,All Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",68087
+2001/2002,All Provinces and territories,"Total, custodial admission by sex",1 month or less,28188
+2001/2002,All Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,15996
+2001/2002,All Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,7316
+2001/2002,All Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,3936
+2001/2002,All Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,2017
+2001/2002,All Provinces and territories,"Total, custodial admission by sex",24 months or more,2228
+2001/2002,All Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,8406
+2001/2002,All Provinces and territories,Male,"Total, sentence length ordered",62174
+2001/2002,All Provinces and territories,Male,1 month or less,24893
+2001/2002,All Provinces and territories,Male,Greater than 1 month to 3 months,14868
+2001/2002,All Provinces and territories,Male,Greater than 3 months to 6 months,6870
+2001/2002,All Provinces and territories,Male,Greater than 6 months to 12 months,3760
+2001/2002,All Provinces and territories,Male,Greater than 12 to less than 24 months,1943
+2001/2002,All Provinces and territories,Male,24 months or more,2100
+2001/2002,All Provinces and territories,Male,Unknown sentence length ordered,7740
+2001/2002,All Provinces and territories,Female,"Total, sentence length ordered",5906
+2001/2002,All Provinces and territories,Female,1 month or less,3293
+2001/2002,All Provinces and territories,Female,Greater than 1 month to 3 months,1127
+2001/2002,All Provinces and territories,Female,Greater than 3 months to 6 months,445
+2001/2002,All Provinces and territories,Female,Greater than 6 months to 12 months,174
+2001/2002,All Provinces and territories,Female,Greater than 12 to less than 24 months,74
+2001/2002,All Provinces and territories,Female,24 months or more,127
+2001/2002,All Provinces and territories,Female,Unknown sentence length ordered,666
+2001/2002,All Provinces and territories,Sex unknown,"Total, sentence length ordered",7
+2001/2002,All Provinces and territories,Sex unknown,1 month or less,2
+2001/2002,All Provinces and territories,Sex unknown,Greater than 1 month to 3 months,1
+2001/2002,All Provinces and territories,Sex unknown,Greater than 3 months to 6 months,1
+2001/2002,All Provinces and territories,Sex unknown,Greater than 6 months to 12 months,2
+2001/2002,All Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,0
+2001/2002,All Provinces and territories,Sex unknown,24 months or more,1
+2001/2002,All Provinces and territories,Sex unknown,Unknown sentence length ordered,0
 2001/2002,Newfoundland and Labrador,"Total, custodial admission by sex","Total, sentence length ordered",1235
 2001/2002,Newfoundland and Labrador,"Total, custodial admission by sex",1 month or less,345
 2001/2002,Newfoundland and Labrador,"Total, custodial admission by sex",Greater than 1 month to 3 months,345
@@ -917,38 +917,38 @@
 2001/2002,Nunavut,Sex unknown,Greater than 12 to less than 24 months,0
 2001/2002,Nunavut,Sex unknown,24 months or more,0
 2001/2002,Nunavut,Sex unknown,Unknown sentence length ordered,0
-2002/2003,Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",69033
-2002/2003,Provinces and territories,"Total, custodial admission by sex",1 month or less,31306
-2002/2003,Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,16005
-2002/2003,Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,7532
-2002/2003,Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,4097
-2002/2003,Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,1794
-2002/2003,Provinces and territories,"Total, custodial admission by sex",24 months or more,2412
-2002/2003,Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,5887
-2002/2003,Provinces and territories,Male,"Total, sentence length ordered",62766
-2002/2003,Provinces and territories,Male,1 month or less,27778
-2002/2003,Provinces and territories,Male,Greater than 1 month to 3 months,14775
-2002/2003,Provinces and territories,Male,Greater than 3 months to 6 months,7053
-2002/2003,Provinces and territories,Male,Greater than 6 months to 12 months,3875
-2002/2003,Provinces and territories,Male,Greater than 12 to less than 24 months,1708
-2002/2003,Provinces and territories,Male,24 months or more,2275
-2002/2003,Provinces and territories,Male,Unknown sentence length ordered,5302
-2002/2003,Provinces and territories,Female,"Total, sentence length ordered",6137
-2002/2003,Provinces and territories,Female,1 month or less,3525
-2002/2003,Provinces and territories,Female,Greater than 1 month to 3 months,1228
-2002/2003,Provinces and territories,Female,Greater than 3 months to 6 months,476
-2002/2003,Provinces and territories,Female,Greater than 6 months to 12 months,222
-2002/2003,Provinces and territories,Female,Greater than 12 to less than 24 months,84
-2002/2003,Provinces and territories,Female,24 months or more,137
-2002/2003,Provinces and territories,Female,Unknown sentence length ordered,465
-2002/2003,Provinces and territories,Sex unknown,"Total, sentence length ordered",130
-2002/2003,Provinces and territories,Sex unknown,1 month or less,3
-2002/2003,Provinces and territories,Sex unknown,Greater than 1 month to 3 months,2
-2002/2003,Provinces and territories,Sex unknown,Greater than 3 months to 6 months,3
-2002/2003,Provinces and territories,Sex unknown,Greater than 6 months to 12 months,0
-2002/2003,Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,2
-2002/2003,Provinces and territories,Sex unknown,24 months or more,0
-2002/2003,Provinces and territories,Sex unknown,Unknown sentence length ordered,120
+2002/2003,All Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",69033
+2002/2003,All Provinces and territories,"Total, custodial admission by sex",1 month or less,31306
+2002/2003,All Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,16005
+2002/2003,All Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,7532
+2002/2003,All Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,4097
+2002/2003,All Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,1794
+2002/2003,All Provinces and territories,"Total, custodial admission by sex",24 months or more,2412
+2002/2003,All Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,5887
+2002/2003,All Provinces and territories,Male,"Total, sentence length ordered",62766
+2002/2003,All Provinces and territories,Male,1 month or less,27778
+2002/2003,All Provinces and territories,Male,Greater than 1 month to 3 months,14775
+2002/2003,All Provinces and territories,Male,Greater than 3 months to 6 months,7053
+2002/2003,All Provinces and territories,Male,Greater than 6 months to 12 months,3875
+2002/2003,All Provinces and territories,Male,Greater than 12 to less than 24 months,1708
+2002/2003,All Provinces and territories,Male,24 months or more,2275
+2002/2003,All Provinces and territories,Male,Unknown sentence length ordered,5302
+2002/2003,All Provinces and territories,Female,"Total, sentence length ordered",6137
+2002/2003,All Provinces and territories,Female,1 month or less,3525
+2002/2003,All Provinces and territories,Female,Greater than 1 month to 3 months,1228
+2002/2003,All Provinces and territories,Female,Greater than 3 months to 6 months,476
+2002/2003,All Provinces and territories,Female,Greater than 6 months to 12 months,222
+2002/2003,All Provinces and territories,Female,Greater than 12 to less than 24 months,84
+2002/2003,All Provinces and territories,Female,24 months or more,137
+2002/2003,All Provinces and territories,Female,Unknown sentence length ordered,465
+2002/2003,All Provinces and territories,Sex unknown,"Total, sentence length ordered",130
+2002/2003,All Provinces and territories,Sex unknown,1 month or less,3
+2002/2003,All Provinces and territories,Sex unknown,Greater than 1 month to 3 months,2
+2002/2003,All Provinces and territories,Sex unknown,Greater than 3 months to 6 months,3
+2002/2003,All Provinces and territories,Sex unknown,Greater than 6 months to 12 months,0
+2002/2003,All Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,2
+2002/2003,All Provinces and territories,Sex unknown,24 months or more,0
+2002/2003,All Provinces and territories,Sex unknown,Unknown sentence length ordered,120
 2002/2003,Newfoundland and Labrador,"Total, custodial admission by sex","Total, sentence length ordered",1148
 2002/2003,Newfoundland and Labrador,"Total, custodial admission by sex",1 month or less,385
 2002/2003,Newfoundland and Labrador,"Total, custodial admission by sex",Greater than 1 month to 3 months,293
@@ -1376,38 +1376,38 @@
 2002/2003,Nunavut,Sex unknown,Greater than 12 to less than 24 months,0
 2002/2003,Nunavut,Sex unknown,24 months or more,0
 2002/2003,Nunavut,Sex unknown,Unknown sentence length ordered,0
-2003/2004,Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",65632
-2003/2004,Provinces and territories,"Total, custodial admission by sex",1 month or less,31384
-2003/2004,Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,15236
-2003/2004,Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,6705
-2003/2004,Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,3499
-2003/2004,Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,1685
-2003/2004,Provinces and territories,"Total, custodial admission by sex",24 months or more,1318
-2003/2004,Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,5805
-2003/2004,Provinces and territories,Male,"Total, sentence length ordered",59744
-2003/2004,Provinces and territories,Male,1 month or less,27695
-2003/2004,Provinces and territories,Male,Greater than 1 month to 3 months,14189
-2003/2004,Provinces and territories,Male,Greater than 3 months to 6 months,6314
-2003/2004,Provinces and territories,Male,Greater than 6 months to 12 months,3323
-2003/2004,Provinces and territories,Male,Greater than 12 to less than 24 months,1595
-2003/2004,Provinces and territories,Male,24 months or more,1244
-2003/2004,Provinces and territories,Male,Unknown sentence length ordered,5384
-2003/2004,Provinces and territories,Female,"Total, sentence length ordered",5867
-2003/2004,Provinces and territories,Female,1 month or less,3679
-2003/2004,Provinces and territories,Female,Greater than 1 month to 3 months,1042
-2003/2004,Provinces and territories,Female,Greater than 3 months to 6 months,389
-2003/2004,Provinces and territories,Female,Greater than 6 months to 12 months,175
-2003/2004,Provinces and territories,Female,Greater than 12 to less than 24 months,89
-2003/2004,Provinces and territories,Female,24 months or more,73
-2003/2004,Provinces and territories,Female,Unknown sentence length ordered,420
-2003/2004,Provinces and territories,Sex unknown,"Total, sentence length ordered",21
-2003/2004,Provinces and territories,Sex unknown,1 month or less,10
-2003/2004,Provinces and territories,Sex unknown,Greater than 1 month to 3 months,5
-2003/2004,Provinces and territories,Sex unknown,Greater than 3 months to 6 months,2
-2003/2004,Provinces and territories,Sex unknown,Greater than 6 months to 12 months,1
-2003/2004,Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,1
-2003/2004,Provinces and territories,Sex unknown,24 months or more,1
-2003/2004,Provinces and territories,Sex unknown,Unknown sentence length ordered,1
+2003/2004,All Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",65632
+2003/2004,All Provinces and territories,"Total, custodial admission by sex",1 month or less,31384
+2003/2004,All Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,15236
+2003/2004,All Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,6705
+2003/2004,All Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,3499
+2003/2004,All Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,1685
+2003/2004,All Provinces and territories,"Total, custodial admission by sex",24 months or more,1318
+2003/2004,All Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,5805
+2003/2004,All Provinces and territories,Male,"Total, sentence length ordered",59744
+2003/2004,All Provinces and territories,Male,1 month or less,27695
+2003/2004,All Provinces and territories,Male,Greater than 1 month to 3 months,14189
+2003/2004,All Provinces and territories,Male,Greater than 3 months to 6 months,6314
+2003/2004,All Provinces and territories,Male,Greater than 6 months to 12 months,3323
+2003/2004,All Provinces and territories,Male,Greater than 12 to less than 24 months,1595
+2003/2004,All Provinces and territories,Male,24 months or more,1244
+2003/2004,All Provinces and territories,Male,Unknown sentence length ordered,5384
+2003/2004,All Provinces and territories,Female,"Total, sentence length ordered",5867
+2003/2004,All Provinces and territories,Female,1 month or less,3679
+2003/2004,All Provinces and territories,Female,Greater than 1 month to 3 months,1042
+2003/2004,All Provinces and territories,Female,Greater than 3 months to 6 months,389
+2003/2004,All Provinces and territories,Female,Greater than 6 months to 12 months,175
+2003/2004,All Provinces and territories,Female,Greater than 12 to less than 24 months,89
+2003/2004,All Provinces and territories,Female,24 months or more,73
+2003/2004,All Provinces and territories,Female,Unknown sentence length ordered,420
+2003/2004,All Provinces and territories,Sex unknown,"Total, sentence length ordered",21
+2003/2004,All Provinces and territories,Sex unknown,1 month or less,10
+2003/2004,All Provinces and territories,Sex unknown,Greater than 1 month to 3 months,5
+2003/2004,All Provinces and territories,Sex unknown,Greater than 3 months to 6 months,2
+2003/2004,All Provinces and territories,Sex unknown,Greater than 6 months to 12 months,1
+2003/2004,All Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,1
+2003/2004,All Provinces and territories,Sex unknown,24 months or more,1
+2003/2004,All Provinces and territories,Sex unknown,Unknown sentence length ordered,1
 2003/2004,Newfoundland and Labrador,"Total, custodial admission by sex","Total, sentence length ordered",1187
 2003/2004,Newfoundland and Labrador,"Total, custodial admission by sex",1 month or less,469
 2003/2004,Newfoundland and Labrador,"Total, custodial admission by sex",Greater than 1 month to 3 months,366
@@ -1835,38 +1835,38 @@
 2003/2004,Nunavut,Sex unknown,Greater than 12 to less than 24 months,0
 2003/2004,Nunavut,Sex unknown,24 months or more,0
 2003/2004,Nunavut,Sex unknown,Unknown sentence length ordered,0
-2004/2005,Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",63013
-2004/2005,Provinces and territories,"Total, custodial admission by sex",1 month or less,29364
-2004/2005,Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,14666
-2004/2005,Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,6671
-2004/2005,Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,3848
-2004/2005,Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,1862
-2004/2005,Provinces and territories,"Total, custodial admission by sex",24 months or more,1158
-2004/2005,Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,5444
-2004/2005,Provinces and territories,Male,"Total, sentence length ordered",56991
-2004/2005,Provinces and territories,Male,1 month or less,25822
-2004/2005,Provinces and territories,Male,Greater than 1 month to 3 months,13511
-2004/2005,Provinces and territories,Male,Greater than 3 months to 6 months,6208
-2004/2005,Provinces and territories,Male,Greater than 6 months to 12 months,3630
-2004/2005,Provinces and territories,Male,Greater than 12 to less than 24 months,1765
-2004/2005,Provinces and territories,Male,24 months or more,1060
-2004/2005,Provinces and territories,Male,Unknown sentence length ordered,4995
-2004/2005,Provinces and territories,Female,"Total, sentence length ordered",5995
-2004/2005,Provinces and territories,Female,1 month or less,3532
-2004/2005,Provinces and territories,Female,Greater than 1 month to 3 months,1145
-2004/2005,Provinces and territories,Female,Greater than 3 months to 6 months,460
-2004/2005,Provinces and territories,Female,Greater than 6 months to 12 months,217
-2004/2005,Provinces and territories,Female,Greater than 12 to less than 24 months,96
-2004/2005,Provinces and territories,Female,24 months or more,97
-2004/2005,Provinces and territories,Female,Unknown sentence length ordered,448
-2004/2005,Provinces and territories,Sex unknown,"Total, sentence length ordered",27
-2004/2005,Provinces and territories,Sex unknown,1 month or less,10
-2004/2005,Provinces and territories,Sex unknown,Greater than 1 month to 3 months,10
-2004/2005,Provinces and territories,Sex unknown,Greater than 3 months to 6 months,3
-2004/2005,Provinces and territories,Sex unknown,Greater than 6 months to 12 months,1
-2004/2005,Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,1
-2004/2005,Provinces and territories,Sex unknown,24 months or more,1
-2004/2005,Provinces and territories,Sex unknown,Unknown sentence length ordered,1
+2004/2005,All Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",63013
+2004/2005,All Provinces and territories,"Total, custodial admission by sex",1 month or less,29364
+2004/2005,All Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,14666
+2004/2005,All Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,6671
+2004/2005,All Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,3848
+2004/2005,All Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,1862
+2004/2005,All Provinces and territories,"Total, custodial admission by sex",24 months or more,1158
+2004/2005,All Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,5444
+2004/2005,All Provinces and territories,Male,"Total, sentence length ordered",56991
+2004/2005,All Provinces and territories,Male,1 month or less,25822
+2004/2005,All Provinces and territories,Male,Greater than 1 month to 3 months,13511
+2004/2005,All Provinces and territories,Male,Greater than 3 months to 6 months,6208
+2004/2005,All Provinces and territories,Male,Greater than 6 months to 12 months,3630
+2004/2005,All Provinces and territories,Male,Greater than 12 to less than 24 months,1765
+2004/2005,All Provinces and territories,Male,24 months or more,1060
+2004/2005,All Provinces and territories,Male,Unknown sentence length ordered,4995
+2004/2005,All Provinces and territories,Female,"Total, sentence length ordered",5995
+2004/2005,All Provinces and territories,Female,1 month or less,3532
+2004/2005,All Provinces and territories,Female,Greater than 1 month to 3 months,1145
+2004/2005,All Provinces and territories,Female,Greater than 3 months to 6 months,460
+2004/2005,All Provinces and territories,Female,Greater than 6 months to 12 months,217
+2004/2005,All Provinces and territories,Female,Greater than 12 to less than 24 months,96
+2004/2005,All Provinces and territories,Female,24 months or more,97
+2004/2005,All Provinces and territories,Female,Unknown sentence length ordered,448
+2004/2005,All Provinces and territories,Sex unknown,"Total, sentence length ordered",27
+2004/2005,All Provinces and territories,Sex unknown,1 month or less,10
+2004/2005,All Provinces and territories,Sex unknown,Greater than 1 month to 3 months,10
+2004/2005,All Provinces and territories,Sex unknown,Greater than 3 months to 6 months,3
+2004/2005,All Provinces and territories,Sex unknown,Greater than 6 months to 12 months,1
+2004/2005,All Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,1
+2004/2005,All Provinces and territories,Sex unknown,24 months or more,1
+2004/2005,All Provinces and territories,Sex unknown,Unknown sentence length ordered,1
 2004/2005,Newfoundland and Labrador,"Total, custodial admission by sex","Total, sentence length ordered",1085
 2004/2005,Newfoundland and Labrador,"Total, custodial admission by sex",1 month or less,402
 2004/2005,Newfoundland and Labrador,"Total, custodial admission by sex",Greater than 1 month to 3 months,308
@@ -2294,38 +2294,38 @@
 2004/2005,Nunavut,Sex unknown,Greater than 12 to less than 24 months,0
 2004/2005,Nunavut,Sex unknown,24 months or more,0
 2004/2005,Nunavut,Sex unknown,Unknown sentence length ordered,0
-2005/2006,Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",79773
-2005/2006,Provinces and territories,"Total, custodial admission by sex",1 month or less,29128
-2005/2006,Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,14605
-2005/2006,Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,6618
-2005/2006,Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,3882
-2005/2006,Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,1902
-2005/2006,Provinces and territories,"Total, custodial admission by sex",24 months or more,1215
-2005/2006,Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,22423
-2005/2006,Provinces and territories,Male,"Total, sentence length ordered",71292
-2005/2006,Provinces and territories,Male,1 month or less,25418
-2005/2006,Provinces and territories,Male,Greater than 1 month to 3 months,13442
-2005/2006,Provinces and territories,Male,Greater than 3 months to 6 months,6121
-2005/2006,Provinces and territories,Male,Greater than 6 months to 12 months,3662
-2005/2006,Provinces and territories,Male,Greater than 12 to less than 24 months,1806
-2005/2006,Provinces and territories,Male,24 months or more,1131
-2005/2006,Provinces and territories,Male,Unknown sentence length ordered,19712
-2005/2006,Provinces and territories,Female,"Total, sentence length ordered",8458
-2005/2006,Provinces and territories,Female,1 month or less,3701
-2005/2006,Provinces and territories,Female,Greater than 1 month to 3 months,1158
-2005/2006,Provinces and territories,Female,Greater than 3 months to 6 months,493
-2005/2006,Provinces and territories,Female,Greater than 6 months to 12 months,218
-2005/2006,Provinces and territories,Female,Greater than 12 to less than 24 months,96
-2005/2006,Provinces and territories,Female,24 months or more,83
-2005/2006,Provinces and territories,Female,Unknown sentence length ordered,2709
-2005/2006,Provinces and territories,Sex unknown,"Total, sentence length ordered",23
-2005/2006,Provinces and territories,Sex unknown,1 month or less,9
-2005/2006,Provinces and territories,Sex unknown,Greater than 1 month to 3 months,5
-2005/2006,Provinces and territories,Sex unknown,Greater than 3 months to 6 months,4
-2005/2006,Provinces and territories,Sex unknown,Greater than 6 months to 12 months,2
-2005/2006,Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,0
-2005/2006,Provinces and territories,Sex unknown,24 months or more,1
-2005/2006,Provinces and territories,Sex unknown,Unknown sentence length ordered,2
+2005/2006,All Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",79773
+2005/2006,All Provinces and territories,"Total, custodial admission by sex",1 month or less,29128
+2005/2006,All Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,14605
+2005/2006,All Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,6618
+2005/2006,All Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,3882
+2005/2006,All Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,1902
+2005/2006,All Provinces and territories,"Total, custodial admission by sex",24 months or more,1215
+2005/2006,All Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,22423
+2005/2006,All Provinces and territories,Male,"Total, sentence length ordered",71292
+2005/2006,All Provinces and territories,Male,1 month or less,25418
+2005/2006,All Provinces and territories,Male,Greater than 1 month to 3 months,13442
+2005/2006,All Provinces and territories,Male,Greater than 3 months to 6 months,6121
+2005/2006,All Provinces and territories,Male,Greater than 6 months to 12 months,3662
+2005/2006,All Provinces and territories,Male,Greater than 12 to less than 24 months,1806
+2005/2006,All Provinces and territories,Male,24 months or more,1131
+2005/2006,All Provinces and territories,Male,Unknown sentence length ordered,19712
+2005/2006,All Provinces and territories,Female,"Total, sentence length ordered",8458
+2005/2006,All Provinces and territories,Female,1 month or less,3701
+2005/2006,All Provinces and territories,Female,Greater than 1 month to 3 months,1158
+2005/2006,All Provinces and territories,Female,Greater than 3 months to 6 months,493
+2005/2006,All Provinces and territories,Female,Greater than 6 months to 12 months,218
+2005/2006,All Provinces and territories,Female,Greater than 12 to less than 24 months,96
+2005/2006,All Provinces and territories,Female,24 months or more,83
+2005/2006,All Provinces and territories,Female,Unknown sentence length ordered,2709
+2005/2006,All Provinces and territories,Sex unknown,"Total, sentence length ordered",23
+2005/2006,All Provinces and territories,Sex unknown,1 month or less,9
+2005/2006,All Provinces and territories,Sex unknown,Greater than 1 month to 3 months,5
+2005/2006,All Provinces and territories,Sex unknown,Greater than 3 months to 6 months,4
+2005/2006,All Provinces and territories,Sex unknown,Greater than 6 months to 12 months,2
+2005/2006,All Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,0
+2005/2006,All Provinces and territories,Sex unknown,24 months or more,1
+2005/2006,All Provinces and territories,Sex unknown,Unknown sentence length ordered,2
 2005/2006,Newfoundland and Labrador,"Total, custodial admission by sex","Total, sentence length ordered",1047
 2005/2006,Newfoundland and Labrador,"Total, custodial admission by sex",1 month or less,391
 2005/2006,Newfoundland and Labrador,"Total, custodial admission by sex",Greater than 1 month to 3 months,304
@@ -2753,38 +2753,38 @@
 2005/2006,Nunavut,Sex unknown,Greater than 12 to less than 24 months,0
 2005/2006,Nunavut,Sex unknown,24 months or more,0
 2005/2006,Nunavut,Sex unknown,Unknown sentence length ordered,0
-2006/2007,Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",80744
-2006/2007,Provinces and territories,"Total, custodial admission by sex",1 month or less,30251
-2006/2007,Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,14289
-2006/2007,Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,6499
-2006/2007,Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,3990
-2006/2007,Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,1944
-2006/2007,Provinces and territories,"Total, custodial admission by sex",24 months or more,1441
-2006/2007,Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,22330
-2006/2007,Provinces and territories,Male,"Total, sentence length ordered",71688
-2006/2007,Provinces and territories,Male,1 month or less,26162
-2006/2007,Provinces and territories,Male,Greater than 1 month to 3 months,13045
-2006/2007,Provinces and territories,Male,Greater than 3 months to 6 months,5995
-2006/2007,Provinces and territories,Male,Greater than 6 months to 12 months,3712
-2006/2007,Provinces and territories,Male,Greater than 12 to less than 24 months,1840
-2006/2007,Provinces and territories,Male,24 months or more,1347
-2006/2007,Provinces and territories,Male,Unknown sentence length ordered,19587
-2006/2007,Provinces and territories,Female,"Total, sentence length ordered",9023
-2006/2007,Provinces and territories,Female,1 month or less,4078
-2006/2007,Provinces and territories,Female,Greater than 1 month to 3 months,1235
-2006/2007,Provinces and territories,Female,Greater than 3 months to 6 months,502
-2006/2007,Provinces and territories,Female,Greater than 6 months to 12 months,275
-2006/2007,Provinces and territories,Female,Greater than 12 to less than 24 months,99
-2006/2007,Provinces and territories,Female,24 months or more,93
-2006/2007,Provinces and territories,Female,Unknown sentence length ordered,2741
-2006/2007,Provinces and territories,Sex unknown,"Total, sentence length ordered",33
-2006/2007,Provinces and territories,Sex unknown,1 month or less,11
-2006/2007,Provinces and territories,Sex unknown,Greater than 1 month to 3 months,9
-2006/2007,Provinces and territories,Sex unknown,Greater than 3 months to 6 months,2
-2006/2007,Provinces and territories,Sex unknown,Greater than 6 months to 12 months,3
-2006/2007,Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,5
-2006/2007,Provinces and territories,Sex unknown,24 months or more,1
-2006/2007,Provinces and territories,Sex unknown,Unknown sentence length ordered,2
+2006/2007,All Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",80744
+2006/2007,All Provinces and territories,"Total, custodial admission by sex",1 month or less,30251
+2006/2007,All Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,14289
+2006/2007,All Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,6499
+2006/2007,All Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,3990
+2006/2007,All Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,1944
+2006/2007,All Provinces and territories,"Total, custodial admission by sex",24 months or more,1441
+2006/2007,All Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,22330
+2006/2007,All Provinces and territories,Male,"Total, sentence length ordered",71688
+2006/2007,All Provinces and territories,Male,1 month or less,26162
+2006/2007,All Provinces and territories,Male,Greater than 1 month to 3 months,13045
+2006/2007,All Provinces and territories,Male,Greater than 3 months to 6 months,5995
+2006/2007,All Provinces and territories,Male,Greater than 6 months to 12 months,3712
+2006/2007,All Provinces and territories,Male,Greater than 12 to less than 24 months,1840
+2006/2007,All Provinces and territories,Male,24 months or more,1347
+2006/2007,All Provinces and territories,Male,Unknown sentence length ordered,19587
+2006/2007,All Provinces and territories,Female,"Total, sentence length ordered",9023
+2006/2007,All Provinces and territories,Female,1 month or less,4078
+2006/2007,All Provinces and territories,Female,Greater than 1 month to 3 months,1235
+2006/2007,All Provinces and territories,Female,Greater than 3 months to 6 months,502
+2006/2007,All Provinces and territories,Female,Greater than 6 months to 12 months,275
+2006/2007,All Provinces and territories,Female,Greater than 12 to less than 24 months,99
+2006/2007,All Provinces and territories,Female,24 months or more,93
+2006/2007,All Provinces and territories,Female,Unknown sentence length ordered,2741
+2006/2007,All Provinces and territories,Sex unknown,"Total, sentence length ordered",33
+2006/2007,All Provinces and territories,Sex unknown,1 month or less,11
+2006/2007,All Provinces and territories,Sex unknown,Greater than 1 month to 3 months,9
+2006/2007,All Provinces and territories,Sex unknown,Greater than 3 months to 6 months,2
+2006/2007,All Provinces and territories,Sex unknown,Greater than 6 months to 12 months,3
+2006/2007,All Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,5
+2006/2007,All Provinces and territories,Sex unknown,24 months or more,1
+2006/2007,All Provinces and territories,Sex unknown,Unknown sentence length ordered,2
 2006/2007,Newfoundland and Labrador,"Total, custodial admission by sex","Total, sentence length ordered",1025
 2006/2007,Newfoundland and Labrador,"Total, custodial admission by sex",1 month or less,372
 2006/2007,Newfoundland and Labrador,"Total, custodial admission by sex",Greater than 1 month to 3 months,294
@@ -3212,38 +3212,38 @@
 2006/2007,Nunavut,Sex unknown,Greater than 12 to less than 24 months,0
 2006/2007,Nunavut,Sex unknown,24 months or more,0
 2006/2007,Nunavut,Sex unknown,Unknown sentence length ordered,0
-2007/2008,Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",81853
-2007/2008,Provinces and territories,"Total, custodial admission by sex",1 month or less,31432
-2007/2008,Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,14134
-2007/2008,Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,6495
-2007/2008,Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,4021
-2007/2008,Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,2099
-2007/2008,Provinces and territories,"Total, custodial admission by sex",24 months or more,1328
-2007/2008,Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,22344
-2007/2008,Provinces and territories,Male,"Total, sentence length ordered",72748
-2007/2008,Provinces and territories,Male,1 month or less,27272
-2007/2008,Provinces and territories,Male,Greater than 1 month to 3 months,12936
-2007/2008,Provinces and territories,Male,Greater than 3 months to 6 months,5958
-2007/2008,Provinces and territories,Male,Greater than 6 months to 12 months,3792
-2007/2008,Provinces and territories,Male,Greater than 12 to less than 24 months,1992
-2007/2008,Provinces and territories,Male,24 months or more,1240
-2007/2008,Provinces and territories,Male,Unknown sentence length ordered,19558
-2007/2008,Provinces and territories,Female,"Total, sentence length ordered",9049
-2007/2008,Provinces and territories,Female,1 month or less,4132
-2007/2008,Provinces and territories,Female,Greater than 1 month to 3 months,1186
-2007/2008,Provinces and territories,Female,Greater than 3 months to 6 months,531
-2007/2008,Provinces and territories,Female,Greater than 6 months to 12 months,227
-2007/2008,Provinces and territories,Female,Greater than 12 to less than 24 months,101
-2007/2008,Provinces and territories,Female,24 months or more,88
-2007/2008,Provinces and territories,Female,Unknown sentence length ordered,2784
-2007/2008,Provinces and territories,Sex unknown,"Total, sentence length ordered",56
-2007/2008,Provinces and territories,Sex unknown,1 month or less,28
-2007/2008,Provinces and territories,Sex unknown,Greater than 1 month to 3 months,12
-2007/2008,Provinces and territories,Sex unknown,Greater than 3 months to 6 months,6
-2007/2008,Provinces and territories,Sex unknown,Greater than 6 months to 12 months,2
-2007/2008,Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,6
-2007/2008,Provinces and territories,Sex unknown,24 months or more,0
-2007/2008,Provinces and territories,Sex unknown,Unknown sentence length ordered,2
+2007/2008,All Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",81853
+2007/2008,All Provinces and territories,"Total, custodial admission by sex",1 month or less,31432
+2007/2008,All Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,14134
+2007/2008,All Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,6495
+2007/2008,All Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,4021
+2007/2008,All Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,2099
+2007/2008,All Provinces and territories,"Total, custodial admission by sex",24 months or more,1328
+2007/2008,All Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,22344
+2007/2008,All Provinces and territories,Male,"Total, sentence length ordered",72748
+2007/2008,All Provinces and territories,Male,1 month or less,27272
+2007/2008,All Provinces and territories,Male,Greater than 1 month to 3 months,12936
+2007/2008,All Provinces and territories,Male,Greater than 3 months to 6 months,5958
+2007/2008,All Provinces and territories,Male,Greater than 6 months to 12 months,3792
+2007/2008,All Provinces and territories,Male,Greater than 12 to less than 24 months,1992
+2007/2008,All Provinces and territories,Male,24 months or more,1240
+2007/2008,All Provinces and territories,Male,Unknown sentence length ordered,19558
+2007/2008,All Provinces and territories,Female,"Total, sentence length ordered",9049
+2007/2008,All Provinces and territories,Female,1 month or less,4132
+2007/2008,All Provinces and territories,Female,Greater than 1 month to 3 months,1186
+2007/2008,All Provinces and territories,Female,Greater than 3 months to 6 months,531
+2007/2008,All Provinces and territories,Female,Greater than 6 months to 12 months,227
+2007/2008,All Provinces and territories,Female,Greater than 12 to less than 24 months,101
+2007/2008,All Provinces and territories,Female,24 months or more,88
+2007/2008,All Provinces and territories,Female,Unknown sentence length ordered,2784
+2007/2008,All Provinces and territories,Sex unknown,"Total, sentence length ordered",56
+2007/2008,All Provinces and territories,Sex unknown,1 month or less,28
+2007/2008,All Provinces and territories,Sex unknown,Greater than 1 month to 3 months,12
+2007/2008,All Provinces and territories,Sex unknown,Greater than 3 months to 6 months,6
+2007/2008,All Provinces and territories,Sex unknown,Greater than 6 months to 12 months,2
+2007/2008,All Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,6
+2007/2008,All Provinces and territories,Sex unknown,24 months or more,0
+2007/2008,All Provinces and territories,Sex unknown,Unknown sentence length ordered,2
 2007/2008,Newfoundland and Labrador,"Total, custodial admission by sex","Total, sentence length ordered",1009
 2007/2008,Newfoundland and Labrador,"Total, custodial admission by sex",1 month or less,350
 2007/2008,Newfoundland and Labrador,"Total, custodial admission by sex",Greater than 1 month to 3 months,294
@@ -3671,38 +3671,38 @@
 2007/2008,Nunavut,Sex unknown,Greater than 12 to less than 24 months,0
 2007/2008,Nunavut,Sex unknown,24 months or more,0
 2007/2008,Nunavut,Sex unknown,Unknown sentence length ordered,0
-2008/2009,Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",83078
-2008/2009,Provinces and territories,"Total, custodial admission by sex",1 month or less,30966
-2008/2009,Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,14149
-2008/2009,Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,6473
-2008/2009,Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,4169
-2008/2009,Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,2112
-2008/2009,Provinces and territories,"Total, custodial admission by sex",24 months or more,1190
-2008/2009,Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,24019
-2008/2009,Provinces and territories,Male,"Total, sentence length ordered",73805
-2008/2009,Provinces and territories,Male,1 month or less,26985
-2008/2009,Provinces and territories,Male,Greater than 1 month to 3 months,12855
-2008/2009,Provinces and territories,Male,Greater than 3 months to 6 months,5935
-2008/2009,Provinces and territories,Male,Greater than 6 months to 12 months,3918
-2008/2009,Provinces and territories,Male,Greater than 12 to less than 24 months,1978
-2008/2009,Provinces and territories,Male,24 months or more,1111
-2008/2009,Provinces and territories,Male,Unknown sentence length ordered,21023
-2008/2009,Provinces and territories,Female,"Total, sentence length ordered",9228
-2008/2009,Provinces and territories,Female,1 month or less,3967
-2008/2009,Provinces and territories,Female,Greater than 1 month to 3 months,1282
-2008/2009,Provinces and territories,Female,Greater than 3 months to 6 months,532
-2008/2009,Provinces and territories,Female,Greater than 6 months to 12 months,248
-2008/2009,Provinces and territories,Female,Greater than 12 to less than 24 months,127
-2008/2009,Provinces and territories,Female,24 months or more,78
-2008/2009,Provinces and territories,Female,Unknown sentence length ordered,2994
-2008/2009,Provinces and territories,Sex unknown,"Total, sentence length ordered",45
-2008/2009,Provinces and territories,Sex unknown,1 month or less,14
-2008/2009,Provinces and territories,Sex unknown,Greater than 1 month to 3 months,12
-2008/2009,Provinces and territories,Sex unknown,Greater than 3 months to 6 months,6
-2008/2009,Provinces and territories,Sex unknown,Greater than 6 months to 12 months,3
-2008/2009,Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,7
-2008/2009,Provinces and territories,Sex unknown,24 months or more,1
-2008/2009,Provinces and territories,Sex unknown,Unknown sentence length ordered,2
+2008/2009,All Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",83078
+2008/2009,All Provinces and territories,"Total, custodial admission by sex",1 month or less,30966
+2008/2009,All Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,14149
+2008/2009,All Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,6473
+2008/2009,All Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,4169
+2008/2009,All Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,2112
+2008/2009,All Provinces and territories,"Total, custodial admission by sex",24 months or more,1190
+2008/2009,All Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,24019
+2008/2009,All Provinces and territories,Male,"Total, sentence length ordered",73805
+2008/2009,All Provinces and territories,Male,1 month or less,26985
+2008/2009,All Provinces and territories,Male,Greater than 1 month to 3 months,12855
+2008/2009,All Provinces and territories,Male,Greater than 3 months to 6 months,5935
+2008/2009,All Provinces and territories,Male,Greater than 6 months to 12 months,3918
+2008/2009,All Provinces and territories,Male,Greater than 12 to less than 24 months,1978
+2008/2009,All Provinces and territories,Male,24 months or more,1111
+2008/2009,All Provinces and territories,Male,Unknown sentence length ordered,21023
+2008/2009,All Provinces and territories,Female,"Total, sentence length ordered",9228
+2008/2009,All Provinces and territories,Female,1 month or less,3967
+2008/2009,All Provinces and territories,Female,Greater than 1 month to 3 months,1282
+2008/2009,All Provinces and territories,Female,Greater than 3 months to 6 months,532
+2008/2009,All Provinces and territories,Female,Greater than 6 months to 12 months,248
+2008/2009,All Provinces and territories,Female,Greater than 12 to less than 24 months,127
+2008/2009,All Provinces and territories,Female,24 months or more,78
+2008/2009,All Provinces and territories,Female,Unknown sentence length ordered,2994
+2008/2009,All Provinces and territories,Sex unknown,"Total, sentence length ordered",45
+2008/2009,All Provinces and territories,Sex unknown,1 month or less,14
+2008/2009,All Provinces and territories,Sex unknown,Greater than 1 month to 3 months,12
+2008/2009,All Provinces and territories,Sex unknown,Greater than 3 months to 6 months,6
+2008/2009,All Provinces and territories,Sex unknown,Greater than 6 months to 12 months,3
+2008/2009,All Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,7
+2008/2009,All Provinces and territories,Sex unknown,24 months or more,1
+2008/2009,All Provinces and territories,Sex unknown,Unknown sentence length ordered,2
 2008/2009,Newfoundland and Labrador,"Total, custodial admission by sex","Total, sentence length ordered",1015
 2008/2009,Newfoundland and Labrador,"Total, custodial admission by sex",1 month or less,323
 2008/2009,Newfoundland and Labrador,"Total, custodial admission by sex",Greater than 1 month to 3 months,355
@@ -4130,38 +4130,38 @@
 2008/2009,Nunavut,Sex unknown,Greater than 12 to less than 24 months,0
 2008/2009,Nunavut,Sex unknown,24 months or more,0
 2008/2009,Nunavut,Sex unknown,Unknown sentence length ordered,0
-2009/2010,Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",82976
-2009/2010,Provinces and territories,"Total, custodial admission by sex",1 month or less,30893
-2009/2010,Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,14743
-2009/2010,Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,6697
-2009/2010,Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,3907
-2009/2010,Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,2162
-2009/2010,Provinces and territories,"Total, custodial admission by sex",24 months or more,1307
-2009/2010,Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,23267
-2009/2010,Provinces and territories,Male,"Total, sentence length ordered",73940
-2009/2010,Provinces and territories,Male,1 month or less,27076
-2009/2010,Provinces and territories,Male,Greater than 1 month to 3 months,13387
-2009/2010,Provinces and territories,Male,Greater than 3 months to 6 months,6142
-2009/2010,Provinces and territories,Male,Greater than 6 months to 12 months,3625
-2009/2010,Provinces and territories,Male,Greater than 12 to less than 24 months,2038
-2009/2010,Provinces and territories,Male,24 months or more,1233
-2009/2010,Provinces and territories,Male,Unknown sentence length ordered,20439
-2009/2010,Provinces and territories,Female,"Total, sentence length ordered",8990
-2009/2010,Provinces and territories,Female,1 month or less,3802
-2009/2010,Provinces and territories,Female,Greater than 1 month to 3 months,1338
-2009/2010,Provinces and territories,Female,Greater than 3 months to 6 months,551
-2009/2010,Provinces and territories,Female,Greater than 6 months to 12 months,282
-2009/2010,Provinces and territories,Female,Greater than 12 to less than 24 months,117
-2009/2010,Provinces and territories,Female,24 months or more,73
-2009/2010,Provinces and territories,Female,Unknown sentence length ordered,2827
-2009/2010,Provinces and territories,Sex unknown,"Total, sentence length ordered",46
-2009/2010,Provinces and territories,Sex unknown,1 month or less,15
-2009/2010,Provinces and territories,Sex unknown,Greater than 1 month to 3 months,18
-2009/2010,Provinces and territories,Sex unknown,Greater than 3 months to 6 months,4
-2009/2010,Provinces and territories,Sex unknown,Greater than 6 months to 12 months,0
-2009/2010,Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,7
-2009/2010,Provinces and territories,Sex unknown,24 months or more,1
-2009/2010,Provinces and territories,Sex unknown,Unknown sentence length ordered,1
+2009/2010,All Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",82976
+2009/2010,All Provinces and territories,"Total, custodial admission by sex",1 month or less,30893
+2009/2010,All Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,14743
+2009/2010,All Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,6697
+2009/2010,All Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,3907
+2009/2010,All Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,2162
+2009/2010,All Provinces and territories,"Total, custodial admission by sex",24 months or more,1307
+2009/2010,All Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,23267
+2009/2010,All Provinces and territories,Male,"Total, sentence length ordered",73940
+2009/2010,All Provinces and territories,Male,1 month or less,27076
+2009/2010,All Provinces and territories,Male,Greater than 1 month to 3 months,13387
+2009/2010,All Provinces and territories,Male,Greater than 3 months to 6 months,6142
+2009/2010,All Provinces and territories,Male,Greater than 6 months to 12 months,3625
+2009/2010,All Provinces and territories,Male,Greater than 12 to less than 24 months,2038
+2009/2010,All Provinces and territories,Male,24 months or more,1233
+2009/2010,All Provinces and territories,Male,Unknown sentence length ordered,20439
+2009/2010,All Provinces and territories,Female,"Total, sentence length ordered",8990
+2009/2010,All Provinces and territories,Female,1 month or less,3802
+2009/2010,All Provinces and territories,Female,Greater than 1 month to 3 months,1338
+2009/2010,All Provinces and territories,Female,Greater than 3 months to 6 months,551
+2009/2010,All Provinces and territories,Female,Greater than 6 months to 12 months,282
+2009/2010,All Provinces and territories,Female,Greater than 12 to less than 24 months,117
+2009/2010,All Provinces and territories,Female,24 months or more,73
+2009/2010,All Provinces and territories,Female,Unknown sentence length ordered,2827
+2009/2010,All Provinces and territories,Sex unknown,"Total, sentence length ordered",46
+2009/2010,All Provinces and territories,Sex unknown,1 month or less,15
+2009/2010,All Provinces and territories,Sex unknown,Greater than 1 month to 3 months,18
+2009/2010,All Provinces and territories,Sex unknown,Greater than 3 months to 6 months,4
+2009/2010,All Provinces and territories,Sex unknown,Greater than 6 months to 12 months,0
+2009/2010,All Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,7
+2009/2010,All Provinces and territories,Sex unknown,24 months or more,1
+2009/2010,All Provinces and territories,Sex unknown,Unknown sentence length ordered,1
 2009/2010,Newfoundland and Labrador,"Total, custodial admission by sex","Total, sentence length ordered",1154
 2009/2010,Newfoundland and Labrador,"Total, custodial admission by sex",1 month or less,322
 2009/2010,Newfoundland and Labrador,"Total, custodial admission by sex",Greater than 1 month to 3 months,417
@@ -4589,38 +4589,38 @@
 2009/2010,Nunavut,Sex unknown,Greater than 12 to less than 24 months,0
 2009/2010,Nunavut,Sex unknown,24 months or more,0
 2009/2010,Nunavut,Sex unknown,Unknown sentence length ordered,0
-2010/2011,Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",83976
-2010/2011,Provinces and territories,"Total, custodial admission by sex",1 month or less,29565
-2010/2011,Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,16470
-2010/2011,Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,7440
-2010/2011,Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,4242
-2010/2011,Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,2133
-2010/2011,Provinces and territories,"Total, custodial admission by sex",24 months or more,1476
-2010/2011,Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,22650
-2010/2011,Provinces and territories,Male,"Total, sentence length ordered",74781
-2010/2011,Provinces and territories,Male,1 month or less,25846
-2010/2011,Provinces and territories,Male,Greater than 1 month to 3 months,15034
-2010/2011,Provinces and territories,Male,Greater than 3 months to 6 months,6822
-2010/2011,Provinces and territories,Male,Greater than 6 months to 12 months,3991
-2010/2011,Provinces and territories,Male,Greater than 12 to less than 24 months,1986
-2010/2011,Provinces and territories,Male,24 months or more,1405
-2010/2011,Provinces and territories,Male,Unknown sentence length ordered,19697
-2010/2011,Provinces and territories,Female,"Total, sentence length ordered",9134
-2010/2011,Provinces and territories,Female,1 month or less,3696
-2010/2011,Provinces and territories,Female,Greater than 1 month to 3 months,1418
-2010/2011,Provinces and territories,Female,Greater than 3 months to 6 months,612
-2010/2011,Provinces and territories,Female,Greater than 6 months to 12 months,245
-2010/2011,Provinces and territories,Female,Greater than 12 to less than 24 months,142
-2010/2011,Provinces and territories,Female,24 months or more,71
-2010/2011,Provinces and territories,Female,Unknown sentence length ordered,2950
-2010/2011,Provinces and territories,Sex unknown,"Total, sentence length ordered",61
-2010/2011,Provinces and territories,Sex unknown,1 month or less,23
-2010/2011,Provinces and territories,Sex unknown,Greater than 1 month to 3 months,18
-2010/2011,Provinces and territories,Sex unknown,Greater than 3 months to 6 months,6
-2010/2011,Provinces and territories,Sex unknown,Greater than 6 months to 12 months,6
-2010/2011,Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,5
-2010/2011,Provinces and territories,Sex unknown,24 months or more,0
-2010/2011,Provinces and territories,Sex unknown,Unknown sentence length ordered,3
+2010/2011,All Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",83976
+2010/2011,All Provinces and territories,"Total, custodial admission by sex",1 month or less,29565
+2010/2011,All Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,16470
+2010/2011,All Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,7440
+2010/2011,All Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,4242
+2010/2011,All Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,2133
+2010/2011,All Provinces and territories,"Total, custodial admission by sex",24 months or more,1476
+2010/2011,All Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,22650
+2010/2011,All Provinces and territories,Male,"Total, sentence length ordered",74781
+2010/2011,All Provinces and territories,Male,1 month or less,25846
+2010/2011,All Provinces and territories,Male,Greater than 1 month to 3 months,15034
+2010/2011,All Provinces and territories,Male,Greater than 3 months to 6 months,6822
+2010/2011,All Provinces and territories,Male,Greater than 6 months to 12 months,3991
+2010/2011,All Provinces and territories,Male,Greater than 12 to less than 24 months,1986
+2010/2011,All Provinces and territories,Male,24 months or more,1405
+2010/2011,All Provinces and territories,Male,Unknown sentence length ordered,19697
+2010/2011,All Provinces and territories,Female,"Total, sentence length ordered",9134
+2010/2011,All Provinces and territories,Female,1 month or less,3696
+2010/2011,All Provinces and territories,Female,Greater than 1 month to 3 months,1418
+2010/2011,All Provinces and territories,Female,Greater than 3 months to 6 months,612
+2010/2011,All Provinces and territories,Female,Greater than 6 months to 12 months,245
+2010/2011,All Provinces and territories,Female,Greater than 12 to less than 24 months,142
+2010/2011,All Provinces and territories,Female,24 months or more,71
+2010/2011,All Provinces and territories,Female,Unknown sentence length ordered,2950
+2010/2011,All Provinces and territories,Sex unknown,"Total, sentence length ordered",61
+2010/2011,All Provinces and territories,Sex unknown,1 month or less,23
+2010/2011,All Provinces and territories,Sex unknown,Greater than 1 month to 3 months,18
+2010/2011,All Provinces and territories,Sex unknown,Greater than 3 months to 6 months,6
+2010/2011,All Provinces and territories,Sex unknown,Greater than 6 months to 12 months,6
+2010/2011,All Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,5
+2010/2011,All Provinces and territories,Sex unknown,24 months or more,0
+2010/2011,All Provinces and territories,Sex unknown,Unknown sentence length ordered,3
 2010/2011,Newfoundland and Labrador,"Total, custodial admission by sex","Total, sentence length ordered",1253
 2010/2011,Newfoundland and Labrador,"Total, custodial admission by sex",1 month or less,376
 2010/2011,Newfoundland and Labrador,"Total, custodial admission by sex",Greater than 1 month to 3 months,442
@@ -5048,38 +5048,38 @@
 2010/2011,Nunavut,Sex unknown,Greater than 12 to less than 24 months,0
 2010/2011,Nunavut,Sex unknown,24 months or more,0
 2010/2011,Nunavut,Sex unknown,Unknown sentence length ordered,0
-2011/2012,Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",85013
-2011/2012,Provinces and territories,"Total, custodial admission by sex",1 month or less,30263
-2011/2012,Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,16633
-2011/2012,Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,7467
-2011/2012,Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,4289
-2011/2012,Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,2363
-2011/2012,Provinces and territories,"Total, custodial admission by sex",24 months or more,1394
-2011/2012,Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,22604
-2011/2012,Provinces and territories,Male,"Total, sentence length ordered",75327
-2011/2012,Provinces and territories,Male,1 month or less,26396
-2011/2012,Provinces and territories,Male,Greater than 1 month to 3 months,15089
-2011/2012,Provinces and territories,Male,Greater than 3 months to 6 months,6848
-2011/2012,Provinces and territories,Male,Greater than 6 months to 12 months,3979
-2011/2012,Provinces and territories,Male,Greater than 12 to less than 24 months,2206
-2011/2012,Provinces and territories,Male,24 months or more,1310
-2011/2012,Provinces and territories,Male,Unknown sentence length ordered,19499
-2011/2012,Provinces and territories,Female,"Total, sentence length ordered",9588
-2011/2012,Provinces and territories,Female,1 month or less,3823
-2011/2012,Provinces and territories,Female,Greater than 1 month to 3 months,1528
-2011/2012,Provinces and territories,Female,Greater than 3 months to 6 months,608
-2011/2012,Provinces and territories,Female,Greater than 6 months to 12 months,302
-2011/2012,Provinces and territories,Female,Greater than 12 to less than 24 months,150
-2011/2012,Provinces and territories,Female,24 months or more,80
-2011/2012,Provinces and territories,Female,Unknown sentence length ordered,3097
-2011/2012,Provinces and territories,Sex unknown,"Total, sentence length ordered",98
-2011/2012,Provinces and territories,Sex unknown,1 month or less,44
-2011/2012,Provinces and territories,Sex unknown,Greater than 1 month to 3 months,16
-2011/2012,Provinces and territories,Sex unknown,Greater than 3 months to 6 months,11
-2011/2012,Provinces and territories,Sex unknown,Greater than 6 months to 12 months,8
-2011/2012,Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,7
-2011/2012,Provinces and territories,Sex unknown,24 months or more,4
-2011/2012,Provinces and territories,Sex unknown,Unknown sentence length ordered,8
+2011/2012,All Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",85013
+2011/2012,All Provinces and territories,"Total, custodial admission by sex",1 month or less,30263
+2011/2012,All Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,16633
+2011/2012,All Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,7467
+2011/2012,All Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,4289
+2011/2012,All Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,2363
+2011/2012,All Provinces and territories,"Total, custodial admission by sex",24 months or more,1394
+2011/2012,All Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,22604
+2011/2012,All Provinces and territories,Male,"Total, sentence length ordered",75327
+2011/2012,All Provinces and territories,Male,1 month or less,26396
+2011/2012,All Provinces and territories,Male,Greater than 1 month to 3 months,15089
+2011/2012,All Provinces and territories,Male,Greater than 3 months to 6 months,6848
+2011/2012,All Provinces and territories,Male,Greater than 6 months to 12 months,3979
+2011/2012,All Provinces and territories,Male,Greater than 12 to less than 24 months,2206
+2011/2012,All Provinces and territories,Male,24 months or more,1310
+2011/2012,All Provinces and territories,Male,Unknown sentence length ordered,19499
+2011/2012,All Provinces and territories,Female,"Total, sentence length ordered",9588
+2011/2012,All Provinces and territories,Female,1 month or less,3823
+2011/2012,All Provinces and territories,Female,Greater than 1 month to 3 months,1528
+2011/2012,All Provinces and territories,Female,Greater than 3 months to 6 months,608
+2011/2012,All Provinces and territories,Female,Greater than 6 months to 12 months,302
+2011/2012,All Provinces and territories,Female,Greater than 12 to less than 24 months,150
+2011/2012,All Provinces and territories,Female,24 months or more,80
+2011/2012,All Provinces and territories,Female,Unknown sentence length ordered,3097
+2011/2012,All Provinces and territories,Sex unknown,"Total, sentence length ordered",98
+2011/2012,All Provinces and territories,Sex unknown,1 month or less,44
+2011/2012,All Provinces and territories,Sex unknown,Greater than 1 month to 3 months,16
+2011/2012,All Provinces and territories,Sex unknown,Greater than 3 months to 6 months,11
+2011/2012,All Provinces and territories,Sex unknown,Greater than 6 months to 12 months,8
+2011/2012,All Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,7
+2011/2012,All Provinces and territories,Sex unknown,24 months or more,4
+2011/2012,All Provinces and territories,Sex unknown,Unknown sentence length ordered,8
 2011/2012,Newfoundland and Labrador,"Total, custodial admission by sex","Total, sentence length ordered",1209
 2011/2012,Newfoundland and Labrador,"Total, custodial admission by sex",1 month or less,349
 2011/2012,Newfoundland and Labrador,"Total, custodial admission by sex",Greater than 1 month to 3 months,482
@@ -5507,38 +5507,38 @@
 2011/2012,Nunavut,Sex unknown,Greater than 12 to less than 24 months,0
 2011/2012,Nunavut,Sex unknown,24 months or more,0
 2011/2012,Nunavut,Sex unknown,Unknown sentence length ordered,0
-2012/2013,Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",65922
-2012/2013,Provinces and territories,"Total, custodial admission by sex",1 month or less,29339
-2012/2013,Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,16311
-2012/2013,Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,6819
-2012/2013,Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,4392
-2012/2013,Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,2806
-2012/2013,Provinces and territories,"Total, custodial admission by sex",24 months or more,1109
-2012/2013,Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,5146
-2012/2013,Provinces and territories,Male,"Total, sentence length ordered",59010
-2012/2013,Provinces and territories,Male,1 month or less,25644
-2012/2013,Provinces and territories,Male,Greater than 1 month to 3 months,14693
-2012/2013,Provinces and territories,Male,Greater than 3 months to 6 months,6215
-2012/2013,Provinces and territories,Male,Greater than 6 months to 12 months,4045
-2012/2013,Provinces and territories,Male,Greater than 12 to less than 24 months,2628
-2012/2013,Provinces and territories,Male,24 months or more,1042
-2012/2013,Provinces and territories,Male,Unknown sentence length ordered,4743
-2012/2013,Provinces and territories,Female,"Total, sentence length ordered",6817
-2012/2013,Provinces and territories,Female,1 month or less,3664
-2012/2013,Provinces and territories,Female,Greater than 1 month to 3 months,1592
-2012/2013,Provinces and territories,Female,Greater than 3 months to 6 months,594
-2012/2013,Provinces and territories,Female,Greater than 6 months to 12 months,335
-2012/2013,Provinces and territories,Female,Greater than 12 to less than 24 months,172
-2012/2013,Provinces and territories,Female,24 months or more,64
-2012/2013,Provinces and territories,Female,Unknown sentence length ordered,396
-2012/2013,Provinces and territories,Sex unknown,"Total, sentence length ordered",95
-2012/2013,Provinces and territories,Sex unknown,1 month or less,31
-2012/2013,Provinces and territories,Sex unknown,Greater than 1 month to 3 months,26
-2012/2013,Provinces and territories,Sex unknown,Greater than 3 months to 6 months,10
-2012/2013,Provinces and territories,Sex unknown,Greater than 6 months to 12 months,12
-2012/2013,Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,6
-2012/2013,Provinces and territories,Sex unknown,24 months or more,3
-2012/2013,Provinces and territories,Sex unknown,Unknown sentence length ordered,7
+2012/2013,All Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",65922
+2012/2013,All Provinces and territories,"Total, custodial admission by sex",1 month or less,29339
+2012/2013,All Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,16311
+2012/2013,All Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,6819
+2012/2013,All Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,4392
+2012/2013,All Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,2806
+2012/2013,All Provinces and territories,"Total, custodial admission by sex",24 months or more,1109
+2012/2013,All Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,5146
+2012/2013,All Provinces and territories,Male,"Total, sentence length ordered",59010
+2012/2013,All Provinces and territories,Male,1 month or less,25644
+2012/2013,All Provinces and territories,Male,Greater than 1 month to 3 months,14693
+2012/2013,All Provinces and territories,Male,Greater than 3 months to 6 months,6215
+2012/2013,All Provinces and territories,Male,Greater than 6 months to 12 months,4045
+2012/2013,All Provinces and territories,Male,Greater than 12 to less than 24 months,2628
+2012/2013,All Provinces and territories,Male,24 months or more,1042
+2012/2013,All Provinces and territories,Male,Unknown sentence length ordered,4743
+2012/2013,All Provinces and territories,Female,"Total, sentence length ordered",6817
+2012/2013,All Provinces and territories,Female,1 month or less,3664
+2012/2013,All Provinces and territories,Female,Greater than 1 month to 3 months,1592
+2012/2013,All Provinces and territories,Female,Greater than 3 months to 6 months,594
+2012/2013,All Provinces and territories,Female,Greater than 6 months to 12 months,335
+2012/2013,All Provinces and territories,Female,Greater than 12 to less than 24 months,172
+2012/2013,All Provinces and territories,Female,24 months or more,64
+2012/2013,All Provinces and territories,Female,Unknown sentence length ordered,396
+2012/2013,All Provinces and territories,Sex unknown,"Total, sentence length ordered",95
+2012/2013,All Provinces and territories,Sex unknown,1 month or less,31
+2012/2013,All Provinces and territories,Sex unknown,Greater than 1 month to 3 months,26
+2012/2013,All Provinces and territories,Sex unknown,Greater than 3 months to 6 months,10
+2012/2013,All Provinces and territories,Sex unknown,Greater than 6 months to 12 months,12
+2012/2013,All Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,6
+2012/2013,All Provinces and territories,Sex unknown,24 months or more,3
+2012/2013,All Provinces and territories,Sex unknown,Unknown sentence length ordered,7
 2012/2013,Newfoundland and Labrador,"Total, custodial admission by sex","Total, sentence length ordered",1110
 2012/2013,Newfoundland and Labrador,"Total, custodial admission by sex",1 month or less,342
 2012/2013,Newfoundland and Labrador,"Total, custodial admission by sex",Greater than 1 month to 3 months,406
@@ -5966,38 +5966,38 @@
 2012/2013,Nunavut,Sex unknown,Greater than 12 to less than 24 months,0
 2012/2013,Nunavut,Sex unknown,24 months or more,0
 2012/2013,Nunavut,Sex unknown,Unknown sentence length ordered,0
-2013/2014,Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",64604
-2013/2014,Provinces and territories,"Total, custodial admission by sex",1 month or less,27980
-2013/2014,Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,15880
-2013/2014,Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,6945
-2013/2014,Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,4583
-2013/2014,Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,2764
-2013/2014,Provinces and territories,"Total, custodial admission by sex",24 months or more,1065
-2013/2014,Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,5387
-2013/2014,Provinces and territories,Male,"Total, sentence length ordered",57596
-2013/2014,Provinces and territories,Male,1 month or less,24203
-2013/2014,Provinces and territories,Male,Greater than 1 month to 3 months,14285
-2013/2014,Provinces and territories,Male,Greater than 3 months to 6 months,6308
-2013/2014,Provinces and territories,Male,Greater than 6 months to 12 months,4205
-2013/2014,Provinces and territories,Male,Greater than 12 to less than 24 months,2573
-2013/2014,Provinces and territories,Male,24 months or more,982
-2013/2014,Provinces and territories,Male,Unknown sentence length ordered,5040
-2013/2014,Provinces and territories,Female,"Total, sentence length ordered",6906
-2013/2014,Provinces and territories,Female,1 month or less,3743
-2013/2014,Provinces and territories,Female,Greater than 1 month to 3 months,1571
-2013/2014,Provinces and territories,Female,Greater than 3 months to 6 months,617
-2013/2014,Provinces and territories,Female,Greater than 6 months to 12 months,369
-2013/2014,Provinces and territories,Female,Greater than 12 to less than 24 months,183
-2013/2014,Provinces and territories,Female,24 months or more,82
-2013/2014,Provinces and territories,Female,Unknown sentence length ordered,341
-2013/2014,Provinces and territories,Sex unknown,"Total, sentence length ordered",102
-2013/2014,Provinces and territories,Sex unknown,1 month or less,34
-2013/2014,Provinces and territories,Sex unknown,Greater than 1 month to 3 months,24
-2013/2014,Provinces and territories,Sex unknown,Greater than 3 months to 6 months,20
-2013/2014,Provinces and territories,Sex unknown,Greater than 6 months to 12 months,9
-2013/2014,Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,8
-2013/2014,Provinces and territories,Sex unknown,24 months or more,1
-2013/2014,Provinces and territories,Sex unknown,Unknown sentence length ordered,6
+2013/2014,All Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",64604
+2013/2014,All Provinces and territories,"Total, custodial admission by sex",1 month or less,27980
+2013/2014,All Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,15880
+2013/2014,All Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,6945
+2013/2014,All Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,4583
+2013/2014,All Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,2764
+2013/2014,All Provinces and territories,"Total, custodial admission by sex",24 months or more,1065
+2013/2014,All Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,5387
+2013/2014,All Provinces and territories,Male,"Total, sentence length ordered",57596
+2013/2014,All Provinces and territories,Male,1 month or less,24203
+2013/2014,All Provinces and territories,Male,Greater than 1 month to 3 months,14285
+2013/2014,All Provinces and territories,Male,Greater than 3 months to 6 months,6308
+2013/2014,All Provinces and territories,Male,Greater than 6 months to 12 months,4205
+2013/2014,All Provinces and territories,Male,Greater than 12 to less than 24 months,2573
+2013/2014,All Provinces and territories,Male,24 months or more,982
+2013/2014,All Provinces and territories,Male,Unknown sentence length ordered,5040
+2013/2014,All Provinces and territories,Female,"Total, sentence length ordered",6906
+2013/2014,All Provinces and territories,Female,1 month or less,3743
+2013/2014,All Provinces and territories,Female,Greater than 1 month to 3 months,1571
+2013/2014,All Provinces and territories,Female,Greater than 3 months to 6 months,617
+2013/2014,All Provinces and territories,Female,Greater than 6 months to 12 months,369
+2013/2014,All Provinces and territories,Female,Greater than 12 to less than 24 months,183
+2013/2014,All Provinces and territories,Female,24 months or more,82
+2013/2014,All Provinces and territories,Female,Unknown sentence length ordered,341
+2013/2014,All Provinces and territories,Sex unknown,"Total, sentence length ordered",102
+2013/2014,All Provinces and territories,Sex unknown,1 month or less,34
+2013/2014,All Provinces and territories,Sex unknown,Greater than 1 month to 3 months,24
+2013/2014,All Provinces and territories,Sex unknown,Greater than 3 months to 6 months,20
+2013/2014,All Provinces and territories,Sex unknown,Greater than 6 months to 12 months,9
+2013/2014,All Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,8
+2013/2014,All Provinces and territories,Sex unknown,24 months or more,1
+2013/2014,All Provinces and territories,Sex unknown,Unknown sentence length ordered,6
 2013/2014,Newfoundland and Labrador,"Total, custodial admission by sex","Total, sentence length ordered",1085
 2013/2014,Newfoundland and Labrador,"Total, custodial admission by sex",1 month or less,327
 2013/2014,Newfoundland and Labrador,"Total, custodial admission by sex",Greater than 1 month to 3 months,406
@@ -6425,38 +6425,38 @@
 2013/2014,Nunavut,Sex unknown,Greater than 12 to less than 24 months,0
 2013/2014,Nunavut,Sex unknown,24 months or more,0
 2013/2014,Nunavut,Sex unknown,Unknown sentence length ordered,0
-2014/2015,Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",62279
-2014/2015,Provinces and territories,"Total, custodial admission by sex",1 month or less,27675
-2014/2015,Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,14978
-2014/2015,Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,6188
-2014/2015,Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,4306
-2014/2015,Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,2439
-2014/2015,Provinces and territories,"Total, custodial admission by sex",24 months or more,1180
-2014/2015,Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,5513
-2014/2015,Provinces and territories,Male,"Total, sentence length ordered",55535
-2014/2015,Provinces and territories,Male,1 month or less,23988
-2014/2015,Provinces and territories,Male,Greater than 1 month to 3 months,13473
-2014/2015,Provinces and territories,Male,Greater than 3 months to 6 months,5610
-2014/2015,Provinces and territories,Male,Greater than 6 months to 12 months,3955
-2014/2015,Provinces and territories,Male,Greater than 12 to less than 24 months,2264
-2014/2015,Provinces and territories,Male,24 months or more,1078
-2014/2015,Provinces and territories,Male,Unknown sentence length ordered,5167
-2014/2015,Provinces and territories,Female,"Total, sentence length ordered",6654
-2014/2015,Provinces and territories,Female,1 month or less,3656
-2014/2015,Provinces and territories,Female,Greater than 1 month to 3 months,1486
-2014/2015,Provinces and territories,Female,Greater than 3 months to 6 months,564
-2014/2015,Provinces and territories,Female,Greater than 6 months to 12 months,337
-2014/2015,Provinces and territories,Female,Greater than 12 to less than 24 months,165
-2014/2015,Provinces and territories,Female,24 months or more,102
-2014/2015,Provinces and territories,Female,Unknown sentence length ordered,344
-2014/2015,Provinces and territories,Sex unknown,"Total, sentence length ordered",90
-2014/2015,Provinces and territories,Sex unknown,1 month or less,31
-2014/2015,Provinces and territories,Sex unknown,Greater than 1 month to 3 months,19
-2014/2015,Provinces and territories,Sex unknown,Greater than 3 months to 6 months,14
-2014/2015,Provinces and territories,Sex unknown,Greater than 6 months to 12 months,14
-2014/2015,Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,10
-2014/2015,Provinces and territories,Sex unknown,24 months or more,0
-2014/2015,Provinces and territories,Sex unknown,Unknown sentence length ordered,2
+2014/2015,All Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",62279
+2014/2015,All Provinces and territories,"Total, custodial admission by sex",1 month or less,27675
+2014/2015,All Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,14978
+2014/2015,All Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,6188
+2014/2015,All Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,4306
+2014/2015,All Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,2439
+2014/2015,All Provinces and territories,"Total, custodial admission by sex",24 months or more,1180
+2014/2015,All Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,5513
+2014/2015,All Provinces and territories,Male,"Total, sentence length ordered",55535
+2014/2015,All Provinces and territories,Male,1 month or less,23988
+2014/2015,All Provinces and territories,Male,Greater than 1 month to 3 months,13473
+2014/2015,All Provinces and territories,Male,Greater than 3 months to 6 months,5610
+2014/2015,All Provinces and territories,Male,Greater than 6 months to 12 months,3955
+2014/2015,All Provinces and territories,Male,Greater than 12 to less than 24 months,2264
+2014/2015,All Provinces and territories,Male,24 months or more,1078
+2014/2015,All Provinces and territories,Male,Unknown sentence length ordered,5167
+2014/2015,All Provinces and territories,Female,"Total, sentence length ordered",6654
+2014/2015,All Provinces and territories,Female,1 month or less,3656
+2014/2015,All Provinces and territories,Female,Greater than 1 month to 3 months,1486
+2014/2015,All Provinces and territories,Female,Greater than 3 months to 6 months,564
+2014/2015,All Provinces and territories,Female,Greater than 6 months to 12 months,337
+2014/2015,All Provinces and territories,Female,Greater than 12 to less than 24 months,165
+2014/2015,All Provinces and territories,Female,24 months or more,102
+2014/2015,All Provinces and territories,Female,Unknown sentence length ordered,344
+2014/2015,All Provinces and territories,Sex unknown,"Total, sentence length ordered",90
+2014/2015,All Provinces and territories,Sex unknown,1 month or less,31
+2014/2015,All Provinces and territories,Sex unknown,Greater than 1 month to 3 months,19
+2014/2015,All Provinces and territories,Sex unknown,Greater than 3 months to 6 months,14
+2014/2015,All Provinces and territories,Sex unknown,Greater than 6 months to 12 months,14
+2014/2015,All Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,10
+2014/2015,All Provinces and territories,Sex unknown,24 months or more,0
+2014/2015,All Provinces and territories,Sex unknown,Unknown sentence length ordered,2
 2014/2015,Newfoundland and Labrador,"Total, custodial admission by sex","Total, sentence length ordered",1131
 2014/2015,Newfoundland and Labrador,"Total, custodial admission by sex",1 month or less,346
 2014/2015,Newfoundland and Labrador,"Total, custodial admission by sex",Greater than 1 month to 3 months,410
@@ -6884,38 +6884,38 @@
 2014/2015,Nunavut,Sex unknown,Greater than 12 to less than 24 months,0
 2014/2015,Nunavut,Sex unknown,24 months or more,0
 2014/2015,Nunavut,Sex unknown,Unknown sentence length ordered,0
-2015/2016,Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",62771
-2015/2016,Provinces and territories,"Total, custodial admission by sex",1 month or less,28112
-2015/2016,Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,14864
-2015/2016,Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,6303
-2015/2016,Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,4133
-2015/2016,Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,2565
-2015/2016,Provinces and territories,"Total, custodial admission by sex",24 months or more,1179
-2015/2016,Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,5615
-2015/2016,Provinces and territories,Male,"Total, sentence length ordered",55662
-2015/2016,Provinces and territories,Male,1 month or less,24226
-2015/2016,Provinces and territories,Male,Greater than 1 month to 3 months,13304
-2015/2016,Provinces and territories,Male,Greater than 3 months to 6 months,5742
-2015/2016,Provinces and territories,Male,Greater than 6 months to 12 months,3764
-2015/2016,Provinces and territories,Male,Greater than 12 to less than 24 months,2389
-2015/2016,Provinces and territories,Male,24 months or more,1057
-2015/2016,Provinces and territories,Male,Unknown sentence length ordered,5180
-2015/2016,Provinces and territories,Female,"Total, sentence length ordered",7040
-2015/2016,Provinces and territories,Female,1 month or less,3867
-2015/2016,Provinces and territories,Female,Greater than 1 month to 3 months,1544
-2015/2016,Provinces and territories,Female,Greater than 3 months to 6 months,546
-2015/2016,Provinces and territories,Female,Greater than 6 months to 12 months,364
-2015/2016,Provinces and territories,Female,Greater than 12 to less than 24 months,166
-2015/2016,Provinces and territories,Female,24 months or more,121
-2015/2016,Provinces and territories,Female,Unknown sentence length ordered,432
-2015/2016,Provinces and territories,Sex unknown,"Total, sentence length ordered",69
-2015/2016,Provinces and territories,Sex unknown,1 month or less,19
-2015/2016,Provinces and territories,Sex unknown,Greater than 1 month to 3 months,16
-2015/2016,Provinces and territories,Sex unknown,Greater than 3 months to 6 months,15
-2015/2016,Provinces and territories,Sex unknown,Greater than 6 months to 12 months,5
-2015/2016,Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,10
-2015/2016,Provinces and territories,Sex unknown,24 months or more,1
-2015/2016,Provinces and territories,Sex unknown,Unknown sentence length ordered,3
+2015/2016,All Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",62771
+2015/2016,All Provinces and territories,"Total, custodial admission by sex",1 month or less,28112
+2015/2016,All Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,14864
+2015/2016,All Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,6303
+2015/2016,All Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,4133
+2015/2016,All Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,2565
+2015/2016,All Provinces and territories,"Total, custodial admission by sex",24 months or more,1179
+2015/2016,All Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,5615
+2015/2016,All Provinces and territories,Male,"Total, sentence length ordered",55662
+2015/2016,All Provinces and territories,Male,1 month or less,24226
+2015/2016,All Provinces and territories,Male,Greater than 1 month to 3 months,13304
+2015/2016,All Provinces and territories,Male,Greater than 3 months to 6 months,5742
+2015/2016,All Provinces and territories,Male,Greater than 6 months to 12 months,3764
+2015/2016,All Provinces and territories,Male,Greater than 12 to less than 24 months,2389
+2015/2016,All Provinces and territories,Male,24 months or more,1057
+2015/2016,All Provinces and territories,Male,Unknown sentence length ordered,5180
+2015/2016,All Provinces and territories,Female,"Total, sentence length ordered",7040
+2015/2016,All Provinces and territories,Female,1 month or less,3867
+2015/2016,All Provinces and territories,Female,Greater than 1 month to 3 months,1544
+2015/2016,All Provinces and territories,Female,Greater than 3 months to 6 months,546
+2015/2016,All Provinces and territories,Female,Greater than 6 months to 12 months,364
+2015/2016,All Provinces and territories,Female,Greater than 12 to less than 24 months,166
+2015/2016,All Provinces and territories,Female,24 months or more,121
+2015/2016,All Provinces and territories,Female,Unknown sentence length ordered,432
+2015/2016,All Provinces and territories,Sex unknown,"Total, sentence length ordered",69
+2015/2016,All Provinces and territories,Sex unknown,1 month or less,19
+2015/2016,All Provinces and territories,Sex unknown,Greater than 1 month to 3 months,16
+2015/2016,All Provinces and territories,Sex unknown,Greater than 3 months to 6 months,15
+2015/2016,All Provinces and territories,Sex unknown,Greater than 6 months to 12 months,5
+2015/2016,All Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,10
+2015/2016,All Provinces and territories,Sex unknown,24 months or more,1
+2015/2016,All Provinces and territories,Sex unknown,Unknown sentence length ordered,3
 2015/2016,Newfoundland and Labrador,"Total, custodial admission by sex","Total, sentence length ordered",1038
 2015/2016,Newfoundland and Labrador,"Total, custodial admission by sex",1 month or less,302
 2015/2016,Newfoundland and Labrador,"Total, custodial admission by sex",Greater than 1 month to 3 months,369
@@ -7343,38 +7343,38 @@
 2015/2016,Nunavut,Sex unknown,Greater than 12 to less than 24 months,0
 2015/2016,Nunavut,Sex unknown,24 months or more,0
 2015/2016,Nunavut,Sex unknown,Unknown sentence length ordered,0
-2016/2017,Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",84543
-2016/2017,Provinces and territories,"Total, custodial admission by sex",1 month or less,36681
-2016/2017,Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,16122
-2016/2017,Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,6434
-2016/2017,Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,4045
-2016/2017,Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,2489
-2016/2017,Provinces and territories,"Total, custodial admission by sex",24 months or more,1990
-2016/2017,Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,16782
-2016/2017,Provinces and territories,Male,"Total, sentence length ordered",73642
-2016/2017,Provinces and territories,Male,1 month or less,30683
-2016/2017,Provinces and territories,Male,Greater than 1 month to 3 months,14307
-2016/2017,Provinces and territories,Male,Greater than 3 months to 6 months,5779
-2016/2017,Provinces and territories,Male,Greater than 6 months to 12 months,3679
-2016/2017,Provinces and territories,Male,Greater than 12 to less than 24 months,2325
-2016/2017,Provinces and territories,Male,24 months or more,1772
-2016/2017,Provinces and territories,Male,Unknown sentence length ordered,15097
-2016/2017,Provinces and territories,Female,"Total, sentence length ordered",10806
-2016/2017,Provinces and territories,Female,1 month or less,5964
-2016/2017,Provinces and territories,Female,Greater than 1 month to 3 months,1802
-2016/2017,Provinces and territories,Female,Greater than 3 months to 6 months,635
-2016/2017,Provinces and territories,Female,Greater than 6 months to 12 months,353
-2016/2017,Provinces and territories,Female,Greater than 12 to less than 24 months,156
-2016/2017,Provinces and territories,Female,24 months or more,214
-2016/2017,Provinces and territories,Female,Unknown sentence length ordered,1682
-2016/2017,Provinces and territories,Sex unknown,"Total, sentence length ordered",95
-2016/2017,Provinces and territories,Sex unknown,1 month or less,34
-2016/2017,Provinces and territories,Sex unknown,Greater than 1 month to 3 months,13
-2016/2017,Provinces and territories,Sex unknown,Greater than 3 months to 6 months,20
-2016/2017,Provinces and territories,Sex unknown,Greater than 6 months to 12 months,13
-2016/2017,Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,8
-2016/2017,Provinces and territories,Sex unknown,24 months or more,4
-2016/2017,Provinces and territories,Sex unknown,Unknown sentence length ordered,3
+2016/2017,All Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",84543
+2016/2017,All Provinces and territories,"Total, custodial admission by sex",1 month or less,36681
+2016/2017,All Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,16122
+2016/2017,All Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,6434
+2016/2017,All Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,4045
+2016/2017,All Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,2489
+2016/2017,All Provinces and territories,"Total, custodial admission by sex",24 months or more,1990
+2016/2017,All Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,16782
+2016/2017,All Provinces and territories,Male,"Total, sentence length ordered",73642
+2016/2017,All Provinces and territories,Male,1 month or less,30683
+2016/2017,All Provinces and territories,Male,Greater than 1 month to 3 months,14307
+2016/2017,All Provinces and territories,Male,Greater than 3 months to 6 months,5779
+2016/2017,All Provinces and territories,Male,Greater than 6 months to 12 months,3679
+2016/2017,All Provinces and territories,Male,Greater than 12 to less than 24 months,2325
+2016/2017,All Provinces and territories,Male,24 months or more,1772
+2016/2017,All Provinces and territories,Male,Unknown sentence length ordered,15097
+2016/2017,All Provinces and territories,Female,"Total, sentence length ordered",10806
+2016/2017,All Provinces and territories,Female,1 month or less,5964
+2016/2017,All Provinces and territories,Female,Greater than 1 month to 3 months,1802
+2016/2017,All Provinces and territories,Female,Greater than 3 months to 6 months,635
+2016/2017,All Provinces and territories,Female,Greater than 6 months to 12 months,353
+2016/2017,All Provinces and territories,Female,Greater than 12 to less than 24 months,156
+2016/2017,All Provinces and territories,Female,24 months or more,214
+2016/2017,All Provinces and territories,Female,Unknown sentence length ordered,1682
+2016/2017,All Provinces and territories,Sex unknown,"Total, sentence length ordered",95
+2016/2017,All Provinces and territories,Sex unknown,1 month or less,34
+2016/2017,All Provinces and territories,Sex unknown,Greater than 1 month to 3 months,13
+2016/2017,All Provinces and territories,Sex unknown,Greater than 3 months to 6 months,20
+2016/2017,All Provinces and territories,Sex unknown,Greater than 6 months to 12 months,13
+2016/2017,All Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,8
+2016/2017,All Provinces and territories,Sex unknown,24 months or more,4
+2016/2017,All Provinces and territories,Sex unknown,Unknown sentence length ordered,3
 2016/2017,Newfoundland and Labrador,"Total, custodial admission by sex","Total, sentence length ordered",977
 2016/2017,Newfoundland and Labrador,"Total, custodial admission by sex",1 month or less,299
 2016/2017,Newfoundland and Labrador,"Total, custodial admission by sex",Greater than 1 month to 3 months,323
@@ -7823,38 +7823,38 @@
 2016/2017,Nunavut,Sex unknown,Greater than 12 to less than 24 months,0
 2016/2017,Nunavut,Sex unknown,24 months or more,0
 2016/2017,Nunavut,Sex unknown,Unknown sentence length ordered,0
-2017/2018,Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",80759
-2017/2018,Provinces and territories,"Total, custodial admission by sex",1 month or less,32759
-2017/2018,Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,16062
-2017/2018,Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,6324
-2017/2018,Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,4092
-2017/2018,Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,2511
-2017/2018,Provinces and territories,"Total, custodial admission by sex",24 months or more,2095
-2017/2018,Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,16916
-2017/2018,Provinces and territories,Male,"Total, sentence length ordered",70337
-2017/2018,Provinces and territories,Male,1 month or less,27266
-2017/2018,Provinces and territories,Male,Greater than 1 month to 3 months,14215
-2017/2018,Provinces and territories,Male,Greater than 3 months to 6 months,5671
-2017/2018,Provinces and territories,Male,Greater than 6 months to 12 months,3734
-2017/2018,Provinces and territories,Male,Greater than 12 to less than 24 months,2328
-2017/2018,Provinces and territories,Male,24 months or more,1885
-2017/2018,Provinces and territories,Male,Unknown sentence length ordered,15238
-2017/2018,Provinces and territories,Female,"Total, sentence length ordered",10333
-2017/2018,Provinces and territories,Female,1 month or less,5470
-2017/2018,Provinces and territories,Female,Greater than 1 month to 3 months,1823
-2017/2018,Provinces and territories,Female,Greater than 3 months to 6 months,634
-2017/2018,Provinces and territories,Female,Greater than 6 months to 12 months,347
-2017/2018,Provinces and territories,Female,Greater than 12 to less than 24 months,175
-2017/2018,Provinces and territories,Female,24 months or more,207
-2017/2018,Provinces and territories,Female,Unknown sentence length ordered,1677
-2017/2018,Provinces and territories,Sex unknown,"Total, sentence length ordered",89
-2017/2018,Provinces and territories,Sex unknown,1 month or less,23
-2017/2018,Provinces and territories,Sex unknown,Greater than 1 month to 3 months,24
-2017/2018,Provinces and territories,Sex unknown,Greater than 3 months to 6 months,19
-2017/2018,Provinces and territories,Sex unknown,Greater than 6 months to 12 months,11
-2017/2018,Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,8
-2017/2018,Provinces and territories,Sex unknown,24 months or more,3
-2017/2018,Provinces and territories,Sex unknown,Unknown sentence length ordered,1
+2017/2018,All Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",80759
+2017/2018,All Provinces and territories,"Total, custodial admission by sex",1 month or less,32759
+2017/2018,All Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,16062
+2017/2018,All Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,6324
+2017/2018,All Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,4092
+2017/2018,All Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,2511
+2017/2018,All Provinces and territories,"Total, custodial admission by sex",24 months or more,2095
+2017/2018,All Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,16916
+2017/2018,All Provinces and territories,Male,"Total, sentence length ordered",70337
+2017/2018,All Provinces and territories,Male,1 month or less,27266
+2017/2018,All Provinces and territories,Male,Greater than 1 month to 3 months,14215
+2017/2018,All Provinces and territories,Male,Greater than 3 months to 6 months,5671
+2017/2018,All Provinces and territories,Male,Greater than 6 months to 12 months,3734
+2017/2018,All Provinces and territories,Male,Greater than 12 to less than 24 months,2328
+2017/2018,All Provinces and territories,Male,24 months or more,1885
+2017/2018,All Provinces and territories,Male,Unknown sentence length ordered,15238
+2017/2018,All Provinces and territories,Female,"Total, sentence length ordered",10333
+2017/2018,All Provinces and territories,Female,1 month or less,5470
+2017/2018,All Provinces and territories,Female,Greater than 1 month to 3 months,1823
+2017/2018,All Provinces and territories,Female,Greater than 3 months to 6 months,634
+2017/2018,All Provinces and territories,Female,Greater than 6 months to 12 months,347
+2017/2018,All Provinces and territories,Female,Greater than 12 to less than 24 months,175
+2017/2018,All Provinces and territories,Female,24 months or more,207
+2017/2018,All Provinces and territories,Female,Unknown sentence length ordered,1677
+2017/2018,All Provinces and territories,Sex unknown,"Total, sentence length ordered",89
+2017/2018,All Provinces and territories,Sex unknown,1 month or less,23
+2017/2018,All Provinces and territories,Sex unknown,Greater than 1 month to 3 months,24
+2017/2018,All Provinces and territories,Sex unknown,Greater than 3 months to 6 months,19
+2017/2018,All Provinces and territories,Sex unknown,Greater than 6 months to 12 months,11
+2017/2018,All Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,8
+2017/2018,All Provinces and territories,Sex unknown,24 months or more,3
+2017/2018,All Provinces and territories,Sex unknown,Unknown sentence length ordered,1
 2017/2018,Newfoundland and Labrador,"Total, custodial admission by sex","Total, sentence length ordered",938
 2017/2018,Newfoundland and Labrador,"Total, custodial admission by sex",1 month or less,281
 2017/2018,Newfoundland and Labrador,"Total, custodial admission by sex",Greater than 1 month to 3 months,343
@@ -8303,38 +8303,38 @@
 2017/2018,Nunavut,Sex unknown,Greater than 12 to less than 24 months,0
 2017/2018,Nunavut,Sex unknown,24 months or more,0
 2017/2018,Nunavut,Sex unknown,Unknown sentence length ordered,0
-2018/2019,Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",72312
-2018/2019,Provinces and territories,"Total, custodial admission by sex",1 month or less,28104
-2018/2019,Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,14541
-2018/2019,Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,5593
-2018/2019,Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,3727
-2018/2019,Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,2262
-2018/2019,Provinces and territories,"Total, custodial admission by sex",24 months or more,2343
-2018/2019,Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,15742
-2018/2019,Provinces and territories,Male,"Total, sentence length ordered",62973
-2018/2019,Provinces and territories,Male,1 month or less,23424
-2018/2019,Provinces and territories,Male,Greater than 1 month to 3 months,12779
-2018/2019,Provinces and territories,Male,Greater than 3 months to 6 months,5030
-2018/2019,Provinces and territories,Male,Greater than 6 months to 12 months,3379
-2018/2019,Provinces and territories,Male,Greater than 12 to less than 24 months,2107
-2018/2019,Provinces and territories,Male,24 months or more,2110
-2018/2019,Provinces and territories,Male,Unknown sentence length ordered,14144
-2018/2019,Provinces and territories,Female,"Total, sentence length ordered",9330
-2018/2019,Provinces and territories,Female,1 month or less,4679
-2018/2019,Provinces and territories,Female,Greater than 1 month to 3 months,1761
-2018/2019,Provinces and territories,Female,Greater than 3 months to 6 months,562
-2018/2019,Provinces and territories,Female,Greater than 6 months to 12 months,348
-2018/2019,Provinces and territories,Female,Greater than 12 to less than 24 months,155
-2018/2019,Provinces and territories,Female,24 months or more,227
-2018/2019,Provinces and territories,Female,Unknown sentence length ordered,1598
-2018/2019,Provinces and territories,Sex unknown,"Total, sentence length ordered",9
-2018/2019,Provinces and territories,Sex unknown,1 month or less,1
-2018/2019,Provinces and territories,Sex unknown,Greater than 1 month to 3 months,1
-2018/2019,Provinces and territories,Sex unknown,Greater than 3 months to 6 months,1
-2018/2019,Provinces and territories,Sex unknown,Greater than 6 months to 12 months,0
-2018/2019,Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,0
-2018/2019,Provinces and territories,Sex unknown,24 months or more,6
-2018/2019,Provinces and territories,Sex unknown,Unknown sentence length ordered,0
+2018/2019,All Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",72312
+2018/2019,All Provinces and territories,"Total, custodial admission by sex",1 month or less,28104
+2018/2019,All Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,14541
+2018/2019,All Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,5593
+2018/2019,All Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,3727
+2018/2019,All Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,2262
+2018/2019,All Provinces and territories,"Total, custodial admission by sex",24 months or more,2343
+2018/2019,All Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,15742
+2018/2019,All Provinces and territories,Male,"Total, sentence length ordered",62973
+2018/2019,All Provinces and territories,Male,1 month or less,23424
+2018/2019,All Provinces and territories,Male,Greater than 1 month to 3 months,12779
+2018/2019,All Provinces and territories,Male,Greater than 3 months to 6 months,5030
+2018/2019,All Provinces and territories,Male,Greater than 6 months to 12 months,3379
+2018/2019,All Provinces and territories,Male,Greater than 12 to less than 24 months,2107
+2018/2019,All Provinces and territories,Male,24 months or more,2110
+2018/2019,All Provinces and territories,Male,Unknown sentence length ordered,14144
+2018/2019,All Provinces and territories,Female,"Total, sentence length ordered",9330
+2018/2019,All Provinces and territories,Female,1 month or less,4679
+2018/2019,All Provinces and territories,Female,Greater than 1 month to 3 months,1761
+2018/2019,All Provinces and territories,Female,Greater than 3 months to 6 months,562
+2018/2019,All Provinces and territories,Female,Greater than 6 months to 12 months,348
+2018/2019,All Provinces and territories,Female,Greater than 12 to less than 24 months,155
+2018/2019,All Provinces and territories,Female,24 months or more,227
+2018/2019,All Provinces and territories,Female,Unknown sentence length ordered,1598
+2018/2019,All Provinces and territories,Sex unknown,"Total, sentence length ordered",9
+2018/2019,All Provinces and territories,Sex unknown,1 month or less,1
+2018/2019,All Provinces and territories,Sex unknown,Greater than 1 month to 3 months,1
+2018/2019,All Provinces and territories,Sex unknown,Greater than 3 months to 6 months,1
+2018/2019,All Provinces and territories,Sex unknown,Greater than 6 months to 12 months,0
+2018/2019,All Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,0
+2018/2019,All Provinces and territories,Sex unknown,24 months or more,6
+2018/2019,All Provinces and territories,Sex unknown,Unknown sentence length ordered,0
 2018/2019,Newfoundland and Labrador,"Total, custodial admission by sex","Total, sentence length ordered",801
 2018/2019,Newfoundland and Labrador,"Total, custodial admission by sex",1 month or less,219
 2018/2019,Newfoundland and Labrador,"Total, custodial admission by sex",Greater than 1 month to 3 months,282
@@ -8783,38 +8783,38 @@
 2018/2019,Nunavut,Sex unknown,Greater than 12 to less than 24 months,0
 2018/2019,Nunavut,Sex unknown,24 months or more,0
 2018/2019,Nunavut,Sex unknown,Unknown sentence length ordered,0
-2019/2020,Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",64948
-2019/2020,Provinces and territories,"Total, custodial admission by sex",1 month or less,16310
-2019/2020,Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,8609
-2019/2020,Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,3630
-2019/2020,Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,2422
-2019/2020,Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,1623
-2019/2020,Provinces and territories,"Total, custodial admission by sex",24 months or more,2201
-2019/2020,Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,30153
-2019/2020,Provinces and territories,Male,"Total, sentence length ordered",56726
-2019/2020,Provinces and territories,Male,1 month or less,13327
-2019/2020,Provinces and territories,Male,Greater than 1 month to 3 months,7491
-2019/2020,Provinces and territories,Male,Greater than 3 months to 6 months,3183
-2019/2020,Provinces and territories,Male,Greater than 6 months to 12 months,2175
-2019/2020,Provinces and territories,Male,Greater than 12 to less than 24 months,1512
-2019/2020,Provinces and territories,Male,24 months or more,1966
-2019/2020,Provinces and territories,Male,Unknown sentence length ordered,27072
-2019/2020,Provinces and territories,Female,"Total, sentence length ordered",8221
-2019/2020,Provinces and territories,Female,1 month or less,2983
-2019/2020,Provinces and territories,Female,Greater than 1 month to 3 months,1118
-2019/2020,Provinces and territories,Female,Greater than 3 months to 6 months,447
-2019/2020,Provinces and territories,Female,Greater than 6 months to 12 months,247
-2019/2020,Provinces and territories,Female,Greater than 12 to less than 24 months,111
-2019/2020,Provinces and territories,Female,24 months or more,235
-2019/2020,Provinces and territories,Female,Unknown sentence length ordered,3080
-2019/2020,Provinces and territories,Sex unknown,"Total, sentence length ordered",1
-2019/2020,Provinces and territories,Sex unknown,1 month or less,0
-2019/2020,Provinces and territories,Sex unknown,Greater than 1 month to 3 months,0
-2019/2020,Provinces and territories,Sex unknown,Greater than 3 months to 6 months,0
-2019/2020,Provinces and territories,Sex unknown,Greater than 6 months to 12 months,0
-2019/2020,Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,0
-2019/2020,Provinces and territories,Sex unknown,24 months or more,0
-2019/2020,Provinces and territories,Sex unknown,Unknown sentence length ordered,1
+2019/2020,All Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",64948
+2019/2020,All Provinces and territories,"Total, custodial admission by sex",1 month or less,16310
+2019/2020,All Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,8609
+2019/2020,All Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,3630
+2019/2020,All Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,2422
+2019/2020,All Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,1623
+2019/2020,All Provinces and territories,"Total, custodial admission by sex",24 months or more,2201
+2019/2020,All Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,30153
+2019/2020,All Provinces and territories,Male,"Total, sentence length ordered",56726
+2019/2020,All Provinces and territories,Male,1 month or less,13327
+2019/2020,All Provinces and territories,Male,Greater than 1 month to 3 months,7491
+2019/2020,All Provinces and territories,Male,Greater than 3 months to 6 months,3183
+2019/2020,All Provinces and territories,Male,Greater than 6 months to 12 months,2175
+2019/2020,All Provinces and territories,Male,Greater than 12 to less than 24 months,1512
+2019/2020,All Provinces and territories,Male,24 months or more,1966
+2019/2020,All Provinces and territories,Male,Unknown sentence length ordered,27072
+2019/2020,All Provinces and territories,Female,"Total, sentence length ordered",8221
+2019/2020,All Provinces and territories,Female,1 month or less,2983
+2019/2020,All Provinces and territories,Female,Greater than 1 month to 3 months,1118
+2019/2020,All Provinces and territories,Female,Greater than 3 months to 6 months,447
+2019/2020,All Provinces and territories,Female,Greater than 6 months to 12 months,247
+2019/2020,All Provinces and territories,Female,Greater than 12 to less than 24 months,111
+2019/2020,All Provinces and territories,Female,24 months or more,235
+2019/2020,All Provinces and territories,Female,Unknown sentence length ordered,3080
+2019/2020,All Provinces and territories,Sex unknown,"Total, sentence length ordered",1
+2019/2020,All Provinces and territories,Sex unknown,1 month or less,0
+2019/2020,All Provinces and territories,Sex unknown,Greater than 1 month to 3 months,0
+2019/2020,All Provinces and territories,Sex unknown,Greater than 3 months to 6 months,0
+2019/2020,All Provinces and territories,Sex unknown,Greater than 6 months to 12 months,0
+2019/2020,All Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,0
+2019/2020,All Provinces and territories,Sex unknown,24 months or more,0
+2019/2020,All Provinces and territories,Sex unknown,Unknown sentence length ordered,1
 2019/2020,Newfoundland and Labrador,"Total, custodial admission by sex","Total, sentence length ordered",652
 2019/2020,Newfoundland and Labrador,"Total, custodial admission by sex",1 month or less,181
 2019/2020,Newfoundland and Labrador,"Total, custodial admission by sex",Greater than 1 month to 3 months,230
@@ -9263,38 +9263,38 @@
 2019/2020,Nunavut,Sex unknown,Greater than 12 to less than 24 months,0
 2019/2020,Nunavut,Sex unknown,24 months or more,0
 2019/2020,Nunavut,Sex unknown,Unknown sentence length ordered,0
-2020/2021,Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",35562
-2020/2021,Provinces and territories,"Total, custodial admission by sex",1 month or less,9281
-2020/2021,Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,5790
-2020/2021,Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,2506
-2020/2021,Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,1897
-2020/2021,Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,1470
-2020/2021,Provinces and territories,"Total, custodial admission by sex",24 months or more,1671
-2020/2021,Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,12947
-2020/2021,Provinces and territories,Male,"Total, sentence length ordered",31403
-2020/2021,Provinces and territories,Male,1 month or less,7810
-2020/2021,Provinces and territories,Male,Greater than 1 month to 3 months,5015
-2020/2021,Provinces and territories,Male,Greater than 3 months to 6 months,2222
-2020/2021,Provinces and territories,Male,Greater than 6 months to 12 months,1726
-2020/2021,Provinces and territories,Male,Greater than 12 to less than 24 months,1370
-2020/2021,Provinces and territories,Male,24 months or more,1476
-2020/2021,Provinces and territories,Male,Unknown sentence length ordered,11784
-2020/2021,Provinces and territories,Female,"Total, sentence length ordered",4155
-2020/2021,Provinces and territories,Female,1 month or less,1470
-2020/2021,Provinces and territories,Female,Greater than 1 month to 3 months,774
-2020/2021,Provinces and territories,Female,Greater than 3 months to 6 months,282
-2020/2021,Provinces and territories,Female,Greater than 6 months to 12 months,171
-2020/2021,Provinces and territories,Female,Greater than 12 to less than 24 months,100
-2020/2021,Provinces and territories,Female,24 months or more,195
-2020/2021,Provinces and territories,Female,Unknown sentence length ordered,1163
-2020/2021,Provinces and territories,Sex unknown,"Total, sentence length ordered",4
-2020/2021,Provinces and territories,Sex unknown,1 month or less,1
-2020/2021,Provinces and territories,Sex unknown,Greater than 1 month to 3 months,1
-2020/2021,Provinces and territories,Sex unknown,Greater than 3 months to 6 months,2
-2020/2021,Provinces and territories,Sex unknown,Greater than 6 months to 12 months,0
-2020/2021,Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,0
-2020/2021,Provinces and territories,Sex unknown,24 months or more,0
-2020/2021,Provinces and territories,Sex unknown,Unknown sentence length ordered,0
+2020/2021,All Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",35562
+2020/2021,All Provinces and territories,"Total, custodial admission by sex",1 month or less,9281
+2020/2021,All Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,5790
+2020/2021,All Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,2506
+2020/2021,All Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,1897
+2020/2021,All Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,1470
+2020/2021,All Provinces and territories,"Total, custodial admission by sex",24 months or more,1671
+2020/2021,All Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,12947
+2020/2021,All Provinces and territories,Male,"Total, sentence length ordered",31403
+2020/2021,All Provinces and territories,Male,1 month or less,7810
+2020/2021,All Provinces and territories,Male,Greater than 1 month to 3 months,5015
+2020/2021,All Provinces and territories,Male,Greater than 3 months to 6 months,2222
+2020/2021,All Provinces and territories,Male,Greater than 6 months to 12 months,1726
+2020/2021,All Provinces and territories,Male,Greater than 12 to less than 24 months,1370
+2020/2021,All Provinces and territories,Male,24 months or more,1476
+2020/2021,All Provinces and territories,Male,Unknown sentence length ordered,11784
+2020/2021,All Provinces and territories,Female,"Total, sentence length ordered",4155
+2020/2021,All Provinces and territories,Female,1 month or less,1470
+2020/2021,All Provinces and territories,Female,Greater than 1 month to 3 months,774
+2020/2021,All Provinces and territories,Female,Greater than 3 months to 6 months,282
+2020/2021,All Provinces and territories,Female,Greater than 6 months to 12 months,171
+2020/2021,All Provinces and territories,Female,Greater than 12 to less than 24 months,100
+2020/2021,All Provinces and territories,Female,24 months or more,195
+2020/2021,All Provinces and territories,Female,Unknown sentence length ordered,1163
+2020/2021,All Provinces and territories,Sex unknown,"Total, sentence length ordered",4
+2020/2021,All Provinces and territories,Sex unknown,1 month or less,1
+2020/2021,All Provinces and territories,Sex unknown,Greater than 1 month to 3 months,1
+2020/2021,All Provinces and territories,Sex unknown,Greater than 3 months to 6 months,2
+2020/2021,All Provinces and territories,Sex unknown,Greater than 6 months to 12 months,0
+2020/2021,All Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,0
+2020/2021,All Provinces and territories,Sex unknown,24 months or more,0
+2020/2021,All Provinces and territories,Sex unknown,Unknown sentence length ordered,0
 2020/2021,Newfoundland and Labrador,"Total, custodial admission by sex","Total, sentence length ordered",430
 2020/2021,Newfoundland and Labrador,"Total, custodial admission by sex",1 month or less,108
 2020/2021,Newfoundland and Labrador,"Total, custodial admission by sex",Greater than 1 month to 3 months,132
@@ -9743,38 +9743,38 @@
 2020/2021,Nunavut,Sex unknown,Greater than 12 to less than 24 months,0
 2020/2021,Nunavut,Sex unknown,24 months or more,0
 2020/2021,Nunavut,Sex unknown,Unknown sentence length ordered,0
-2021/2022,Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",37932
-2021/2022,Provinces and territories,"Total, custodial admission by sex",1 month or less,9367
-2021/2022,Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,6125
-2021/2022,Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,2610
-2021/2022,Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,1966
-2021/2022,Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,1444
-2021/2022,Provinces and territories,"Total, custodial admission by sex",24 months or more,1598
-2021/2022,Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,14822
-2021/2022,Provinces and territories,Male,"Total, sentence length ordered",33394
-2021/2022,Provinces and territories,Male,1 month or less,7773
-2021/2022,Provinces and territories,Male,Greater than 1 month to 3 months,5275
-2021/2022,Provinces and territories,Male,Greater than 3 months to 6 months,2308
-2021/2022,Provinces and territories,Male,Greater than 6 months to 12 months,1763
-2021/2022,Provinces and territories,Male,Greater than 12 to less than 24 months,1341
-2021/2022,Provinces and territories,Male,24 months or more,1440
-2021/2022,Provinces and territories,Male,Unknown sentence length ordered,13494
-2021/2022,Provinces and territories,Female,"Total, sentence length ordered",4526
-2021/2022,Provinces and territories,Female,1 month or less,1591
-2021/2022,Provinces and territories,Female,Greater than 1 month to 3 months,843
-2021/2022,Provinces and territories,Female,Greater than 3 months to 6 months,301
-2021/2022,Provinces and territories,Female,Greater than 6 months to 12 months,202
-2021/2022,Provinces and territories,Female,Greater than 12 to less than 24 months,103
-2021/2022,Provinces and territories,Female,24 months or more,158
-2021/2022,Provinces and territories,Female,Unknown sentence length ordered,1328
-2021/2022,Provinces and territories,Sex unknown,"Total, sentence length ordered",12
-2021/2022,Provinces and territories,Sex unknown,1 month or less,3
-2021/2022,Provinces and territories,Sex unknown,Greater than 1 month to 3 months,7
-2021/2022,Provinces and territories,Sex unknown,Greater than 3 months to 6 months,1
-2021/2022,Provinces and territories,Sex unknown,Greater than 6 months to 12 months,1
-2021/2022,Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,0
-2021/2022,Provinces and territories,Sex unknown,24 months or more,0
-2021/2022,Provinces and territories,Sex unknown,Unknown sentence length ordered,0
+2021/2022,All Provinces and territories,"Total, custodial admission by sex","Total, sentence length ordered",37932
+2021/2022,All Provinces and territories,"Total, custodial admission by sex",1 month or less,9367
+2021/2022,All Provinces and territories,"Total, custodial admission by sex",Greater than 1 month to 3 months,6125
+2021/2022,All Provinces and territories,"Total, custodial admission by sex",Greater than 3 months to 6 months,2610
+2021/2022,All Provinces and territories,"Total, custodial admission by sex",Greater than 6 months to 12 months,1966
+2021/2022,All Provinces and territories,"Total, custodial admission by sex",Greater than 12 to less than 24 months,1444
+2021/2022,All Provinces and territories,"Total, custodial admission by sex",24 months or more,1598
+2021/2022,All Provinces and territories,"Total, custodial admission by sex",Unknown sentence length ordered,14822
+2021/2022,All Provinces and territories,Male,"Total, sentence length ordered",33394
+2021/2022,All Provinces and territories,Male,1 month or less,7773
+2021/2022,All Provinces and territories,Male,Greater than 1 month to 3 months,5275
+2021/2022,All Provinces and territories,Male,Greater than 3 months to 6 months,2308
+2021/2022,All Provinces and territories,Male,Greater than 6 months to 12 months,1763
+2021/2022,All Provinces and territories,Male,Greater than 12 to less than 24 months,1341
+2021/2022,All Provinces and territories,Male,24 months or more,1440
+2021/2022,All Provinces and territories,Male,Unknown sentence length ordered,13494
+2021/2022,All Provinces and territories,Female,"Total, sentence length ordered",4526
+2021/2022,All Provinces and territories,Female,1 month or less,1591
+2021/2022,All Provinces and territories,Female,Greater than 1 month to 3 months,843
+2021/2022,All Provinces and territories,Female,Greater than 3 months to 6 months,301
+2021/2022,All Provinces and territories,Female,Greater than 6 months to 12 months,202
+2021/2022,All Provinces and territories,Female,Greater than 12 to less than 24 months,103
+2021/2022,All Provinces and territories,Female,24 months or more,158
+2021/2022,All Provinces and territories,Female,Unknown sentence length ordered,1328
+2021/2022,All Provinces and territories,Sex unknown,"Total, sentence length ordered",12
+2021/2022,All Provinces and territories,Sex unknown,1 month or less,3
+2021/2022,All Provinces and territories,Sex unknown,Greater than 1 month to 3 months,7
+2021/2022,All Provinces and territories,Sex unknown,Greater than 3 months to 6 months,1
+2021/2022,All Provinces and territories,Sex unknown,Greater than 6 months to 12 months,1
+2021/2022,All Provinces and territories,Sex unknown,Greater than 12 to less than 24 months,0
+2021/2022,All Provinces and territories,Sex unknown,24 months or more,0
+2021/2022,All Provinces and territories,Sex unknown,Unknown sentence length ordered,0
 2021/2022,Newfoundland and Labrador,"Total, custodial admission by sex","Total, sentence length ordered",446
 2021/2022,Newfoundland and Labrador,"Total, custodial admission by sex",1 month or less,124
 2021/2022,Newfoundland and Labrador,"Total, custodial admission by sex",Greater than 1 month to 3 months,135

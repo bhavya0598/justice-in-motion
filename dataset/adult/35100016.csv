@@ -1,20 +1,20 @@
 ﻿REF_DATE,GEO,Custodial admissions,Indigenous identity,VALUE
-2000/2001,Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",201357
-2000/2001,Provinces and territories,"Total, custodial admissions",Indigenous identity,34283
-2000/2001,Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,164097
-2000/2001,Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,2977
-2000/2001,Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",66069
-2000/2001,Provinces and territories,Sentenced,Indigenous identity,9603
-2000/2001,Provinces and territories,Sentenced,Non-Indigenous identity,55161
-2000/2001,Provinces and territories,Sentenced,Indigenous identity unknown,1305
-2000/2001,Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",110387
-2000/2001,Provinces and territories,Remand,Indigenous identity,19490
-2000/2001,Provinces and territories,Remand,Non-Indigenous identity,89278
-2000/2001,Provinces and territories,Remand,Indigenous identity unknown,1619
-2000/2001,Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",24901
-2000/2001,Provinces and territories,Other custodial statuses,Indigenous identity,5190
-2000/2001,Provinces and territories,Other custodial statuses,Non-Indigenous identity,19658
-2000/2001,Provinces and territories,Other custodial statuses,Indigenous identity unknown,53
+2000/2001,All Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",201357
+2000/2001,All Provinces and territories,"Total, custodial admissions",Indigenous identity,34283
+2000/2001,All Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,164097
+2000/2001,All Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,2977
+2000/2001,All Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",66069
+2000/2001,All Provinces and territories,Sentenced,Indigenous identity,9603
+2000/2001,All Provinces and territories,Sentenced,Non-Indigenous identity,55161
+2000/2001,All Provinces and territories,Sentenced,Indigenous identity unknown,1305
+2000/2001,All Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",110387
+2000/2001,All Provinces and territories,Remand,Indigenous identity,19490
+2000/2001,All Provinces and territories,Remand,Non-Indigenous identity,89278
+2000/2001,All Provinces and territories,Remand,Indigenous identity unknown,1619
+2000/2001,All Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",24901
+2000/2001,All Provinces and territories,Other custodial statuses,Indigenous identity,5190
+2000/2001,All Provinces and territories,Other custodial statuses,Non-Indigenous identity,19658
+2000/2001,All Provinces and territories,Other custodial statuses,Indigenous identity unknown,53
 2000/2001,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",1332
 2000/2001,Newfoundland and Labrador,"Total, custodial admissions",Indigenous identity,148
 2000/2001,Newfoundland and Labrador,"Total, custodial admissions",Non-Indigenous identity,1184
@@ -219,22 +219,22 @@
 2000/2001,Nunavut,Remand,Indigenous identity,
 2000/2001,Nunavut,Remand,Non-Indigenous identity,
 2000/2001,Nunavut,Remand,Indigenous identity unknown,205
-2001/2002,Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",205885
-2001/2002,Provinces and territories,"Total, custodial admissions",Indigenous identity,34075
-2001/2002,Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,170478
-2001/2002,Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,1332
-2001/2002,Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",68087
-2001/2002,Provinces and territories,Sentenced,Indigenous identity,10787
-2001/2002,Provinces and territories,Sentenced,Non-Indigenous identity,56831
-2001/2002,Provinces and territories,Sentenced,Indigenous identity unknown,469
-2001/2002,Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",111601
-2001/2002,Provinces and territories,Remand,Indigenous identity,17155
-2001/2002,Provinces and territories,Remand,Non-Indigenous identity,93666
-2001/2002,Provinces and territories,Remand,Indigenous identity unknown,780
-2001/2002,Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",26197
-2001/2002,Provinces and territories,Other custodial statuses,Indigenous identity,6133
-2001/2002,Provinces and territories,Other custodial statuses,Non-Indigenous identity,19981
-2001/2002,Provinces and territories,Other custodial statuses,Indigenous identity unknown,83
+2001/2002,All Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",205885
+2001/2002,All Provinces and territories,"Total, custodial admissions",Indigenous identity,34075
+2001/2002,All Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,170478
+2001/2002,All Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,1332
+2001/2002,All Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",68087
+2001/2002,All Provinces and territories,Sentenced,Indigenous identity,10787
+2001/2002,All Provinces and territories,Sentenced,Non-Indigenous identity,56831
+2001/2002,All Provinces and territories,Sentenced,Indigenous identity unknown,469
+2001/2002,All Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",111601
+2001/2002,All Provinces and territories,Remand,Indigenous identity,17155
+2001/2002,All Provinces and territories,Remand,Non-Indigenous identity,93666
+2001/2002,All Provinces and territories,Remand,Indigenous identity unknown,780
+2001/2002,All Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",26197
+2001/2002,All Provinces and territories,Other custodial statuses,Indigenous identity,6133
+2001/2002,All Provinces and territories,Other custodial statuses,Non-Indigenous identity,19981
+2001/2002,All Provinces and territories,Other custodial statuses,Indigenous identity unknown,83
 2001/2002,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",1750
 2001/2002,Newfoundland and Labrador,"Total, custodial admissions",Indigenous identity,33
 2001/2002,Newfoundland and Labrador,"Total, custodial admissions",Non-Indigenous identity,1717
@@ -439,22 +439,22 @@
 2001/2002,Nunavut,Remand,Indigenous identity,204
 2001/2002,Nunavut,Remand,Non-Indigenous identity,0
 2001/2002,Nunavut,Remand,Indigenous identity unknown,14
-2002/2003,Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",211092
-2002/2003,Provinces and territories,"Total, custodial admissions",Indigenous identity,36179
-2002/2003,Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,173244
-2002/2003,Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,1669
-2002/2003,Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",69033
-2002/2003,Provinces and territories,Sentenced,Indigenous identity,11433
-2002/2003,Provinces and territories,Sentenced,Non-Indigenous identity,57196
-2002/2003,Provinces and territories,Sentenced,Indigenous identity unknown,404
-2002/2003,Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",115521
-2002/2003,Provinces and territories,Remand,Indigenous identity,18586
-2002/2003,Provinces and territories,Remand,Non-Indigenous identity,96104
-2002/2003,Provinces and territories,Remand,Indigenous identity unknown,831
-2002/2003,Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",26538
-2002/2003,Provinces and territories,Other custodial statuses,Indigenous identity,6160
-2002/2003,Provinces and territories,Other custodial statuses,Non-Indigenous identity,19944
-2002/2003,Provinces and territories,Other custodial statuses,Indigenous identity unknown,434
+2002/2003,All Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",211092
+2002/2003,All Provinces and territories,"Total, custodial admissions",Indigenous identity,36179
+2002/2003,All Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,173244
+2002/2003,All Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,1669
+2002/2003,All Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",69033
+2002/2003,All Provinces and territories,Sentenced,Indigenous identity,11433
+2002/2003,All Provinces and territories,Sentenced,Non-Indigenous identity,57196
+2002/2003,All Provinces and territories,Sentenced,Indigenous identity unknown,404
+2002/2003,All Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",115521
+2002/2003,All Provinces and territories,Remand,Indigenous identity,18586
+2002/2003,All Provinces and territories,Remand,Non-Indigenous identity,96104
+2002/2003,All Provinces and territories,Remand,Indigenous identity unknown,831
+2002/2003,All Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",26538
+2002/2003,All Provinces and territories,Other custodial statuses,Indigenous identity,6160
+2002/2003,All Provinces and territories,Other custodial statuses,Non-Indigenous identity,19944
+2002/2003,All Provinces and territories,Other custodial statuses,Indigenous identity unknown,434
 2002/2003,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",1675
 2002/2003,Newfoundland and Labrador,"Total, custodial admissions",Indigenous identity,115
 2002/2003,Newfoundland and Labrador,"Total, custodial admissions",Non-Indigenous identity,1560
@@ -659,22 +659,22 @@
 2002/2003,Nunavut,Remand,Indigenous identity,227
 2002/2003,Nunavut,Remand,Non-Indigenous identity,0
 2002/2003,Nunavut,Remand,Indigenous identity unknown,2
-2003/2004,Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",206403
-2003/2004,Provinces and territories,"Total, custodial admissions",Indigenous identity,36608
-2003/2004,Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,167959
-2003/2004,Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,1836
-2003/2004,Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",65632
-2003/2004,Provinces and territories,Sentenced,Indigenous identity,10920
-2003/2004,Provinces and territories,Sentenced,Non-Indigenous identity,54278
-2003/2004,Provinces and territories,Sentenced,Indigenous identity unknown,434
-2003/2004,Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",112781
-2003/2004,Provinces and territories,Remand,Indigenous identity,18698
-2003/2004,Provinces and territories,Remand,Non-Indigenous identity,93179
-2003/2004,Provinces and territories,Remand,Indigenous identity unknown,904
-2003/2004,Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",27990
-2003/2004,Provinces and territories,Other custodial statuses,Indigenous identity,6990
-2003/2004,Provinces and territories,Other custodial statuses,Non-Indigenous identity,20502
-2003/2004,Provinces and territories,Other custodial statuses,Indigenous identity unknown,498
+2003/2004,All Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",206403
+2003/2004,All Provinces and territories,"Total, custodial admissions",Indigenous identity,36608
+2003/2004,All Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,167959
+2003/2004,All Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,1836
+2003/2004,All Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",65632
+2003/2004,All Provinces and territories,Sentenced,Indigenous identity,10920
+2003/2004,All Provinces and territories,Sentenced,Non-Indigenous identity,54278
+2003/2004,All Provinces and territories,Sentenced,Indigenous identity unknown,434
+2003/2004,All Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",112781
+2003/2004,All Provinces and territories,Remand,Indigenous identity,18698
+2003/2004,All Provinces and territories,Remand,Non-Indigenous identity,93179
+2003/2004,All Provinces and territories,Remand,Indigenous identity unknown,904
+2003/2004,All Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",27990
+2003/2004,All Provinces and territories,Other custodial statuses,Indigenous identity,6990
+2003/2004,All Provinces and territories,Other custodial statuses,Non-Indigenous identity,20502
+2003/2004,All Provinces and territories,Other custodial statuses,Indigenous identity unknown,498
 2003/2004,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",1746
 2003/2004,Newfoundland and Labrador,"Total, custodial admissions",Indigenous identity,196
 2003/2004,Newfoundland and Labrador,"Total, custodial admissions",Non-Indigenous identity,1550
@@ -879,22 +879,22 @@
 2003/2004,Nunavut,Remand,Indigenous identity,223
 2003/2004,Nunavut,Remand,Non-Indigenous identity,0
 2003/2004,Nunavut,Remand,Indigenous identity unknown,6
-2004/2005,Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",204589
-2004/2005,Provinces and territories,"Total, custodial admissions",Indigenous identity,36566
-2004/2005,Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,166370
-2004/2005,Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,1653
-2004/2005,Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",63013
-2004/2005,Provinces and territories,Sentenced,Indigenous identity,11170
-2004/2005,Provinces and territories,Sentenced,Non-Indigenous identity,51438
-2004/2005,Provinces and territories,Sentenced,Indigenous identity unknown,405
-2004/2005,Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",115430
-2004/2005,Provinces and territories,Remand,Indigenous identity,18855
-2004/2005,Provinces and territories,Remand,Non-Indigenous identity,95779
-2004/2005,Provinces and territories,Remand,Indigenous identity unknown,796
-2004/2005,Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",26146
-2004/2005,Provinces and territories,Other custodial statuses,Indigenous identity,6541
-2004/2005,Provinces and territories,Other custodial statuses,Non-Indigenous identity,19153
-2004/2005,Provinces and territories,Other custodial statuses,Indigenous identity unknown,452
+2004/2005,All Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",204589
+2004/2005,All Provinces and territories,"Total, custodial admissions",Indigenous identity,36566
+2004/2005,All Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,166370
+2004/2005,All Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,1653
+2004/2005,All Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",63013
+2004/2005,All Provinces and territories,Sentenced,Indigenous identity,11170
+2004/2005,All Provinces and territories,Sentenced,Non-Indigenous identity,51438
+2004/2005,All Provinces and territories,Sentenced,Indigenous identity unknown,405
+2004/2005,All Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",115430
+2004/2005,All Provinces and territories,Remand,Indigenous identity,18855
+2004/2005,All Provinces and territories,Remand,Non-Indigenous identity,95779
+2004/2005,All Provinces and territories,Remand,Indigenous identity unknown,796
+2004/2005,All Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",26146
+2004/2005,All Provinces and territories,Other custodial statuses,Indigenous identity,6541
+2004/2005,All Provinces and territories,Other custodial statuses,Non-Indigenous identity,19153
+2004/2005,All Provinces and territories,Other custodial statuses,Indigenous identity unknown,452
 2004/2005,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",1680
 2004/2005,Newfoundland and Labrador,"Total, custodial admissions",Indigenous identity,231
 2004/2005,Newfoundland and Labrador,"Total, custodial admissions",Non-Indigenous identity,1449
@@ -1099,22 +1099,22 @@
 2004/2005,Nunavut,Remand,Indigenous identity,258
 2004/2005,Nunavut,Remand,Non-Indigenous identity,0
 2004/2005,Nunavut,Remand,Indigenous identity unknown,9
-2005/2006,Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",238448
-2005/2006,Provinces and territories,"Total, custodial admissions",Indigenous identity,50531
-2005/2006,Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,186576
-2005/2006,Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,1341
-2005/2006,Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",79773
-2005/2006,Provinces and territories,Sentenced,Indigenous identity,18291
-2005/2006,Provinces and territories,Sentenced,Non-Indigenous identity,61119
-2005/2006,Provinces and territories,Sentenced,Indigenous identity unknown,363
-2005/2006,Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",143057
-2005/2006,Provinces and territories,Remand,Indigenous identity,27405
-2005/2006,Provinces and territories,Remand,Non-Indigenous identity,114716
-2005/2006,Provinces and territories,Remand,Indigenous identity unknown,936
-2005/2006,Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",15618
-2005/2006,Provinces and territories,Other custodial statuses,Indigenous identity,4835
-2005/2006,Provinces and territories,Other custodial statuses,Non-Indigenous identity,10741
-2005/2006,Provinces and territories,Other custodial statuses,Indigenous identity unknown,42
+2005/2006,All Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",238448
+2005/2006,All Provinces and territories,"Total, custodial admissions",Indigenous identity,50531
+2005/2006,All Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,186576
+2005/2006,All Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,1341
+2005/2006,All Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",79773
+2005/2006,All Provinces and territories,Sentenced,Indigenous identity,18291
+2005/2006,All Provinces and territories,Sentenced,Non-Indigenous identity,61119
+2005/2006,All Provinces and territories,Sentenced,Indigenous identity unknown,363
+2005/2006,All Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",143057
+2005/2006,All Provinces and territories,Remand,Indigenous identity,27405
+2005/2006,All Provinces and territories,Remand,Non-Indigenous identity,114716
+2005/2006,All Provinces and territories,Remand,Indigenous identity unknown,936
+2005/2006,All Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",15618
+2005/2006,All Provinces and territories,Other custodial statuses,Indigenous identity,4835
+2005/2006,All Provinces and territories,Other custodial statuses,Non-Indigenous identity,10741
+2005/2006,All Provinces and territories,Other custodial statuses,Indigenous identity unknown,42
 2005/2006,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",1626
 2005/2006,Newfoundland and Labrador,"Total, custodial admissions",Indigenous identity,241
 2005/2006,Newfoundland and Labrador,"Total, custodial admissions",Non-Indigenous identity,1385
@@ -1319,22 +1319,22 @@
 2005/2006,Nunavut,Remand,Indigenous identity,308
 2005/2006,Nunavut,Remand,Non-Indigenous identity,0
 2005/2006,Nunavut,Remand,Indigenous identity unknown,15
-2006/2007,Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",246863
-2006/2007,Provinces and territories,"Total, custodial admissions",Indigenous identity,52250
-2006/2007,Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,193051
-2006/2007,Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,1562
-2006/2007,Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",80744
-2006/2007,Provinces and territories,Sentenced,Indigenous identity,18597
-2006/2007,Provinces and territories,Sentenced,Non-Indigenous identity,61722
-2006/2007,Provinces and territories,Sentenced,Indigenous identity unknown,425
-2006/2007,Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",150399
-2006/2007,Provinces and territories,Remand,Indigenous identity,29202
-2006/2007,Provinces and territories,Remand,Non-Indigenous identity,120112
-2006/2007,Provinces and territories,Remand,Indigenous identity unknown,1085
-2006/2007,Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",15720
-2006/2007,Provinces and territories,Other custodial statuses,Indigenous identity,4451
-2006/2007,Provinces and territories,Other custodial statuses,Non-Indigenous identity,11217
-2006/2007,Provinces and territories,Other custodial statuses,Indigenous identity unknown,52
+2006/2007,All Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",246863
+2006/2007,All Provinces and territories,"Total, custodial admissions",Indigenous identity,52250
+2006/2007,All Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,193051
+2006/2007,All Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,1562
+2006/2007,All Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",80744
+2006/2007,All Provinces and territories,Sentenced,Indigenous identity,18597
+2006/2007,All Provinces and territories,Sentenced,Non-Indigenous identity,61722
+2006/2007,All Provinces and territories,Sentenced,Indigenous identity unknown,425
+2006/2007,All Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",150399
+2006/2007,All Provinces and territories,Remand,Indigenous identity,29202
+2006/2007,All Provinces and territories,Remand,Non-Indigenous identity,120112
+2006/2007,All Provinces and territories,Remand,Indigenous identity unknown,1085
+2006/2007,All Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",15720
+2006/2007,All Provinces and territories,Other custodial statuses,Indigenous identity,4451
+2006/2007,All Provinces and territories,Other custodial statuses,Non-Indigenous identity,11217
+2006/2007,All Provinces and territories,Other custodial statuses,Indigenous identity unknown,52
 2006/2007,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",1647
 2006/2007,Newfoundland and Labrador,"Total, custodial admissions",Indigenous identity,351
 2006/2007,Newfoundland and Labrador,"Total, custodial admissions",Non-Indigenous identity,1296
@@ -1539,22 +1539,22 @@
 2006/2007,Nunavut,Remand,Indigenous identity,336
 2006/2007,Nunavut,Remand,Non-Indigenous identity,0
 2006/2007,Nunavut,Remand,Indigenous identity unknown,15
-2007/2008,Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",254751
-2007/2008,Provinces and territories,"Total, custodial admissions",Indigenous identity,53733
-2007/2008,Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,198678
-2007/2008,Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,2340
-2007/2008,Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",81853
-2007/2008,Provinces and territories,Sentenced,Indigenous identity,18413
-2007/2008,Provinces and territories,Sentenced,Non-Indigenous identity,62310
-2007/2008,Provinces and territories,Sentenced,Indigenous identity unknown,1130
-2007/2008,Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",155808
-2007/2008,Provinces and territories,Remand,Indigenous identity,30805
-2007/2008,Provinces and territories,Remand,Non-Indigenous identity,123831
-2007/2008,Provinces and territories,Remand,Indigenous identity unknown,1172
-2007/2008,Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",17090
-2007/2008,Provinces and territories,Other custodial statuses,Indigenous identity,4515
-2007/2008,Provinces and territories,Other custodial statuses,Non-Indigenous identity,12537
-2007/2008,Provinces and territories,Other custodial statuses,Indigenous identity unknown,38
+2007/2008,All Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",254751
+2007/2008,All Provinces and territories,"Total, custodial admissions",Indigenous identity,53733
+2007/2008,All Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,198678
+2007/2008,All Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,2340
+2007/2008,All Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",81853
+2007/2008,All Provinces and territories,Sentenced,Indigenous identity,18413
+2007/2008,All Provinces and territories,Sentenced,Non-Indigenous identity,62310
+2007/2008,All Provinces and territories,Sentenced,Indigenous identity unknown,1130
+2007/2008,All Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",155808
+2007/2008,All Provinces and territories,Remand,Indigenous identity,30805
+2007/2008,All Provinces and territories,Remand,Non-Indigenous identity,123831
+2007/2008,All Provinces and territories,Remand,Indigenous identity unknown,1172
+2007/2008,All Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",17090
+2007/2008,All Provinces and territories,Other custodial statuses,Indigenous identity,4515
+2007/2008,All Provinces and territories,Other custodial statuses,Non-Indigenous identity,12537
+2007/2008,All Provinces and territories,Other custodial statuses,Indigenous identity unknown,38
 2007/2008,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",1677
 2007/2008,Newfoundland and Labrador,"Total, custodial admissions",Indigenous identity,348
 2007/2008,Newfoundland and Labrador,"Total, custodial admissions",Non-Indigenous identity,1329
@@ -1759,22 +1759,22 @@
 2007/2008,Nunavut,Remand,Indigenous identity,376
 2007/2008,Nunavut,Remand,Non-Indigenous identity,0
 2007/2008,Nunavut,Remand,Indigenous identity unknown,14
-2008/2009,Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",255775
-2008/2009,Provinces and territories,"Total, custodial admissions",Indigenous identity,57768
-2008/2009,Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,197087
-2008/2009,Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,920
-2008/2009,Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",83078
-2008/2009,Provinces and territories,Sentenced,Indigenous identity,20375
-2008/2009,Provinces and territories,Sentenced,Non-Indigenous identity,62534
-2008/2009,Provinces and territories,Sentenced,Indigenous identity unknown,169
-2008/2009,Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",155160
-2008/2009,Provinces and territories,Remand,Indigenous identity,32600
-2008/2009,Provinces and territories,Remand,Non-Indigenous identity,121848
-2008/2009,Provinces and territories,Remand,Indigenous identity unknown,712
-2008/2009,Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",17537
-2008/2009,Provinces and territories,Other custodial statuses,Indigenous identity,4793
-2008/2009,Provinces and territories,Other custodial statuses,Non-Indigenous identity,12705
-2008/2009,Provinces and territories,Other custodial statuses,Indigenous identity unknown,39
+2008/2009,All Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",255775
+2008/2009,All Provinces and territories,"Total, custodial admissions",Indigenous identity,57768
+2008/2009,All Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,197087
+2008/2009,All Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,920
+2008/2009,All Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",83078
+2008/2009,All Provinces and territories,Sentenced,Indigenous identity,20375
+2008/2009,All Provinces and territories,Sentenced,Non-Indigenous identity,62534
+2008/2009,All Provinces and territories,Sentenced,Indigenous identity unknown,169
+2008/2009,All Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",155160
+2008/2009,All Provinces and territories,Remand,Indigenous identity,32600
+2008/2009,All Provinces and territories,Remand,Non-Indigenous identity,121848
+2008/2009,All Provinces and territories,Remand,Indigenous identity unknown,712
+2008/2009,All Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",17537
+2008/2009,All Provinces and territories,Other custodial statuses,Indigenous identity,4793
+2008/2009,All Provinces and territories,Other custodial statuses,Non-Indigenous identity,12705
+2008/2009,All Provinces and territories,Other custodial statuses,Indigenous identity unknown,39
 2008/2009,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",1655
 2008/2009,Newfoundland and Labrador,"Total, custodial admissions",Indigenous identity,300
 2008/2009,Newfoundland and Labrador,"Total, custodial admissions",Non-Indigenous identity,1355
@@ -1979,22 +1979,22 @@
 2008/2009,Nunavut,Remand,Indigenous identity,426
 2008/2009,Nunavut,Remand,Non-Indigenous identity,1
 2008/2009,Nunavut,Remand,Indigenous identity unknown,18
-2009/2010,Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",254551
-2009/2010,Provinces and territories,"Total, custodial admissions",Indigenous identity,61994
-2009/2010,Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,192092
-2009/2010,Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,465
-2009/2010,Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",82976
-2009/2010,Provinces and territories,Sentenced,Indigenous identity,21789
-2009/2010,Provinces and territories,Sentenced,Non-Indigenous identity,61051
-2009/2010,Provinces and territories,Sentenced,Indigenous identity unknown,136
-2009/2010,Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",153185
-2009/2010,Provinces and territories,Remand,Indigenous identity,34915
-2009/2010,Provinces and territories,Remand,Non-Indigenous identity,117984
-2009/2010,Provinces and territories,Remand,Indigenous identity unknown,286
-2009/2010,Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",18390
-2009/2010,Provinces and territories,Other custodial statuses,Indigenous identity,5290
-2009/2010,Provinces and territories,Other custodial statuses,Non-Indigenous identity,13057
-2009/2010,Provinces and territories,Other custodial statuses,Indigenous identity unknown,43
+2009/2010,All Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",254551
+2009/2010,All Provinces and territories,"Total, custodial admissions",Indigenous identity,61994
+2009/2010,All Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,192092
+2009/2010,All Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,465
+2009/2010,All Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",82976
+2009/2010,All Provinces and territories,Sentenced,Indigenous identity,21789
+2009/2010,All Provinces and territories,Sentenced,Non-Indigenous identity,61051
+2009/2010,All Provinces and territories,Sentenced,Indigenous identity unknown,136
+2009/2010,All Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",153185
+2009/2010,All Provinces and territories,Remand,Indigenous identity,34915
+2009/2010,All Provinces and territories,Remand,Non-Indigenous identity,117984
+2009/2010,All Provinces and territories,Remand,Indigenous identity unknown,286
+2009/2010,All Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",18390
+2009/2010,All Provinces and territories,Other custodial statuses,Indigenous identity,5290
+2009/2010,All Provinces and territories,Other custodial statuses,Non-Indigenous identity,13057
+2009/2010,All Provinces and territories,Other custodial statuses,Indigenous identity unknown,43
 2009/2010,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",1978
 2009/2010,Newfoundland and Labrador,"Total, custodial admissions",Indigenous identity,316
 2009/2010,Newfoundland and Labrador,"Total, custodial admissions",Non-Indigenous identity,1662
@@ -2199,22 +2199,22 @@
 2009/2010,Nunavut,Remand,Indigenous identity,395
 2009/2010,Nunavut,Remand,Non-Indigenous identity,0
 2009/2010,Nunavut,Remand,Indigenous identity unknown,10
-2010/2011,Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",250980
-2010/2011,Provinces and territories,"Total, custodial admissions",Indigenous identity,64285
-2010/2011,Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,185834
-2010/2011,Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,861
-2010/2011,Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",83976
-2010/2011,Provinces and territories,Sentenced,Indigenous identity,23380
-2010/2011,Provinces and territories,Sentenced,Non-Indigenous identity,60435
-2010/2011,Provinces and territories,Sentenced,Indigenous identity unknown,161
-2010/2011,Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",148455
-2010/2011,Provinces and territories,Remand,Indigenous identity,35531
-2010/2011,Provinces and territories,Remand,Non-Indigenous identity,112641
-2010/2011,Provinces and territories,Remand,Indigenous identity unknown,283
-2010/2011,Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",18549
-2010/2011,Provinces and territories,Other custodial statuses,Indigenous identity,5374
-2010/2011,Provinces and territories,Other custodial statuses,Non-Indigenous identity,12758
-2010/2011,Provinces and territories,Other custodial statuses,Indigenous identity unknown,417
+2010/2011,All Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",250980
+2010/2011,All Provinces and territories,"Total, custodial admissions",Indigenous identity,64285
+2010/2011,All Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,185834
+2010/2011,All Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,861
+2010/2011,All Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",83976
+2010/2011,All Provinces and territories,Sentenced,Indigenous identity,23380
+2010/2011,All Provinces and territories,Sentenced,Non-Indigenous identity,60435
+2010/2011,All Provinces and territories,Sentenced,Indigenous identity unknown,161
+2010/2011,All Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",148455
+2010/2011,All Provinces and territories,Remand,Indigenous identity,35531
+2010/2011,All Provinces and territories,Remand,Non-Indigenous identity,112641
+2010/2011,All Provinces and territories,Remand,Indigenous identity unknown,283
+2010/2011,All Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",18549
+2010/2011,All Provinces and territories,Other custodial statuses,Indigenous identity,5374
+2010/2011,All Provinces and territories,Other custodial statuses,Non-Indigenous identity,12758
+2010/2011,All Provinces and territories,Other custodial statuses,Indigenous identity unknown,417
 2010/2011,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",2030
 2010/2011,Newfoundland and Labrador,"Total, custodial admissions",Indigenous identity,375
 2010/2011,Newfoundland and Labrador,"Total, custodial admissions",Non-Indigenous identity,1655
@@ -2419,22 +2419,22 @@
 2010/2011,Nunavut,Remand,Indigenous identity,348
 2010/2011,Nunavut,Remand,Non-Indigenous identity,0
 2010/2011,Nunavut,Remand,Indigenous identity unknown,18
-2011/2012,Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",251629
-2011/2012,Provinces and territories,"Total, custodial admissions",Indigenous identity,66819
-2011/2012,Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,184153
-2011/2012,Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,657
-2011/2012,Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",85013
-2011/2012,Provinces and territories,Sentenced,Indigenous identity,24161
-2011/2012,Provinces and territories,Sentenced,Non-Indigenous identity,60638
-2011/2012,Provinces and territories,Sentenced,Indigenous identity unknown,214
-2011/2012,Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",148135
-2011/2012,Provinces and territories,Remand,Indigenous identity,37048
-2011/2012,Provinces and territories,Remand,Non-Indigenous identity,110691
-2011/2012,Provinces and territories,Remand,Indigenous identity unknown,396
-2011/2012,Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",18481
-2011/2012,Provinces and territories,Other custodial statuses,Indigenous identity,5610
-2011/2012,Provinces and territories,Other custodial statuses,Non-Indigenous identity,12824
-2011/2012,Provinces and territories,Other custodial statuses,Indigenous identity unknown,47
+2011/2012,All Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",251629
+2011/2012,All Provinces and territories,"Total, custodial admissions",Indigenous identity,66819
+2011/2012,All Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,184153
+2011/2012,All Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,657
+2011/2012,All Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",85013
+2011/2012,All Provinces and territories,Sentenced,Indigenous identity,24161
+2011/2012,All Provinces and territories,Sentenced,Non-Indigenous identity,60638
+2011/2012,All Provinces and territories,Sentenced,Indigenous identity unknown,214
+2011/2012,All Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",148135
+2011/2012,All Provinces and territories,Remand,Indigenous identity,37048
+2011/2012,All Provinces and territories,Remand,Non-Indigenous identity,110691
+2011/2012,All Provinces and territories,Remand,Indigenous identity unknown,396
+2011/2012,All Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",18481
+2011/2012,All Provinces and territories,Other custodial statuses,Indigenous identity,5610
+2011/2012,All Provinces and territories,Other custodial statuses,Non-Indigenous identity,12824
+2011/2012,All Provinces and territories,Other custodial statuses,Indigenous identity unknown,47
 2011/2012,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",1909
 2011/2012,Newfoundland and Labrador,"Total, custodial admissions",Indigenous identity,363
 2011/2012,Newfoundland and Labrador,"Total, custodial admissions",Non-Indigenous identity,1546
@@ -2639,22 +2639,22 @@
 2011/2012,Nunavut,Remand,Indigenous identity,333
 2011/2012,Nunavut,Remand,Non-Indigenous identity,0
 2011/2012,Nunavut,Remand,Indigenous identity unknown,12
-2012/2013,Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",208444
-2012/2013,Provinces and territories,"Total, custodial admissions",Indigenous identity,52011
-2012/2013,Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,155812
-2012/2013,Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,621
-2012/2013,Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",65922
-2012/2013,Provinces and territories,Sentenced,Indigenous identity,16826
-2012/2013,Provinces and territories,Sentenced,Non-Indigenous identity,48902
-2012/2013,Provinces and territories,Sentenced,Indigenous identity unknown,194
-2012/2013,Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",123736
-2012/2013,Provinces and territories,Remand,Indigenous identity,29080
-2012/2013,Provinces and territories,Remand,Non-Indigenous identity,94267
-2012/2013,Provinces and territories,Remand,Indigenous identity unknown,389
-2012/2013,Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",18786
-2012/2013,Provinces and territories,Other custodial statuses,Indigenous identity,6105
-2012/2013,Provinces and territories,Other custodial statuses,Non-Indigenous identity,12643
-2012/2013,Provinces and territories,Other custodial statuses,Indigenous identity unknown,38
+2012/2013,All Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",208444
+2012/2013,All Provinces and territories,"Total, custodial admissions",Indigenous identity,52011
+2012/2013,All Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,155812
+2012/2013,All Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,621
+2012/2013,All Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",65922
+2012/2013,All Provinces and territories,Sentenced,Indigenous identity,16826
+2012/2013,All Provinces and territories,Sentenced,Non-Indigenous identity,48902
+2012/2013,All Provinces and territories,Sentenced,Indigenous identity unknown,194
+2012/2013,All Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",123736
+2012/2013,All Provinces and territories,Remand,Indigenous identity,29080
+2012/2013,All Provinces and territories,Remand,Non-Indigenous identity,94267
+2012/2013,All Provinces and territories,Remand,Indigenous identity unknown,389
+2012/2013,All Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",18786
+2012/2013,All Provinces and territories,Other custodial statuses,Indigenous identity,6105
+2012/2013,All Provinces and territories,Other custodial statuses,Non-Indigenous identity,12643
+2012/2013,All Provinces and territories,Other custodial statuses,Indigenous identity unknown,38
 2012/2013,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",1896
 2012/2013,Newfoundland and Labrador,"Total, custodial admissions",Indigenous identity,427
 2012/2013,Newfoundland and Labrador,"Total, custodial admissions",Non-Indigenous identity,1469
@@ -2859,22 +2859,22 @@
 2012/2013,Nunavut,Remand,Indigenous identity,418
 2012/2013,Nunavut,Remand,Non-Indigenous identity,3
 2012/2013,Nunavut,Remand,Indigenous identity unknown,18
-2013/2014,Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",201099
-2013/2014,Provinces and territories,"Total, custodial admissions",Indigenous identity,51668
-2013/2014,Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,148897
-2013/2014,Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,534
-2013/2014,Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",64604
-2013/2014,Provinces and territories,Sentenced,Indigenous identity,16843
-2013/2014,Provinces and territories,Sentenced,Non-Indigenous identity,47563
-2013/2014,Provinces and territories,Sentenced,Indigenous identity unknown,198
-2013/2014,Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",118512
-2013/2014,Provinces and territories,Remand,Indigenous identity,28650
-2013/2014,Provinces and territories,Remand,Non-Indigenous identity,89566
-2013/2014,Provinces and territories,Remand,Indigenous identity unknown,296
-2013/2014,Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",17983
-2013/2014,Provinces and territories,Other custodial statuses,Indigenous identity,6175
-2013/2014,Provinces and territories,Other custodial statuses,Non-Indigenous identity,11768
-2013/2014,Provinces and territories,Other custodial statuses,Indigenous identity unknown,40
+2013/2014,All Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",201099
+2013/2014,All Provinces and territories,"Total, custodial admissions",Indigenous identity,51668
+2013/2014,All Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,148897
+2013/2014,All Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,534
+2013/2014,All Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",64604
+2013/2014,All Provinces and territories,Sentenced,Indigenous identity,16843
+2013/2014,All Provinces and territories,Sentenced,Non-Indigenous identity,47563
+2013/2014,All Provinces and territories,Sentenced,Indigenous identity unknown,198
+2013/2014,All Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",118512
+2013/2014,All Provinces and territories,Remand,Indigenous identity,28650
+2013/2014,All Provinces and territories,Remand,Non-Indigenous identity,89566
+2013/2014,All Provinces and territories,Remand,Indigenous identity unknown,296
+2013/2014,All Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",17983
+2013/2014,All Provinces and territories,Other custodial statuses,Indigenous identity,6175
+2013/2014,All Provinces and territories,Other custodial statuses,Non-Indigenous identity,11768
+2013/2014,All Provinces and territories,Other custodial statuses,Indigenous identity unknown,40
 2013/2014,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",1901
 2013/2014,Newfoundland and Labrador,"Total, custodial admissions",Indigenous identity,473
 2013/2014,Newfoundland and Labrador,"Total, custodial admissions",Non-Indigenous identity,1428
@@ -3079,22 +3079,22 @@
 2013/2014,Nunavut,Remand,Indigenous identity,454
 2013/2014,Nunavut,Remand,Non-Indigenous identity,2
 2013/2014,Nunavut,Remand,Indigenous identity unknown,16
-2014/2015,Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",197454
-2014/2015,Provinces and territories,"Total, custodial admissions",Indigenous identity,51463
-2014/2015,Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,145336
-2014/2015,Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,655
-2014/2015,Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",62279
-2014/2015,Provinces and territories,Sentenced,Indigenous identity,16309
-2014/2015,Provinces and territories,Sentenced,Non-Indigenous identity,45737
-2014/2015,Provinces and territories,Sentenced,Indigenous identity unknown,233
-2014/2015,Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",117211
-2014/2015,Provinces and territories,Remand,Indigenous identity,29138
-2014/2015,Provinces and territories,Remand,Non-Indigenous identity,87708
-2014/2015,Provinces and territories,Remand,Indigenous identity unknown,365
-2014/2015,Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",17964
-2014/2015,Provinces and territories,Other custodial statuses,Indigenous identity,6016
-2014/2015,Provinces and territories,Other custodial statuses,Non-Indigenous identity,11891
-2014/2015,Provinces and territories,Other custodial statuses,Indigenous identity unknown,57
+2014/2015,All Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",197454
+2014/2015,All Provinces and territories,"Total, custodial admissions",Indigenous identity,51463
+2014/2015,All Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,145336
+2014/2015,All Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,655
+2014/2015,All Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",62279
+2014/2015,All Provinces and territories,Sentenced,Indigenous identity,16309
+2014/2015,All Provinces and territories,Sentenced,Non-Indigenous identity,45737
+2014/2015,All Provinces and territories,Sentenced,Indigenous identity unknown,233
+2014/2015,All Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",117211
+2014/2015,All Provinces and territories,Remand,Indigenous identity,29138
+2014/2015,All Provinces and territories,Remand,Non-Indigenous identity,87708
+2014/2015,All Provinces and territories,Remand,Indigenous identity unknown,365
+2014/2015,All Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",17964
+2014/2015,All Provinces and territories,Other custodial statuses,Indigenous identity,6016
+2014/2015,All Provinces and territories,Other custodial statuses,Non-Indigenous identity,11891
+2014/2015,All Provinces and territories,Other custodial statuses,Indigenous identity unknown,57
 2014/2015,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",1981
 2014/2015,Newfoundland and Labrador,"Total, custodial admissions",Indigenous identity,598
 2014/2015,Newfoundland and Labrador,"Total, custodial admissions",Non-Indigenous identity,1383
@@ -3299,22 +3299,22 @@
 2014/2015,Nunavut,Remand,Indigenous identity,532
 2014/2015,Nunavut,Remand,Non-Indigenous identity,0
 2014/2015,Nunavut,Remand,Indigenous identity unknown,15
-2015/2016,Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",201189
-2015/2016,Provinces and territories,"Total, custodial admissions",Indigenous identity,53450
-2015/2016,Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,146940
-2015/2016,Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,799
-2015/2016,Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",62771
-2015/2016,Provinces and territories,Sentenced,Indigenous identity,16921
-2015/2016,Provinces and territories,Sentenced,Non-Indigenous identity,45571
-2015/2016,Provinces and territories,Sentenced,Indigenous identity unknown,279
-2015/2016,Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",119625
-2015/2016,Provinces and territories,Remand,Indigenous identity,30344
-2015/2016,Provinces and territories,Remand,Non-Indigenous identity,88813
-2015/2016,Provinces and territories,Remand,Indigenous identity unknown,468
-2015/2016,Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",18793
-2015/2016,Provinces and territories,Other custodial statuses,Indigenous identity,6185
-2015/2016,Provinces and territories,Other custodial statuses,Non-Indigenous identity,12556
-2015/2016,Provinces and territories,Other custodial statuses,Indigenous identity unknown,52
+2015/2016,All Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",201189
+2015/2016,All Provinces and territories,"Total, custodial admissions",Indigenous identity,53450
+2015/2016,All Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,146940
+2015/2016,All Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,799
+2015/2016,All Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",62771
+2015/2016,All Provinces and territories,Sentenced,Indigenous identity,16921
+2015/2016,All Provinces and territories,Sentenced,Non-Indigenous identity,45571
+2015/2016,All Provinces and territories,Sentenced,Indigenous identity unknown,279
+2015/2016,All Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",119625
+2015/2016,All Provinces and territories,Remand,Indigenous identity,30344
+2015/2016,All Provinces and territories,Remand,Non-Indigenous identity,88813
+2015/2016,All Provinces and territories,Remand,Indigenous identity unknown,468
+2015/2016,All Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",18793
+2015/2016,All Provinces and territories,Other custodial statuses,Indigenous identity,6185
+2015/2016,All Provinces and territories,Other custodial statuses,Non-Indigenous identity,12556
+2015/2016,All Provinces and territories,Other custodial statuses,Indigenous identity unknown,52
 2015/2016,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",2030
 2015/2016,Newfoundland and Labrador,"Total, custodial admissions",Indigenous identity,524
 2015/2016,Newfoundland and Labrador,"Total, custodial admissions",Non-Indigenous identity,1506
@@ -3519,22 +3519,22 @@
 2015/2016,Nunavut,Remand,Indigenous identity,416
 2015/2016,Nunavut,Remand,Non-Indigenous identity,1
 2015/2016,Nunavut,Remand,Indigenous identity unknown,12
-2016/2017,Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",251986
-2016/2017,Provinces and territories,"Total, custodial admissions",Indigenous identity,74823
-2016/2017,Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,175701
-2016/2017,Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,1462
-2016/2017,Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",84543
-2016/2017,Provinces and territories,Sentenced,Indigenous identity,25505
-2016/2017,Provinces and territories,Sentenced,Non-Indigenous identity,58478
-2016/2017,Provinces and territories,Sentenced,Indigenous identity unknown,560
-2016/2017,Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",147348
-2016/2017,Provinces and territories,Remand,Indigenous identity,42654
-2016/2017,Provinces and territories,Remand,Non-Indigenous identity,103904
-2016/2017,Provinces and territories,Remand,Indigenous identity unknown,790
-2016/2017,Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",20095
-2016/2017,Provinces and territories,Other custodial statuses,Indigenous identity,6664
-2016/2017,Provinces and territories,Other custodial statuses,Non-Indigenous identity,13319
-2016/2017,Provinces and territories,Other custodial statuses,Indigenous identity unknown,112
+2016/2017,All Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",251986
+2016/2017,All Provinces and territories,"Total, custodial admissions",Indigenous identity,74823
+2016/2017,All Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,175701
+2016/2017,All Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,1462
+2016/2017,All Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",84543
+2016/2017,All Provinces and territories,Sentenced,Indigenous identity,25505
+2016/2017,All Provinces and territories,Sentenced,Non-Indigenous identity,58478
+2016/2017,All Provinces and territories,Sentenced,Indigenous identity unknown,560
+2016/2017,All Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",147348
+2016/2017,All Provinces and territories,Remand,Indigenous identity,42654
+2016/2017,All Provinces and territories,Remand,Non-Indigenous identity,103904
+2016/2017,All Provinces and territories,Remand,Indigenous identity unknown,790
+2016/2017,All Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",20095
+2016/2017,All Provinces and territories,Other custodial statuses,Indigenous identity,6664
+2016/2017,All Provinces and territories,Other custodial statuses,Non-Indigenous identity,13319
+2016/2017,All Provinces and territories,Other custodial statuses,Indigenous identity unknown,112
 2016/2017,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",2050
 2016/2017,Newfoundland and Labrador,"Total, custodial admissions",Indigenous identity,519
 2016/2017,Newfoundland and Labrador,"Total, custodial admissions",Non-Indigenous identity,1531
@@ -3739,22 +3739,22 @@
 2016/2017,Nunavut,Remand,Indigenous identity,426
 2016/2017,Nunavut,Remand,Non-Indigenous identity,0
 2016/2017,Nunavut,Remand,Indigenous identity unknown,18
-2017/2018,Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",243190
-2017/2018,Provinces and territories,"Total, custodial admissions",Indigenous identity,73348
-2017/2018,Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,168731
-2017/2018,Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,1111
-2017/2018,Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",80759
-2017/2018,Provinces and territories,Sentenced,Indigenous identity,24179
-2017/2018,Provinces and territories,Sentenced,Non-Indigenous identity,56095
-2017/2018,Provinces and territories,Sentenced,Indigenous identity unknown,485
-2017/2018,Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",141905
-2017/2018,Provinces and territories,Remand,Indigenous identity,42189
-2017/2018,Provinces and territories,Remand,Non-Indigenous identity,99177
-2017/2018,Provinces and territories,Remand,Indigenous identity unknown,539
-2017/2018,Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",20526
-2017/2018,Provinces and territories,Other custodial statuses,Indigenous identity,6980
-2017/2018,Provinces and territories,Other custodial statuses,Non-Indigenous identity,13459
-2017/2018,Provinces and territories,Other custodial statuses,Indigenous identity unknown,87
+2017/2018,All Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",243190
+2017/2018,All Provinces and territories,"Total, custodial admissions",Indigenous identity,73348
+2017/2018,All Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,168731
+2017/2018,All Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,1111
+2017/2018,All Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",80759
+2017/2018,All Provinces and territories,Sentenced,Indigenous identity,24179
+2017/2018,All Provinces and territories,Sentenced,Non-Indigenous identity,56095
+2017/2018,All Provinces and territories,Sentenced,Indigenous identity unknown,485
+2017/2018,All Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",141905
+2017/2018,All Provinces and territories,Remand,Indigenous identity,42189
+2017/2018,All Provinces and territories,Remand,Non-Indigenous identity,99177
+2017/2018,All Provinces and territories,Remand,Indigenous identity unknown,539
+2017/2018,All Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",20526
+2017/2018,All Provinces and territories,Other custodial statuses,Indigenous identity,6980
+2017/2018,All Provinces and territories,Other custodial statuses,Non-Indigenous identity,13459
+2017/2018,All Provinces and territories,Other custodial statuses,Indigenous identity unknown,87
 2017/2018,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",1931
 2017/2018,Newfoundland and Labrador,"Total, custodial admissions",Indigenous identity,405
 2017/2018,Newfoundland and Labrador,"Total, custodial admissions",Non-Indigenous identity,1526
@@ -3963,22 +3963,22 @@
 2017/2018,Nunavut,Other custodial statuses,Indigenous identity,
 2017/2018,Nunavut,Other custodial statuses,Non-Indigenous identity,
 2017/2018,Nunavut,Other custodial statuses,Indigenous identity unknown,
-2018/2019,Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",226048
-2018/2019,Provinces and territories,"Total, custodial admissions",Indigenous identity,68814
-2018/2019,Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,156294
-2018/2019,Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,940
-2018/2019,Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",72312
-2018/2019,Provinces and territories,Sentenced,Indigenous identity,21263
-2018/2019,Provinces and territories,Sentenced,Non-Indigenous identity,50630
-2018/2019,Provinces and territories,Sentenced,Indigenous identity unknown,419
-2018/2019,Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",133267
-2018/2019,Provinces and territories,Remand,Indigenous identity,40442
-2018/2019,Provinces and territories,Remand,Non-Indigenous identity,92391
-2018/2019,Provinces and territories,Remand,Indigenous identity unknown,434
-2018/2019,Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",20469
-2018/2019,Provinces and territories,Other custodial statuses,Indigenous identity,7109
-2018/2019,Provinces and territories,Other custodial statuses,Non-Indigenous identity,13273
-2018/2019,Provinces and territories,Other custodial statuses,Indigenous identity unknown,87
+2018/2019,All Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",226048
+2018/2019,All Provinces and territories,"Total, custodial admissions",Indigenous identity,68814
+2018/2019,All Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,156294
+2018/2019,All Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,940
+2018/2019,All Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",72312
+2018/2019,All Provinces and territories,Sentenced,Indigenous identity,21263
+2018/2019,All Provinces and territories,Sentenced,Non-Indigenous identity,50630
+2018/2019,All Provinces and territories,Sentenced,Indigenous identity unknown,419
+2018/2019,All Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",133267
+2018/2019,All Provinces and territories,Remand,Indigenous identity,40442
+2018/2019,All Provinces and territories,Remand,Non-Indigenous identity,92391
+2018/2019,All Provinces and territories,Remand,Indigenous identity unknown,434
+2018/2019,All Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",20469
+2018/2019,All Provinces and territories,Other custodial statuses,Indigenous identity,7109
+2018/2019,All Provinces and territories,Other custodial statuses,Non-Indigenous identity,13273
+2018/2019,All Provinces and territories,Other custodial statuses,Indigenous identity unknown,87
 2018/2019,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",1776
 2018/2019,Newfoundland and Labrador,"Total, custodial admissions",Indigenous identity,372
 2018/2019,Newfoundland and Labrador,"Total, custodial admissions",Non-Indigenous identity,1404
@@ -4187,22 +4187,22 @@
 2018/2019,Nunavut,Other custodial statuses,Indigenous identity,17
 2018/2019,Nunavut,Other custodial statuses,Non-Indigenous identity,0
 2018/2019,Nunavut,Other custodial statuses,Indigenous identity unknown,1
-2019/2020,Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",227124
-2019/2020,Provinces and territories,"Total, custodial admissions",Indigenous identity,67649
-2019/2020,Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,158554
-2019/2020,Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,921
-2019/2020,Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",64948
-2019/2020,Provinces and territories,Sentenced,Indigenous identity,19131
-2019/2020,Provinces and territories,Sentenced,Non-Indigenous identity,45411
-2019/2020,Provinces and territories,Sentenced,Indigenous identity unknown,406
-2019/2020,Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",127382
-2019/2020,Provinces and territories,Remand,Indigenous identity,39087
-2019/2020,Provinces and territories,Remand,Non-Indigenous identity,87877
-2019/2020,Provinces and territories,Remand,Indigenous identity unknown,418
-2019/2020,Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",34794
-2019/2020,Provinces and territories,Other custodial statuses,Indigenous identity,9431
-2019/2020,Provinces and territories,Other custodial statuses,Non-Indigenous identity,25266
-2019/2020,Provinces and territories,Other custodial statuses,Indigenous identity unknown,97
+2019/2020,All Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",227124
+2019/2020,All Provinces and territories,"Total, custodial admissions",Indigenous identity,67649
+2019/2020,All Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,158554
+2019/2020,All Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,921
+2019/2020,All Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",64948
+2019/2020,All Provinces and territories,Sentenced,Indigenous identity,19131
+2019/2020,All Provinces and territories,Sentenced,Non-Indigenous identity,45411
+2019/2020,All Provinces and territories,Sentenced,Indigenous identity unknown,406
+2019/2020,All Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",127382
+2019/2020,All Provinces and territories,Remand,Indigenous identity,39087
+2019/2020,All Provinces and territories,Remand,Non-Indigenous identity,87877
+2019/2020,All Provinces and territories,Remand,Indigenous identity unknown,418
+2019/2020,All Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",34794
+2019/2020,All Provinces and territories,Other custodial statuses,Indigenous identity,9431
+2019/2020,All Provinces and territories,Other custodial statuses,Non-Indigenous identity,25266
+2019/2020,All Provinces and territories,Other custodial statuses,Indigenous identity unknown,97
 2019/2020,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",1673
 2019/2020,Newfoundland and Labrador,"Total, custodial admissions",Indigenous identity,412
 2019/2020,Newfoundland and Labrador,"Total, custodial admissions",Non-Indigenous identity,1261
@@ -4411,22 +4411,22 @@
 2019/2020,Nunavut,Other custodial statuses,Indigenous identity,0
 2019/2020,Nunavut,Other custodial statuses,Non-Indigenous identity,0
 2019/2020,Nunavut,Other custodial statuses,Indigenous identity unknown,0
-2020/2021,Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",143975
-2020/2021,Provinces and territories,"Total, custodial admissions",Indigenous identity,44941
-2020/2021,Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,98218
-2020/2021,Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,816
-2020/2021,Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",35562
-2020/2021,Provinces and territories,Sentenced,Indigenous identity,12267
-2020/2021,Provinces and territories,Sentenced,Non-Indigenous identity,22999
-2020/2021,Provinces and territories,Sentenced,Indigenous identity unknown,296
-2020/2021,Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",89643
-2020/2021,Provinces and territories,Remand,Indigenous identity,28884
-2020/2021,Provinces and territories,Remand,Non-Indigenous identity,60298
-2020/2021,Provinces and territories,Remand,Indigenous identity unknown,461
-2020/2021,Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",18770
-2020/2021,Provinces and territories,Other custodial statuses,Indigenous identity,3790
-2020/2021,Provinces and territories,Other custodial statuses,Non-Indigenous identity,14921
-2020/2021,Provinces and territories,Other custodial statuses,Indigenous identity unknown,59
+2020/2021,All Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",143975
+2020/2021,All Provinces and territories,"Total, custodial admissions",Indigenous identity,44941
+2020/2021,All Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,98218
+2020/2021,All Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,816
+2020/2021,All Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",35562
+2020/2021,All Provinces and territories,Sentenced,Indigenous identity,12267
+2020/2021,All Provinces and territories,Sentenced,Non-Indigenous identity,22999
+2020/2021,All Provinces and territories,Sentenced,Indigenous identity unknown,296
+2020/2021,All Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",89643
+2020/2021,All Provinces and territories,Remand,Indigenous identity,28884
+2020/2021,All Provinces and territories,Remand,Non-Indigenous identity,60298
+2020/2021,All Provinces and territories,Remand,Indigenous identity unknown,461
+2020/2021,All Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",18770
+2020/2021,All Provinces and territories,Other custodial statuses,Indigenous identity,3790
+2020/2021,All Provinces and territories,Other custodial statuses,Non-Indigenous identity,14921
+2020/2021,All Provinces and territories,Other custodial statuses,Indigenous identity unknown,59
 2020/2021,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",1390
 2020/2021,Newfoundland and Labrador,"Total, custodial admissions",Indigenous identity,321
 2020/2021,Newfoundland and Labrador,"Total, custodial admissions",Non-Indigenous identity,1069
@@ -4635,22 +4635,22 @@
 2020/2021,Nunavut,Other custodial statuses,Indigenous identity,0
 2020/2021,Nunavut,Other custodial statuses,Non-Indigenous identity,0
 2020/2021,Nunavut,Other custodial statuses,Indigenous identity unknown,0
-2021/2022,Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",149921
-2021/2022,Provinces and territories,"Total, custodial admissions",Indigenous identity,46633
-2021/2022,Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,102605
-2021/2022,Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,683
-2021/2022,Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",37932
-2021/2022,Provinces and territories,Sentenced,Indigenous identity,12717
-2021/2022,Provinces and territories,Sentenced,Non-Indigenous identity,24994
-2021/2022,Provinces and territories,Sentenced,Indigenous identity unknown,221
-2021/2022,Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",92673
-2021/2022,Provinces and territories,Remand,Indigenous identity,29835
-2021/2022,Provinces and territories,Remand,Non-Indigenous identity,62467
-2021/2022,Provinces and territories,Remand,Indigenous identity unknown,371
-2021/2022,Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",19316
-2021/2022,Provinces and territories,Other custodial statuses,Indigenous identity,4081
-2021/2022,Provinces and territories,Other custodial statuses,Non-Indigenous identity,15144
-2021/2022,Provinces and territories,Other custodial statuses,Indigenous identity unknown,91
+2021/2022,All Provinces and territories,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",149921
+2021/2022,All Provinces and territories,"Total, custodial admissions",Indigenous identity,46633
+2021/2022,All Provinces and territories,"Total, custodial admissions",Non-Indigenous identity,102605
+2021/2022,All Provinces and territories,"Total, custodial admissions",Indigenous identity unknown,683
+2021/2022,All Provinces and territories,Sentenced,"Total, custodial admissions by Indigenous identity",37932
+2021/2022,All Provinces and territories,Sentenced,Indigenous identity,12717
+2021/2022,All Provinces and territories,Sentenced,Non-Indigenous identity,24994
+2021/2022,All Provinces and territories,Sentenced,Indigenous identity unknown,221
+2021/2022,All Provinces and territories,Remand,"Total, custodial admissions by Indigenous identity",92673
+2021/2022,All Provinces and territories,Remand,Indigenous identity,29835
+2021/2022,All Provinces and territories,Remand,Non-Indigenous identity,62467
+2021/2022,All Provinces and territories,Remand,Indigenous identity unknown,371
+2021/2022,All Provinces and territories,Other custodial statuses,"Total, custodial admissions by Indigenous identity",19316
+2021/2022,All Provinces and territories,Other custodial statuses,Indigenous identity,4081
+2021/2022,All Provinces and territories,Other custodial statuses,Non-Indigenous identity,15144
+2021/2022,All Provinces and territories,Other custodial statuses,Indigenous identity unknown,91
 2021/2022,Newfoundland and Labrador,"Total, custodial admissions","Total, custodial admissions by Indigenous identity",1489
 2021/2022,Newfoundland and Labrador,"Total, custodial admissions",Indigenous identity,326
 2021/2022,Newfoundland and Labrador,"Total, custodial admissions",Non-Indigenous identity,1163

@@ -1,17 +1,17 @@
 ﻿REF_DATE,GEO,Initial entry status,VALUE
-1998/1999,Provinces and territories,Total correctional services,34547
-1998/1999,Provinces and territories,Pre-trial detention,13547
-1998/1999,Provinces and territories,Secure custody,1638
-1998/1999,Provinces and territories,Custody and supervision (secure),
-1998/1999,Provinces and territories,Young Offenders Act (YOA) (secure),
-1998/1999,Provinces and territories,Open custody,2019
-1998/1999,Provinces and territories,Custody and supervision (open),
-1998/1999,Provinces and territories,Young Offenders Act (YOA) (open),
-1998/1999,Provinces and territories,Total community sentences,17343
-1998/1999,Provinces and territories,Intensive support and supervision,
-1998/1999,Provinces and territories,Deferred custody and supervision,
-1998/1999,Provinces and territories,Supervised probation,13517
-1998/1999,Provinces and territories,Other community sentences,3826
+1998/1999,All Provinces and territories,Total correctional services,34547
+1998/1999,All Provinces and territories,Pre-trial detention,13547
+1998/1999,All Provinces and territories,Secure custody,1638
+1998/1999,All Provinces and territories,Custody and supervision (secure),
+1998/1999,All Provinces and territories,Young Offenders Act (YOA) (secure),
+1998/1999,All Provinces and territories,Open custody,2019
+1998/1999,All Provinces and territories,Custody and supervision (open),
+1998/1999,All Provinces and territories,Young Offenders Act (YOA) (open),
+1998/1999,All Provinces and territories,Total community sentences,17343
+1998/1999,All Provinces and territories,Intensive support and supervision,
+1998/1999,All Provinces and territories,Deferred custody and supervision,
+1998/1999,All Provinces and territories,Supervised probation,13517
+1998/1999,All Provinces and territories,Other community sentences,3826
 1998/1999,Newfoundland and Labrador,Total correctional services,869
 1998/1999,Newfoundland and Labrador,Pre-trial detention,82
 1998/1999,Newfoundland and Labrador,Secure custody,39
@@ -220,19 +220,19 @@
 1998/1999,Nunavut,Deferred custody and supervision,
 1998/1999,Nunavut,Supervised probation,
 1998/1999,Nunavut,Other community sentences,
-1999/2000,Provinces and territories,Total correctional services,35415
-1999/2000,Provinces and territories,Pre-trial detention,9445
-1999/2000,Provinces and territories,Secure custody,2290
-1999/2000,Provinces and territories,Custody and supervision (secure),
-1999/2000,Provinces and territories,Young Offenders Act (YOA) (secure),
-1999/2000,Provinces and territories,Open custody,3016
-1999/2000,Provinces and territories,Custody and supervision (open),
-1999/2000,Provinces and territories,Young Offenders Act (YOA) (open),
-1999/2000,Provinces and territories,Total community sentences,20664
-1999/2000,Provinces and territories,Intensive support and supervision,
-1999/2000,Provinces and territories,Deferred custody and supervision,
-1999/2000,Provinces and territories,Supervised probation,17727
-1999/2000,Provinces and territories,Other community sentences,2937
+1999/2000,All Provinces and territories,Total correctional services,35415
+1999/2000,All Provinces and territories,Pre-trial detention,9445
+1999/2000,All Provinces and territories,Secure custody,2290
+1999/2000,All Provinces and territories,Custody and supervision (secure),
+1999/2000,All Provinces and territories,Young Offenders Act (YOA) (secure),
+1999/2000,All Provinces and territories,Open custody,3016
+1999/2000,All Provinces and territories,Custody and supervision (open),
+1999/2000,All Provinces and territories,Young Offenders Act (YOA) (open),
+1999/2000,All Provinces and territories,Total community sentences,20664
+1999/2000,All Provinces and territories,Intensive support and supervision,
+1999/2000,All Provinces and territories,Deferred custody and supervision,
+1999/2000,All Provinces and territories,Supervised probation,17727
+1999/2000,All Provinces and territories,Other community sentences,2937
 1999/2000,Newfoundland and Labrador,Total correctional services,668
 1999/2000,Newfoundland and Labrador,Pre-trial detention,65
 1999/2000,Newfoundland and Labrador,Secure custody,41
@@ -441,19 +441,19 @@
 1999/2000,Nunavut,Deferred custody and supervision,
 1999/2000,Nunavut,Supervised probation,
 1999/2000,Nunavut,Other community sentences,
-2000/2001,Provinces and territories,Total correctional services,37108
-2000/2001,Provinces and territories,Pre-trial detention,9680
-2000/2001,Provinces and territories,Secure custody,2233
-2000/2001,Provinces and territories,Custody and supervision (secure),
-2000/2001,Provinces and territories,Young Offenders Act (YOA) (secure),
-2000/2001,Provinces and territories,Open custody,3099
-2000/2001,Provinces and territories,Custody and supervision (open),
-2000/2001,Provinces and territories,Young Offenders Act (YOA) (open),
-2000/2001,Provinces and territories,Total community sentences,22096
-2000/2001,Provinces and territories,Intensive support and supervision,
-2000/2001,Provinces and territories,Deferred custody and supervision,
-2000/2001,Provinces and territories,Supervised probation,19100
-2000/2001,Provinces and territories,Other community sentences,2996
+2000/2001,All Provinces and territories,Total correctional services,37108
+2000/2001,All Provinces and territories,Pre-trial detention,9680
+2000/2001,All Provinces and territories,Secure custody,2233
+2000/2001,All Provinces and territories,Custody and supervision (secure),
+2000/2001,All Provinces and territories,Young Offenders Act (YOA) (secure),
+2000/2001,All Provinces and territories,Open custody,3099
+2000/2001,All Provinces and territories,Custody and supervision (open),
+2000/2001,All Provinces and territories,Young Offenders Act (YOA) (open),
+2000/2001,All Provinces and territories,Total community sentences,22096
+2000/2001,All Provinces and territories,Intensive support and supervision,
+2000/2001,All Provinces and territories,Deferred custody and supervision,
+2000/2001,All Provinces and territories,Supervised probation,19100
+2000/2001,All Provinces and territories,Other community sentences,2996
 2000/2001,Newfoundland and Labrador,Total correctional services,718
 2000/2001,Newfoundland and Labrador,Pre-trial detention,82
 2000/2001,Newfoundland and Labrador,Secure custody,43
@@ -662,19 +662,19 @@
 2000/2001,Nunavut,Deferred custody and supervision,
 2000/2001,Nunavut,Supervised probation,
 2000/2001,Nunavut,Other community sentences,
-2001/2002,Provinces and territories,Total correctional services,35420
-2001/2002,Provinces and territories,Pre-trial detention,8330
-2001/2002,Provinces and territories,Secure custody,1915
-2001/2002,Provinces and territories,Custody and supervision (secure),5
-2001/2002,Provinces and territories,Young Offenders Act (YOA) (secure),
-2001/2002,Provinces and territories,Open custody,2398
-2001/2002,Provinces and territories,Custody and supervision (open),4
-2001/2002,Provinces and territories,Young Offenders Act (YOA) (open),
-2001/2002,Provinces and territories,Total community sentences,22777
-2001/2002,Provinces and territories,Intensive support and supervision,
-2001/2002,Provinces and territories,Deferred custody and supervision,
-2001/2002,Provinces and territories,Supervised probation,16657
-2001/2002,Provinces and territories,Other community sentences,6120
+2001/2002,All Provinces and territories,Total correctional services,35420
+2001/2002,All Provinces and territories,Pre-trial detention,8330
+2001/2002,All Provinces and territories,Secure custody,1915
+2001/2002,All Provinces and territories,Custody and supervision (secure),5
+2001/2002,All Provinces and territories,Young Offenders Act (YOA) (secure),
+2001/2002,All Provinces and territories,Open custody,2398
+2001/2002,All Provinces and territories,Custody and supervision (open),4
+2001/2002,All Provinces and territories,Young Offenders Act (YOA) (open),
+2001/2002,All Provinces and territories,Total community sentences,22777
+2001/2002,All Provinces and territories,Intensive support and supervision,
+2001/2002,All Provinces and territories,Deferred custody and supervision,
+2001/2002,All Provinces and territories,Supervised probation,16657
+2001/2002,All Provinces and territories,Other community sentences,6120
 2001/2002,Newfoundland and Labrador,Total correctional services,668
 2001/2002,Newfoundland and Labrador,Pre-trial detention,89
 2001/2002,Newfoundland and Labrador,Secure custody,26
@@ -883,19 +883,19 @@
 2001/2002,Nunavut,Deferred custody and supervision,
 2001/2002,Nunavut,Supervised probation,43
 2001/2002,Nunavut,Other community sentences,5
-2002/2003,Provinces and territories,Total correctional services,22558
-2002/2003,Provinces and territories,Pre-trial detention,7404
-2002/2003,Provinces and territories,Secure custody,919
-2002/2003,Provinces and territories,Custody and supervision (secure),5
-2002/2003,Provinces and territories,Young Offenders Act (YOA) (secure),
-2002/2003,Provinces and territories,Open custody,1017
-2002/2003,Provinces and territories,Custody and supervision (open),10
-2002/2003,Provinces and territories,Young Offenders Act (YOA) (open),
-2002/2003,Provinces and territories,Total community sentences,13218
-2002/2003,Provinces and territories,Intensive support and supervision,
-2002/2003,Provinces and territories,Deferred custody and supervision,
-2002/2003,Provinces and territories,Supervised probation,10588
-2002/2003,Provinces and territories,Other community sentences,2630
+2002/2003,All Provinces and territories,Total correctional services,22558
+2002/2003,All Provinces and territories,Pre-trial detention,7404
+2002/2003,All Provinces and territories,Secure custody,919
+2002/2003,All Provinces and territories,Custody and supervision (secure),5
+2002/2003,All Provinces and territories,Young Offenders Act (YOA) (secure),
+2002/2003,All Provinces and territories,Open custody,1017
+2002/2003,All Provinces and territories,Custody and supervision (open),10
+2002/2003,All Provinces and territories,Young Offenders Act (YOA) (open),
+2002/2003,All Provinces and territories,Total community sentences,13218
+2002/2003,All Provinces and territories,Intensive support and supervision,
+2002/2003,All Provinces and territories,Deferred custody and supervision,
+2002/2003,All Provinces and territories,Supervised probation,10588
+2002/2003,All Provinces and territories,Other community sentences,2630
 2002/2003,Newfoundland and Labrador,Total correctional services,621
 2002/2003,Newfoundland and Labrador,Pre-trial detention,129
 2002/2003,Newfoundland and Labrador,Secure custody,46
@@ -1104,19 +1104,19 @@
 2002/2003,Nunavut,Deferred custody and supervision,
 2002/2003,Nunavut,Supervised probation,58
 2002/2003,Nunavut,Other community sentences,3
-2003/2004,Provinces and territories,Total correctional services,22749
-2003/2004,Provinces and territories,Pre-trial detention,7852
-2003/2004,Provinces and territories,Secure custody,320
-2003/2004,Provinces and territories,Custody and supervision (secure),313
-2003/2004,Provinces and territories,Young Offenders Act (YOA) (secure),5
-2003/2004,Provinces and territories,Open custody,387
-2003/2004,Provinces and territories,Custody and supervision (open),332
-2003/2004,Provinces and territories,Young Offenders Act (YOA) (open),55
-2003/2004,Provinces and territories,Total community sentences,14190
-2003/2004,Provinces and territories,Intensive support and supervision,23
-2003/2004,Provinces and territories,Deferred custody and supervision,415
-2003/2004,Provinces and territories,Supervised probation,9880
-2003/2004,Provinces and territories,Other community sentences,3872
+2003/2004,All Provinces and territories,Total correctional services,22749
+2003/2004,All Provinces and territories,Pre-trial detention,7852
+2003/2004,All Provinces and territories,Secure custody,320
+2003/2004,All Provinces and territories,Custody and supervision (secure),313
+2003/2004,All Provinces and territories,Young Offenders Act (YOA) (secure),5
+2003/2004,All Provinces and territories,Open custody,387
+2003/2004,All Provinces and territories,Custody and supervision (open),332
+2003/2004,All Provinces and territories,Young Offenders Act (YOA) (open),55
+2003/2004,All Provinces and territories,Total community sentences,14190
+2003/2004,All Provinces and territories,Intensive support and supervision,23
+2003/2004,All Provinces and territories,Deferred custody and supervision,415
+2003/2004,All Provinces and territories,Supervised probation,9880
+2003/2004,All Provinces and territories,Other community sentences,3872
 2003/2004,Newfoundland and Labrador,Total correctional services,805
 2003/2004,Newfoundland and Labrador,Pre-trial detention,61
 2003/2004,Newfoundland and Labrador,Secure custody,30
@@ -1325,19 +1325,19 @@
 2003/2004,Nunavut,Deferred custody and supervision,
 2003/2004,Nunavut,Supervised probation,50
 2003/2004,Nunavut,Other community sentences,4
-2004/2005,Provinces and territories,Total correctional services,16790
-2004/2005,Provinces and territories,Pre-trial detention,7011
-2004/2005,Provinces and territories,Secure custody,252
-2004/2005,Provinces and territories,Custody and supervision (secure),252
-2004/2005,Provinces and territories,Young Offenders Act (YOA) (secure),0
-2004/2005,Provinces and territories,Open custody,350
-2004/2005,Provinces and territories,Custody and supervision (open),349
-2004/2005,Provinces and territories,Young Offenders Act (YOA) (open),1
-2004/2005,Provinces and territories,Total community sentences,9177
-2004/2005,Provinces and territories,Intensive support and supervision,2
-2004/2005,Provinces and territories,Deferred custody and supervision,284
-2004/2005,Provinces and territories,Supervised probation,8369
-2004/2005,Provinces and territories,Other community sentences,522
+2004/2005,All Provinces and territories,Total correctional services,16790
+2004/2005,All Provinces and territories,Pre-trial detention,7011
+2004/2005,All Provinces and territories,Secure custody,252
+2004/2005,All Provinces and territories,Custody and supervision (secure),252
+2004/2005,All Provinces and territories,Young Offenders Act (YOA) (secure),0
+2004/2005,All Provinces and territories,Open custody,350
+2004/2005,All Provinces and territories,Custody and supervision (open),349
+2004/2005,All Provinces and territories,Young Offenders Act (YOA) (open),1
+2004/2005,All Provinces and territories,Total community sentences,9177
+2004/2005,All Provinces and territories,Intensive support and supervision,2
+2004/2005,All Provinces and territories,Deferred custody and supervision,284
+2004/2005,All Provinces and territories,Supervised probation,8369
+2004/2005,All Provinces and territories,Other community sentences,522
 2004/2005,Newfoundland and Labrador,Total correctional services,381
 2004/2005,Newfoundland and Labrador,Pre-trial detention,17
 2004/2005,Newfoundland and Labrador,Secure custody,15
@@ -1546,19 +1546,19 @@
 2004/2005,Nunavut,Deferred custody and supervision,
 2004/2005,Nunavut,Supervised probation,50
 2004/2005,Nunavut,Other community sentences,6
-2005/2006,Provinces and territories,Total correctional services,17821
-2005/2006,Provinces and territories,Pre-trial detention,7930
-2005/2006,Provinces and territories,Secure custody,211
-2005/2006,Provinces and territories,Custody and supervision (secure),211
-2005/2006,Provinces and territories,Young Offenders Act (YOA) (secure),0
-2005/2006,Provinces and territories,Open custody,351
-2005/2006,Provinces and territories,Custody and supervision (open),351
-2005/2006,Provinces and territories,Young Offenders Act (YOA) (open),0
-2005/2006,Provinces and territories,Total community sentences,9329
-2005/2006,Provinces and territories,Intensive support and supervision,1
-2005/2006,Provinces and territories,Deferred custody and supervision,310
-2005/2006,Provinces and territories,Supervised probation,7978
-2005/2006,Provinces and territories,Other community sentences,1040
+2005/2006,All Provinces and territories,Total correctional services,17821
+2005/2006,All Provinces and territories,Pre-trial detention,7930
+2005/2006,All Provinces and territories,Secure custody,211
+2005/2006,All Provinces and territories,Custody and supervision (secure),211
+2005/2006,All Provinces and territories,Young Offenders Act (YOA) (secure),0
+2005/2006,All Provinces and territories,Open custody,351
+2005/2006,All Provinces and territories,Custody and supervision (open),351
+2005/2006,All Provinces and territories,Young Offenders Act (YOA) (open),0
+2005/2006,All Provinces and territories,Total community sentences,9329
+2005/2006,All Provinces and territories,Intensive support and supervision,1
+2005/2006,All Provinces and territories,Deferred custody and supervision,310
+2005/2006,All Provinces and territories,Supervised probation,7978
+2005/2006,All Provinces and territories,Other community sentences,1040
 2005/2006,Newfoundland and Labrador,Total correctional services,298
 2005/2006,Newfoundland and Labrador,Pre-trial detention,11
 2005/2006,Newfoundland and Labrador,Secure custody,6
@@ -1767,19 +1767,19 @@
 2005/2006,Nunavut,Deferred custody and supervision,
 2005/2006,Nunavut,Supervised probation,59
 2005/2006,Nunavut,Other community sentences,6
-2006/2007,Provinces and territories,Total correctional services,17920
-2006/2007,Provinces and territories,Pre-trial detention,8375
-2006/2007,Provinces and territories,Secure custody,191
-2006/2007,Provinces and territories,Custody and supervision (secure),191
-2006/2007,Provinces and territories,Young Offenders Act (YOA) (secure),0
-2006/2007,Provinces and territories,Open custody,312
-2006/2007,Provinces and territories,Custody and supervision (open),312
-2006/2007,Provinces and territories,Young Offenders Act (YOA) (open),0
-2006/2007,Provinces and territories,Total community sentences,9042
-2006/2007,Provinces and territories,Intensive support and supervision,4
-2006/2007,Provinces and territories,Deferred custody and supervision,258
-2006/2007,Provinces and territories,Supervised probation,7673
-2006/2007,Provinces and territories,Other community sentences,1107
+2006/2007,All Provinces and territories,Total correctional services,17920
+2006/2007,All Provinces and territories,Pre-trial detention,8375
+2006/2007,All Provinces and territories,Secure custody,191
+2006/2007,All Provinces and territories,Custody and supervision (secure),191
+2006/2007,All Provinces and territories,Young Offenders Act (YOA) (secure),0
+2006/2007,All Provinces and territories,Open custody,312
+2006/2007,All Provinces and territories,Custody and supervision (open),312
+2006/2007,All Provinces and territories,Young Offenders Act (YOA) (open),0
+2006/2007,All Provinces and territories,Total community sentences,9042
+2006/2007,All Provinces and territories,Intensive support and supervision,4
+2006/2007,All Provinces and territories,Deferred custody and supervision,258
+2006/2007,All Provinces and territories,Supervised probation,7673
+2006/2007,All Provinces and territories,Other community sentences,1107
 2006/2007,Newfoundland and Labrador,Total correctional services,277
 2006/2007,Newfoundland and Labrador,Pre-trial detention,14
 2006/2007,Newfoundland and Labrador,Secure custody,5
@@ -1988,19 +1988,19 @@
 2006/2007,Nunavut,Deferred custody and supervision,
 2006/2007,Nunavut,Supervised probation,42
 2006/2007,Nunavut,Other community sentences,6
-2007/2008,Provinces and territories,Total correctional services,21418
-2007/2008,Provinces and territories,Pre-trial detention,8820
-2007/2008,Provinces and territories,Secure custody,167
-2007/2008,Provinces and territories,Custody and supervision (secure),167
-2007/2008,Provinces and territories,Young Offenders Act (YOA) (secure),0
-2007/2008,Provinces and territories,Open custody,306
-2007/2008,Provinces and territories,Custody and supervision (open),306
-2007/2008,Provinces and territories,Young Offenders Act (YOA) (open),0
-2007/2008,Provinces and territories,Total community sentences,12125
-2007/2008,Provinces and territories,Intensive support and supervision,48
-2007/2008,Provinces and territories,Deferred custody and supervision,308
-2007/2008,Provinces and territories,Supervised probation,8519
-2007/2008,Provinces and territories,Other community sentences,3250
+2007/2008,All Provinces and territories,Total correctional services,21418
+2007/2008,All Provinces and territories,Pre-trial detention,8820
+2007/2008,All Provinces and territories,Secure custody,167
+2007/2008,All Provinces and territories,Custody and supervision (secure),167
+2007/2008,All Provinces and territories,Young Offenders Act (YOA) (secure),0
+2007/2008,All Provinces and territories,Open custody,306
+2007/2008,All Provinces and territories,Custody and supervision (open),306
+2007/2008,All Provinces and territories,Young Offenders Act (YOA) (open),0
+2007/2008,All Provinces and territories,Total community sentences,12125
+2007/2008,All Provinces and territories,Intensive support and supervision,48
+2007/2008,All Provinces and territories,Deferred custody and supervision,308
+2007/2008,All Provinces and territories,Supervised probation,8519
+2007/2008,All Provinces and territories,Other community sentences,3250
 2007/2008,Newfoundland and Labrador,Total correctional services,270
 2007/2008,Newfoundland and Labrador,Pre-trial detention,15
 2007/2008,Newfoundland and Labrador,Secure custody,3
@@ -2209,19 +2209,19 @@
 2007/2008,Nunavut,Deferred custody and supervision,
 2007/2008,Nunavut,Supervised probation,62
 2007/2008,Nunavut,Other community sentences,2
-2008/2009,Provinces and territories,Total correctional services,20700
-2008/2009,Provinces and territories,Pre-trial detention,8309
-2008/2009,Provinces and territories,Secure custody,227
-2008/2009,Provinces and territories,Custody and supervision (secure),221
-2008/2009,Provinces and territories,Young Offenders Act (YOA) (secure),1
-2008/2009,Provinces and territories,Open custody,270
-2008/2009,Provinces and territories,Custody and supervision (open),269
-2008/2009,Provinces and territories,Young Offenders Act (YOA) (open),0
-2008/2009,Provinces and territories,Total community sentences,11894
-2008/2009,Provinces and territories,Intensive support and supervision,56
-2008/2009,Provinces and territories,Deferred custody and supervision,325
-2008/2009,Provinces and territories,Supervised probation,8198
-2008/2009,Provinces and territories,Other community sentences,3315
+2008/2009,All Provinces and territories,Total correctional services,20700
+2008/2009,All Provinces and territories,Pre-trial detention,8309
+2008/2009,All Provinces and territories,Secure custody,227
+2008/2009,All Provinces and territories,Custody and supervision (secure),221
+2008/2009,All Provinces and territories,Young Offenders Act (YOA) (secure),1
+2008/2009,All Provinces and territories,Open custody,270
+2008/2009,All Provinces and territories,Custody and supervision (open),269
+2008/2009,All Provinces and territories,Young Offenders Act (YOA) (open),0
+2008/2009,All Provinces and territories,Total community sentences,11894
+2008/2009,All Provinces and territories,Intensive support and supervision,56
+2008/2009,All Provinces and territories,Deferred custody and supervision,325
+2008/2009,All Provinces and territories,Supervised probation,8198
+2008/2009,All Provinces and territories,Other community sentences,3315
 2008/2009,Newfoundland and Labrador,Total correctional services,258
 2008/2009,Newfoundland and Labrador,Pre-trial detention,9
 2008/2009,Newfoundland and Labrador,Secure custody,3
@@ -2430,19 +2430,19 @@
 2008/2009,Nunavut,Deferred custody and supervision,
 2008/2009,Nunavut,Supervised probation,55
 2008/2009,Nunavut,Other community sentences,3
-2009/2010,Provinces and territories,Total correctional services,19099
-2009/2010,Provinces and territories,Pre-trial detention,7754
-2009/2010,Provinces and territories,Secure custody,196
-2009/2010,Provinces and territories,Custody and supervision (secure),194
-2009/2010,Provinces and territories,Young Offenders Act (YOA) (secure),0
-2009/2010,Provinces and territories,Open custody,180
-2009/2010,Provinces and territories,Custody and supervision (open),179
-2009/2010,Provinces and territories,Young Offenders Act (YOA) (open),0
-2009/2010,Provinces and territories,Total community sentences,10969
-2009/2010,Provinces and territories,Intensive support and supervision,26
-2009/2010,Provinces and territories,Deferred custody and supervision,232
-2009/2010,Provinces and territories,Supervised probation,7641
-2009/2010,Provinces and territories,Other community sentences,3070
+2009/2010,All Provinces and territories,Total correctional services,19099
+2009/2010,All Provinces and territories,Pre-trial detention,7754
+2009/2010,All Provinces and territories,Secure custody,196
+2009/2010,All Provinces and territories,Custody and supervision (secure),194
+2009/2010,All Provinces and territories,Young Offenders Act (YOA) (secure),0
+2009/2010,All Provinces and territories,Open custody,180
+2009/2010,All Provinces and territories,Custody and supervision (open),179
+2009/2010,All Provinces and territories,Young Offenders Act (YOA) (open),0
+2009/2010,All Provinces and territories,Total community sentences,10969
+2009/2010,All Provinces and territories,Intensive support and supervision,26
+2009/2010,All Provinces and territories,Deferred custody and supervision,232
+2009/2010,All Provinces and territories,Supervised probation,7641
+2009/2010,All Provinces and territories,Other community sentences,3070
 2009/2010,Newfoundland and Labrador,Total correctional services,225
 2009/2010,Newfoundland and Labrador,Pre-trial detention,4
 2009/2010,Newfoundland and Labrador,Secure custody,1
@@ -2651,19 +2651,19 @@
 2009/2010,Nunavut,Deferred custody and supervision,
 2009/2010,Nunavut,Supervised probation,49
 2009/2010,Nunavut,Other community sentences,9
-2010/2011,Provinces and territories,Total correctional services,17073
-2010/2011,Provinces and territories,Pre-trial detention,7103
-2010/2011,Provinces and territories,Secure custody,202
-2010/2011,Provinces and territories,Custody and supervision (secure),201
-2010/2011,Provinces and territories,Young Offenders Act (YOA) (secure),0
-2010/2011,Provinces and territories,Open custody,199
-2010/2011,Provinces and territories,Custody and supervision (open),199
-2010/2011,Provinces and territories,Young Offenders Act (YOA) (open),0
-2010/2011,Provinces and territories,Total community sentences,9569
-2010/2011,Provinces and territories,Intensive support and supervision,30
-2010/2011,Provinces and territories,Deferred custody and supervision,227
-2010/2011,Provinces and territories,Supervised probation,6522
-2010/2011,Provinces and territories,Other community sentences,2790
+2010/2011,All Provinces and territories,Total correctional services,17073
+2010/2011,All Provinces and territories,Pre-trial detention,7103
+2010/2011,All Provinces and territories,Secure custody,202
+2010/2011,All Provinces and territories,Custody and supervision (secure),201
+2010/2011,All Provinces and territories,Young Offenders Act (YOA) (secure),0
+2010/2011,All Provinces and territories,Open custody,199
+2010/2011,All Provinces and territories,Custody and supervision (open),199
+2010/2011,All Provinces and territories,Young Offenders Act (YOA) (open),0
+2010/2011,All Provinces and territories,Total community sentences,9569
+2010/2011,All Provinces and territories,Intensive support and supervision,30
+2010/2011,All Provinces and territories,Deferred custody and supervision,227
+2010/2011,All Provinces and territories,Supervised probation,6522
+2010/2011,All Provinces and territories,Other community sentences,2790
 2010/2011,Newfoundland and Labrador,Total correctional services,208
 2010/2011,Newfoundland and Labrador,Pre-trial detention,12
 2010/2011,Newfoundland and Labrador,Secure custody,3
@@ -2872,19 +2872,19 @@
 2010/2011,Nunavut,Deferred custody and supervision,
 2010/2011,Nunavut,Supervised probation,65
 2010/2011,Nunavut,Other community sentences,8
-2011/2012,Provinces and territories,Total correctional services,16613
-2011/2012,Provinces and territories,Pre-trial detention,7281
-2011/2012,Provinces and territories,Secure custody,218
-2011/2012,Provinces and territories,Custody and supervision (secure),205
-2011/2012,Provinces and territories,Young Offenders Act (YOA) (secure),4
-2011/2012,Provinces and territories,Open custody,218
-2011/2012,Provinces and territories,Custody and supervision (open),211
-2011/2012,Provinces and territories,Young Offenders Act (YOA) (open),7
-2011/2012,Provinces and territories,Total community sentences,8896
-2011/2012,Provinces and territories,Intensive support and supervision,25
-2011/2012,Provinces and territories,Deferred custody and supervision,213
-2011/2012,Provinces and territories,Supervised probation,5992
-2011/2012,Provinces and territories,Other community sentences,2666
+2011/2012,All Provinces and territories,Total correctional services,16613
+2011/2012,All Provinces and territories,Pre-trial detention,7281
+2011/2012,All Provinces and territories,Secure custody,218
+2011/2012,All Provinces and territories,Custody and supervision (secure),205
+2011/2012,All Provinces and territories,Young Offenders Act (YOA) (secure),4
+2011/2012,All Provinces and territories,Open custody,218
+2011/2012,All Provinces and territories,Custody and supervision (open),211
+2011/2012,All Provinces and territories,Young Offenders Act (YOA) (open),7
+2011/2012,All Provinces and territories,Total community sentences,8896
+2011/2012,All Provinces and territories,Intensive support and supervision,25
+2011/2012,All Provinces and territories,Deferred custody and supervision,213
+2011/2012,All Provinces and territories,Supervised probation,5992
+2011/2012,All Provinces and territories,Other community sentences,2666
 2011/2012,Newfoundland and Labrador,Total correctional services,184
 2011/2012,Newfoundland and Labrador,Pre-trial detention,7
 2011/2012,Newfoundland and Labrador,Secure custody,1
@@ -3093,19 +3093,19 @@
 2011/2012,Nunavut,Deferred custody and supervision,
 2011/2012,Nunavut,Supervised probation,37
 2011/2012,Nunavut,Other community sentences,10
-2012/2013,Provinces and territories,Total correctional services,13016
-2012/2013,Provinces and territories,Pre-trial detention,4802
-2012/2013,Provinces and territories,Secure custody,173
-2012/2013,Provinces and territories,Custody and supervision (secure),
-2012/2013,Provinces and territories,Young Offenders Act (YOA) (secure),
-2012/2013,Provinces and territories,Open custody,204
-2012/2013,Provinces and territories,Custody and supervision (open),
-2012/2013,Provinces and territories,Young Offenders Act (YOA) (open),
-2012/2013,Provinces and territories,Total community sentences,7837
-2012/2013,Provinces and territories,Intensive support and supervision,13
-2012/2013,Provinces and territories,Deferred custody and supervision,176
-2012/2013,Provinces and territories,Supervised probation,5219
-2012/2013,Provinces and territories,Other community sentences,2429
+2012/2013,All Provinces and territories,Total correctional services,13016
+2012/2013,All Provinces and territories,Pre-trial detention,4802
+2012/2013,All Provinces and territories,Secure custody,173
+2012/2013,All Provinces and territories,Custody and supervision (secure),
+2012/2013,All Provinces and territories,Young Offenders Act (YOA) (secure),
+2012/2013,All Provinces and territories,Open custody,204
+2012/2013,All Provinces and territories,Custody and supervision (open),
+2012/2013,All Provinces and territories,Young Offenders Act (YOA) (open),
+2012/2013,All Provinces and territories,Total community sentences,7837
+2012/2013,All Provinces and territories,Intensive support and supervision,13
+2012/2013,All Provinces and territories,Deferred custody and supervision,176
+2012/2013,All Provinces and territories,Supervised probation,5219
+2012/2013,All Provinces and territories,Other community sentences,2429
 2012/2013,Newfoundland and Labrador,Total correctional services,162
 2012/2013,Newfoundland and Labrador,Pre-trial detention,7
 2012/2013,Newfoundland and Labrador,Secure custody,1
@@ -3301,19 +3301,19 @@
 2012/2013,Nunavut,Deferred custody and supervision,
 2012/2013,Nunavut,Supervised probation,41
 2012/2013,Nunavut,Other community sentences,8
-2013/2014,Provinces and territories,Total correctional services,6530
-2013/2014,Provinces and territories,Pre-trial detention,1738
-2013/2014,Provinces and territories,Secure custody,44
-2013/2014,Provinces and territories,Custody and supervision (secure),
-2013/2014,Provinces and territories,Young Offenders Act (YOA) (secure),
-2013/2014,Provinces and territories,Open custody,60
-2013/2014,Provinces and territories,Custody and supervision (open),
-2013/2014,Provinces and territories,Young Offenders Act (YOA) (open),
-2013/2014,Provinces and territories,Total community sentences,4688
-2013/2014,Provinces and territories,Intensive support and supervision,17
-2013/2014,Provinces and territories,Deferred custody and supervision,75
-2013/2014,Provinces and territories,Supervised probation,3334
-2013/2014,Provinces and territories,Other community sentences,1262
+2013/2014,All Provinces and territories,Total correctional services,6530
+2013/2014,All Provinces and territories,Pre-trial detention,1738
+2013/2014,All Provinces and territories,Secure custody,44
+2013/2014,All Provinces and territories,Custody and supervision (secure),
+2013/2014,All Provinces and territories,Young Offenders Act (YOA) (secure),
+2013/2014,All Provinces and territories,Open custody,60
+2013/2014,All Provinces and territories,Custody and supervision (open),
+2013/2014,All Provinces and territories,Young Offenders Act (YOA) (open),
+2013/2014,All Provinces and territories,Total community sentences,4688
+2013/2014,All Provinces and territories,Intensive support and supervision,17
+2013/2014,All Provinces and territories,Deferred custody and supervision,75
+2013/2014,All Provinces and territories,Supervised probation,3334
+2013/2014,All Provinces and territories,Other community sentences,1262
 2013/2014,Newfoundland and Labrador,Total correctional services,136
 2013/2014,Newfoundland and Labrador,Pre-trial detention,7
 2013/2014,Newfoundland and Labrador,Secure custody,2
@@ -3509,15 +3509,15 @@
 2013/2014,Nunavut,Deferred custody and supervision,
 2013/2014,Nunavut,Supervised probation,42
 2013/2014,Nunavut,Other community sentences,2
-2014/2015,Provinces and territories,Total correctional services,5583
-2014/2015,Provinces and territories,Pre-trial detention,1707
-2014/2015,Provinces and territories,Secure custody,41
-2014/2015,Provinces and territories,Open custody,53
-2014/2015,Provinces and territories,Total community sentences,3782
-2014/2015,Provinces and territories,Intensive support and supervision,19
-2014/2015,Provinces and territories,Deferred custody and supervision,70
-2014/2015,Provinces and territories,Supervised probation,2625
-2014/2015,Provinces and territories,Other community sentences,1068
+2014/2015,All Provinces and territories,Total correctional services,5583
+2014/2015,All Provinces and territories,Pre-trial detention,1707
+2014/2015,All Provinces and territories,Secure custody,41
+2014/2015,All Provinces and territories,Open custody,53
+2014/2015,All Provinces and territories,Total community sentences,3782
+2014/2015,All Provinces and territories,Intensive support and supervision,19
+2014/2015,All Provinces and territories,Deferred custody and supervision,70
+2014/2015,All Provinces and territories,Supervised probation,2625
+2014/2015,All Provinces and territories,Other community sentences,1068
 2014/2015,Newfoundland and Labrador,Total correctional services,110
 2014/2015,Newfoundland and Labrador,Pre-trial detention,8
 2014/2015,Newfoundland and Labrador,Secure custody,3
@@ -3635,15 +3635,15 @@
 2014/2015,Nunavut,Deferred custody and supervision,
 2014/2015,Nunavut,Supervised probation,32
 2014/2015,Nunavut,Other community sentences,4
-2015/2016,Provinces and territories,Total correctional services,5127
-2015/2016,Provinces and territories,Pre-trial detention,1581
-2015/2016,Provinces and territories,Secure custody,41
-2015/2016,Provinces and territories,Open custody,58
-2015/2016,Provinces and territories,Total community sentences,3447
-2015/2016,Provinces and territories,Intensive support and supervision,21
-2015/2016,Provinces and territories,Deferred custody and supervision,48
-2015/2016,Provinces and territories,Supervised probation,2318
-2015/2016,Provinces and territories,Other community sentences,1060
+2015/2016,All Provinces and territories,Total correctional services,5127
+2015/2016,All Provinces and territories,Pre-trial detention,1581
+2015/2016,All Provinces and territories,Secure custody,41
+2015/2016,All Provinces and territories,Open custody,58
+2015/2016,All Provinces and territories,Total community sentences,3447
+2015/2016,All Provinces and territories,Intensive support and supervision,21
+2015/2016,All Provinces and territories,Deferred custody and supervision,48
+2015/2016,All Provinces and territories,Supervised probation,2318
+2015/2016,All Provinces and territories,Other community sentences,1060
 2015/2016,Newfoundland and Labrador,Total correctional services,116
 2015/2016,Newfoundland and Labrador,Pre-trial detention,6
 2015/2016,Newfoundland and Labrador,Secure custody,2
@@ -3761,15 +3761,15 @@
 2015/2016,Nunavut,Deferred custody and supervision,
 2015/2016,Nunavut,Supervised probation,22
 2015/2016,Nunavut,Other community sentences,3
-2016/2017,Provinces and territories,Total correctional services,5965
-2016/2017,Provinces and territories,Pre-trial detention,1852
-2016/2017,Provinces and territories,Secure custody,35
-2016/2017,Provinces and territories,Open custody,44
-2016/2017,Provinces and territories,Total community sentences,4034
-2016/2017,Provinces and territories,Intensive support and supervision,19
-2016/2017,Provinces and territories,Deferred custody and supervision,78
-2016/2017,Provinces and territories,Supervised probation,2771
-2016/2017,Provinces and territories,Other community sentences,1166
+2016/2017,All Provinces and territories,Total correctional services,5965
+2016/2017,All Provinces and territories,Pre-trial detention,1852
+2016/2017,All Provinces and territories,Secure custody,35
+2016/2017,All Provinces and territories,Open custody,44
+2016/2017,All Provinces and territories,Total community sentences,4034
+2016/2017,All Provinces and territories,Intensive support and supervision,19
+2016/2017,All Provinces and territories,Deferred custody and supervision,78
+2016/2017,All Provinces and territories,Supervised probation,2771
+2016/2017,All Provinces and territories,Other community sentences,1166
 2016/2017,Newfoundland and Labrador,Total correctional services,109
 2016/2017,Newfoundland and Labrador,Pre-trial detention,10
 2016/2017,Newfoundland and Labrador,Secure custody,3
@@ -3887,15 +3887,15 @@
 2016/2017,Nunavut,Deferred custody and supervision,
 2016/2017,Nunavut,Supervised probation,35
 2016/2017,Nunavut,Other community sentences,2
-2017/2018,Provinces and territories,Total correctional services,5902
-2017/2018,Provinces and territories,Pre-trial detention,1697
-2017/2018,Provinces and territories,Secure custody,41
-2017/2018,Provinces and territories,Open custody,38
-2017/2018,Provinces and territories,Total community sentences,4126
-2017/2018,Provinces and territories,Intensive support and supervision,27
-2017/2018,Provinces and territories,Deferred custody and supervision,103
-2017/2018,Provinces and territories,Supervised probation,2777
-2017/2018,Provinces and territories,Other community sentences,1219
+2017/2018,All Provinces and territories,Total correctional services,5902
+2017/2018,All Provinces and territories,Pre-trial detention,1697
+2017/2018,All Provinces and territories,Secure custody,41
+2017/2018,All Provinces and territories,Open custody,38
+2017/2018,All Provinces and territories,Total community sentences,4126
+2017/2018,All Provinces and territories,Intensive support and supervision,27
+2017/2018,All Provinces and territories,Deferred custody and supervision,103
+2017/2018,All Provinces and territories,Supervised probation,2777
+2017/2018,All Provinces and territories,Other community sentences,1219
 2017/2018,Newfoundland and Labrador,Total correctional services,156
 2017/2018,Newfoundland and Labrador,Pre-trial detention,9
 2017/2018,Newfoundland and Labrador,Secure custody,2
@@ -4013,15 +4013,15 @@
 2017/2018,Nunavut,Deferred custody and supervision,
 2017/2018,Nunavut,Supervised probation,27
 2017/2018,Nunavut,Other community sentences,0
-2018/2019,Provinces and territories,Total correctional services,5178
-2018/2019,Provinces and territories,Pre-trial detention,1379
-2018/2019,Provinces and territories,Secure custody,29
-2018/2019,Provinces and territories,Open custody,40
-2018/2019,Provinces and territories,Total community sentences,3730
-2018/2019,Provinces and territories,Intensive support and supervision,23
-2018/2019,Provinces and territories,Deferred custody and supervision,80
-2018/2019,Provinces and territories,Supervised probation,2438
-2018/2019,Provinces and territories,Other community sentences,1189
+2018/2019,All Provinces and territories,Total correctional services,5178
+2018/2019,All Provinces and territories,Pre-trial detention,1379
+2018/2019,All Provinces and territories,Secure custody,29
+2018/2019,All Provinces and territories,Open custody,40
+2018/2019,All Provinces and territories,Total community sentences,3730
+2018/2019,All Provinces and territories,Intensive support and supervision,23
+2018/2019,All Provinces and territories,Deferred custody and supervision,80
+2018/2019,All Provinces and territories,Supervised probation,2438
+2018/2019,All Provinces and territories,Other community sentences,1189
 2018/2019,Newfoundland and Labrador,Total correctional services,135
 2018/2019,Newfoundland and Labrador,Pre-trial detention,26
 2018/2019,Newfoundland and Labrador,Secure custody,1
@@ -4139,15 +4139,15 @@
 2018/2019,Nunavut,Deferred custody and supervision,
 2018/2019,Nunavut,Supervised probation,29
 2018/2019,Nunavut,Other community sentences,1
-2019/2020,Provinces and territories,Total correctional services,7039
-2019/2020,Provinces and territories,Pre-trial detention,1332
-2019/2020,Provinces and territories,Secure custody,63
-2019/2020,Provinces and territories,Open custody,47
-2019/2020,Provinces and territories,Total community sentences,5597
-2019/2020,Provinces and territories,Intensive support and supervision,20
-2019/2020,Provinces and territories,Deferred custody and supervision,129
-2019/2020,Provinces and territories,Supervised probation,2946
-2019/2020,Provinces and territories,Other community sentences,2502
+2019/2020,All Provinces and territories,Total correctional services,7039
+2019/2020,All Provinces and territories,Pre-trial detention,1332
+2019/2020,All Provinces and territories,Secure custody,63
+2019/2020,All Provinces and territories,Open custody,47
+2019/2020,All Provinces and territories,Total community sentences,5597
+2019/2020,All Provinces and territories,Intensive support and supervision,20
+2019/2020,All Provinces and territories,Deferred custody and supervision,129
+2019/2020,All Provinces and territories,Supervised probation,2946
+2019/2020,All Provinces and territories,Other community sentences,2502
 2019/2020,Newfoundland and Labrador,Total correctional services,136
 2019/2020,Newfoundland and Labrador,Pre-trial detention,12
 2019/2020,Newfoundland and Labrador,Secure custody,2
@@ -4265,15 +4265,15 @@
 2019/2020,Nunavut,Deferred custody and supervision,
 2019/2020,Nunavut,Supervised probation,30
 2019/2020,Nunavut,Other community sentences,6
-2020/2021,Provinces and territories,Total correctional services,4224
-2020/2021,Provinces and territories,Pre-trial detention,794
-2020/2021,Provinces and territories,Secure custody,18
-2020/2021,Provinces and territories,Open custody,14
-2020/2021,Provinces and territories,Total community sentences,3398
-2020/2021,Provinces and territories,Intensive support and supervision,17
-2020/2021,Provinces and territories,Deferred custody and supervision,69
-2020/2021,Provinces and territories,Supervised probation,1884
-2020/2021,Provinces and territories,Other community sentences,1428
+2020/2021,All Provinces and territories,Total correctional services,4224
+2020/2021,All Provinces and territories,Pre-trial detention,794
+2020/2021,All Provinces and territories,Secure custody,18
+2020/2021,All Provinces and territories,Open custody,14
+2020/2021,All Provinces and territories,Total community sentences,3398
+2020/2021,All Provinces and territories,Intensive support and supervision,17
+2020/2021,All Provinces and territories,Deferred custody and supervision,69
+2020/2021,All Provinces and territories,Supervised probation,1884
+2020/2021,All Provinces and territories,Other community sentences,1428
 2020/2021,Newfoundland and Labrador,Total correctional services,88
 2020/2021,Newfoundland and Labrador,Pre-trial detention,12
 2020/2021,Newfoundland and Labrador,Secure custody,1
@@ -4391,15 +4391,15 @@
 2020/2021,Nunavut,Deferred custody and supervision,
 2020/2021,Nunavut,Supervised probation,7
 2020/2021,Nunavut,Other community sentences,8
-2021/2022,Provinces and territories,Total correctional services,4702
-2021/2022,Provinces and territories,Pre-trial detention,843
-2021/2022,Provinces and territories,Secure custody,39
-2021/2022,Provinces and territories,Open custody,23
-2021/2022,Provinces and territories,Total community sentences,3797
-2021/2022,Provinces and territories,Intensive support and supervision,11
-2021/2022,Provinces and territories,Deferred custody and supervision,106
-2021/2022,Provinces and territories,Supervised probation,2119
-2021/2022,Provinces and territories,Other community sentences,1561
+2021/2022,All Provinces and territories,Total correctional services,4702
+2021/2022,All Provinces and territories,Pre-trial detention,843
+2021/2022,All Provinces and territories,Secure custody,39
+2021/2022,All Provinces and territories,Open custody,23
+2021/2022,All Provinces and territories,Total community sentences,3797
+2021/2022,All Provinces and territories,Intensive support and supervision,11
+2021/2022,All Provinces and territories,Deferred custody and supervision,106
+2021/2022,All Provinces and territories,Supervised probation,2119
+2021/2022,All Provinces and territories,Other community sentences,1561
 2021/2022,Newfoundland and Labrador,Total correctional services,76
 2021/2022,Newfoundland and Labrador,Pre-trial detention,4
 2021/2022,Newfoundland and Labrador,Secure custody,2
