@@ -166,6 +166,15 @@ app.layout = html.Div(
                         dbc.Col(tabs, width=9, className="custom-scrollbar px-4"),
                     ],
                 ),
+                dbc.Row(
+                    [
+                        radio,
+                        radio2,
+                        dcc.Graph(id="fig4", className="m-4"),
+                        dcc.Graph(id="fig9", className="m-4"),
+                    ],
+                    className="d-none",
+                ),
             ],
             fluid=False,
             className="dbc",
@@ -229,35 +238,32 @@ def render_tab_content(active_tab, years, provinces, theme):
         fig8 = data_adult.adult_custody_admissions_age_group(
             start_year, end_year, template_from_url(theme), provinces
         )
-        # fig9 = data_adult.adult_custody_gender_heatmap(
-        #     "Female", start_year, end_year, template_from_url(theme), provinces
-        # )
         fig10 = data_adult.adult_indigenous_vs_nonindigenous(
             start_year, end_year, template_from_url(theme), provinces
         )
         fig11 = data_adult.adult_sentence_length_by_sex(
             start_year, end_year, template_from_url(theme), provinces
         )
-        # adult_figures = [fig7, fig8, fig9, fig10, fig11]
+
+        youth_graphs = [
+            dcc.Graph(figure=fig1, className="m-4"),
+            dcc.Graph(figure=fig2, className="m-4"),
+            dcc.Graph(figure=fig3, className="m-4"),
+            radio,
+            dcc.Graph(id="fig4", className="m-4"),
+            dcc.Graph(figure=fig6, className="m-4"),
+        ]
+
+        adult_graphs = [
+            dcc.Graph(figure=fig7, className="m-4"),
+            dcc.Graph(figure=fig8, className="m-4"),
+            radio2,
+            dcc.Graph(id="fig9", className="m-4"),
+            dcc.Graph(figure=fig10, className="m-4"),
+            dcc.Graph(figure=fig11, className="m-4"),
+        ]
 
         if active_tab == "youth":
-            youth_graphs = [
-                dcc.Graph(figure=fig1, className="m-4"),
-                dcc.Graph(figure=fig2, className="m-4"),
-                dcc.Graph(figure=fig3, className="m-4"),
-                radio,
-                dcc.Graph(id="fig4", className="m-4"),
-                dcc.Graph(figure=fig6, className="m-4"),
-            ]
-
-            adult_graphs = [
-                dcc.Graph(figure=fig7, className="m-4"),
-                dcc.Graph(figure=fig8, className="m-4"),
-                radio2,
-                dcc.Graph(id="fig9", className="m-4"),
-                dcc.Graph(figure=fig10, className="m-4"),
-                dcc.Graph(figure=fig11, className="m-4"),
-            ]
             return (youth_graphs, adult_graphs)
 
         elif active_tab == "adult":
