@@ -39,6 +39,7 @@ def adult_admissions_3dtrend(start_year, end_year, template, geos=None):
         color="Custodial and community admissions",
         title=f"Trend of Total Custodial and Community Admissions ({start_year} to {end_year})",
     )
+    fig.update_layout(height=650)
     return fig
 
 
@@ -113,7 +114,7 @@ def adult_custody_admissions_age_group(start_year, end_year, template, geos=None
     fig.update_layout(
         title=f"Adult admissions to correctional services by age group, ({start_year} to {end_year})"
     )
-    fig.update_layout(barmode="stack", template=template)
+    fig.update_layout(barmode="stack", template=template, height=550,)
     fig.update_layout(
         annotations=[
             go.layout.Annotation(

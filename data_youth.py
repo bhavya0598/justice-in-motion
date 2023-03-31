@@ -65,7 +65,7 @@ def youth_in_correctional_services(
             go.layout.Annotation(
                 x=0.5,
                 y=1.25,
-                text=f"Selected Location: {','.join(geos)}",
+                text=f"Selected Location: {', '.join(geos)}",
                 showarrow=False,
                 xref="paper",
                 yref="paper",
@@ -116,12 +116,14 @@ def youth_in_correctional_services(
 # Usage: youth_in_correctional_services('Alberta')
 
 
-def youth_in_correctional_services_trend_3d(
-    template, rate_type="Incarceration", geos=None
+def youth_in_correctional_services_trend_3d(start_year, end_year,template,rate_type="Incarceration", geos=None
 ):
     """3D Line chart of Incarceration or Probation rate with geo and date filter"""
     data = pd.read_csv("./dataset/youth/35100003.csv")
-
+    data = data[
+        (data["REF_DATE"].str[:4].astype(int) >= start_year)
+        & (data["REF_DATE"].str[:4].astype(int) <= end_year)
+    ]
     # Filter data for the specified rate type
     if rate_type == "Incarceration":
         filtered_data = data[
@@ -167,6 +169,7 @@ def youth_in_correctional_services_trend_3d(
             zaxis_title=f"{rate_type} rate per 10,000 young persons",
         ),
         title=f"{rate_type} rates in different GEOs",
+        height=650,
         margin=dict(l=0, r=0, b=0, t=30),
         template=template,
     )
@@ -265,7 +268,7 @@ def youth_commencing_correctional_services(start_year, end_year, template, geos=
             go.layout.Annotation(
                 x=0.5,
                 y=1,
-                text=f"Selected Location: {','.join(geos)}",
+                text=f"Selected Location: {', '.join(geos)}",
                 showarrow=False,
                 xref="paper",
                 yref="paper",
@@ -287,7 +290,10 @@ def youth_admissions_and_releases_to_correctional_services(
     """Comparison chart for youth admission and release to correctional services"""
     # Read the data
     df = pd.read_csv("./dataset/youth/35100005.csv")
-
+    df = df[
+        (df["REF_DATE"].str[:4].astype(int) >= start_year)
+        & (df["REF_DATE"].str[5:].astype(int) <= end_year)
+    ]
     if geos is not None:
         df = df[df["GEO"].isin(geos)]
     else:
@@ -339,7 +345,7 @@ def youth_admissions_and_releases_to_correctional_services(
             go.layout.Annotation(
                 x=0.5,
                 y=1.1,
-                text=f"Selected Location: {','.join(geos)}",
+                text=f"Selected Location: {', '.join(geos)}",
                 showarrow=False,
                 xref="paper",
                 yref="paper",
@@ -357,7 +363,7 @@ def youth_admissions_and_releases_to_correctional_services(
 
 def youth_gender_trends_and_pie(start_year, end_year, template, geos=None):
     """Admissions to correctional services by gender (trend and distribution)"""
-    print(start_year, end_year, template, geos)
+    print('youth_gender_trends_and_pie:',start_year, end_year, template, geos)
     df = pd.read_csv("./dataset/youth/35100006.csv", low_memory=False)
     df = df[
         (df["REF_DATE"].str[:4].astype(int) >= start_year)
@@ -377,8 +383,11 @@ def youth_gender_trends_and_pie(start_year, end_year, template, geos=None):
         & (df["Sex"] != "Sex unknown")
     ]
 
+    # group by year and sex and sum the value column
+    df_grouped = df_filtered.groupby(["REF_DATE", "Sex"])["VALUE"].sum().reset_index()
+
     # pivot the dataframe to get the values for each gender
-    df_pivot = df_filtered.pivot(index="REF_DATE", columns="Sex", values="VALUE")
+    df_pivot = df_grouped.pivot(index="REF_DATE", columns="Sex", values="VALUE")
 
     # create the gender trend plot
     fig1 = go.Figure()
@@ -421,6 +430,20 @@ def youth_gender_trends_and_pie(start_year, end_year, template, geos=None):
     fig.update_layout(
         template=template,
         title=f"Gender trend of Youth Admissions to Correctional Services ({start_year}-{end_year})",
+    )
+    fig.update_layout(
+        annotations=[
+            go.layout.Annotation(
+                x=0.5,
+                y=1.15,
+                text=f"Selected Location: {', '.join(geos)} (sum)",
+                showarrow=False,
+                xref="paper",
+                yref="paper",
+                font=dict(size=14),
+            )
+        ],
+        template=template,
     )
     fig.add_trace(fig2.data[0], row=1, col=2)
 
