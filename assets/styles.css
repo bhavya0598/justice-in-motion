@@ -1,32 +1,41 @@
 /* dropdown menu options */
 .dbc .VirtualizedSelectOption {
-    background-color: var(--bs-body-bg);
-    color: var(--bs-body-color);
-  }
+  background-color: var(--bs-body-bg);
+  color: var(--bs-body-color);
+}
 
-  .custom-scrollbar {
-    overflow-y: scroll;
-    max-height: 820px;
-    overflow-x: hidden;
-  }
+.custom-scrollbar {
+  overflow-y: scroll;
+  max-height: 820px;
+  overflow-x: hidden;
+}
 
-  ::-webkit-scrollbar {
-    width: 5px;
-  }
-  
-  /* Track */
-  ::-webkit-scrollbar-track {
-    box-shadow: inset 0 0 5px grey; 
-    border-radius: 10px;
-  }
-   
-  /* Handle */
-  ::-webkit-scrollbar-thumb {
-    background: red; 
-    border-radius: 10px;
-  }
-  
-  /* Handle on hover */
-  ::-webkit-scrollbar-thumb:hover {
-    background: #b30000; 
-  }
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: red;
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #b30000;
+}
+
+.custom-alert {
+  position: absolute;
+  top: 70px;
+  right: 30px;
+  z-index: 9999;
+  margin: auto;
+  width: 300px;
+}

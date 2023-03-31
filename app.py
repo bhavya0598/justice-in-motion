@@ -13,7 +13,7 @@ from dash_bootstrap_templates import (
 import plotly.express as px
 import data_youth
 import data_adult
-from dash.dependencies import Input, Output
+from dash.dependencies import Input, Output, State
 from controls import geo_list, year_list
 
 df = px.data.gapminder()
@@ -23,10 +23,24 @@ years = year_list()
 
 # stylesheet with the .dbc class
 dbc_css = "https://cdn.jsdelivr.net/gh/AnnMarieW/dash-bootstrap-templates/dbc.min.css"
-app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP, dbc_css])
-template = "flatly"
+app = Dash(__name__, external_stylesheets=[dbc.themes.FLATLY, dbc_css])
+
 # theme changer button
 theme_changer = html.Div(ThemeChangerAIO(aio_id="theme"), className="mb-4")
+
+# update alert
+alert = html.Div(
+    dbc.Alert(
+        "Updating...",
+        id="alert-auto",
+        is_open=False,
+        duration=1500,
+        dismissable=True,
+        fade=True,
+        class_name="alert alert-primary",
+    ),
+    className="custom-alert",
+)
 
 # header
 header = dbc.Row(
@@ -36,14 +50,8 @@ header = dbc.Row(
     className="bg-danger text-white p-2 mb-5 text-center display-6 shadow-lg",
 )
 
-# provinces dropdown
-# dropdown = html.Div(
-#     [
-#         dbc.Label("Select provinces:"),
-#         dcc.Dropdown(geos, [alberta], id="indicator", clearable=False, multi=True),
-#     ],
-#     className="mb-4",
-# )
+# loading spinner
+loading_spinner = html.Div(dbc.Spinner(html.Div(id="loading-output")))
 
 # provinces checklist
 checklist = html.Div(
@@ -93,12 +101,6 @@ radio2 = html.Div(
     dcc.RadioItems(["Male", "Female"], "Female", inline=True), className="mb-4"
 )
 
-# youth figures
-
-
-# adult figures
-
-
 # tabs
 tabs = dbc.Tabs(
     [
@@ -134,6 +136,7 @@ app.layout = html.Div(
         dbc.Container(header, fluid=True, className="dbc"),
         dbc.Container(
             [
+                alert,
                 dbc.Row(
                     [
                         dbc.Col(
@@ -153,6 +156,19 @@ app.layout = html.Div(
         ),
     ]
 )
+
+# callback for alert
+@app.callback(
+    Output("alert-auto", "is_open"),
+    Input("years", "value"),
+    Input("provinces", "value"),
+    [State("alert-auto", "is_open")],
+)
+def toggle_alert(years, provinces, is_open):
+    if years is not None and provinces is not None:
+        return not is_open
+    return is_open
+
 
 # callback for tabs
 @app.callback(
@@ -211,14 +227,19 @@ def render_tab_content(active_tab, years, provinces, theme):
             start_year, end_year, template_from_url(theme), provinces
         )
         adult_figures = [fig7, fig8, fig9, fig10, fig11]
+
         if active_tab == "youth":
-            return [dcc.Graph(figure=fig, className="m-4") for fig in youth_figures], [
-                dcc.Graph(figure=fig, className="m-4") for fig in adult_figures
-            ]
+            return (
+                [dcc.Graph(figure=fig, className="m-4") for fig in youth_figures],
+                [dcc.Graph(figure=fig, className="m-4") for fig in adult_figures],
+            )
+
         elif active_tab == "adult":
-            return [dcc.Graph(figure=fig, className="m-4") for fig in youth_figures], [
-                dcc.Graph(figure=fig, className="m-4") for fig in adult_figures
-            ]
+            return (
+                [dcc.Graph(figure=fig, className="m-4") for fig in youth_figures],
+                [dcc.Graph(figure=fig, className="m-4") for fig in adult_figures],
+            )
+
         elif active_tab == "misc":
             return
     return "no tabs selected"
