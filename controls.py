@@ -5,8 +5,8 @@ def geo_list():
     df = pd.read_csv('./dataset/youth/35100003.csv')
     geos = df['GEO'].unique()
     geo_list = geos.tolist()
-    # remove first element
-    geo_list.pop(0)
+    # # remove first element
+    # geo_list.pop(0)
     # sort as per alphabetical order
     geo_list.sort()
     return geo_list
