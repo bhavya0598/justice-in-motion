@@ -18,7 +18,6 @@ def year_list():
     years = df['REF_DATE'].unique()
     years = [ int(x[:4]) for x in years ]
     years.append(2022)
-    print(years)
     return years
 
 if __name__ == "__main__":
