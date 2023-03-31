@@ -17,13 +17,8 @@ from dash.dependencies import Input, Output, State
 from controls import geo_list, year_list
 
 df = px.data.gapminder()
-# geos = geo_list()
-# Static list
-geos = ['All Provinces and territories','Alberta',  'British Columbia', 
-              'Manitoba', 'New Brunswick', 'Newfoundland and Labrador', 'Northwest Territories', 
-              'Northwest Territories including Nunavut', 'Nova Scotia', 'Nunavut', 'Ontario', 
-              'Prince Edward Island', 'Quebec', 'Saskatchewan', 'Yukon']
-allProvinces = geos[0]
+geos = geo_list()
+allprovince = geos[0]
 years = year_list()
 
 # stylesheet with the .dbc class
@@ -32,6 +27,19 @@ app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP, dbc_css])
 
 # theme changer button
 theme_changer = html.Div(ThemeChangerAIO(aio_id="theme"), className="mb-4")
+
+# loading spinner
+spinner = dbc.Spinner(
+    size="md",
+    color="info",
+    type="grow",
+    fullscreen=False,
+    show_initially=False,
+    spinnerClassName="d-none",
+    id="spinner",
+    children=[html.Div(id="output")],
+)
+
 
 # update alert
 alert = html.Div(
@@ -55,9 +63,6 @@ header = dbc.Row(
     className="bg-danger text-white p-2 mb-5 text-center display-6 shadow-lg",
 )
 
-# loading spinner
-loading_spinner = html.Div(dbc.Spinner(html.Div(id="loading-output")))
-
 # provinces checklist
 checklist = html.Div(
     [
@@ -65,7 +70,7 @@ checklist = html.Div(
         dbc.Checklist(
             id="provinces",
             options=[{"label": i, "value": i} for i in geos],
-            value=[allProvinces],
+            value=[allprovince],
             inline=False,
         ),
     ],
@@ -84,6 +89,7 @@ slider = html.Div(
             step=1,
             value=[years[0], years[-1]],
             marks=marks,
+            tooltip={"always_visible": False, "placement": "topLeft"},
         ),
     ],
     className="mb-4",
@@ -118,8 +124,17 @@ radio = html.Div(
 # radio items for youth tab only (male vs female)
 radio2 = html.Div(
     dcc.RadioItems(
-        ["Male", "Female"],
-        "Female",
+        options=[
+            {
+                "label": "Male",
+                "value": "Male",
+            },
+            {
+                "label": "Female",
+                "value": "Female",
+            },
+        ],
+        value="Female",
         inline=True,
         id="radio2",
         inputClassName="mx-2 form-check-input",
@@ -131,21 +146,11 @@ tabs = dbc.Tabs(
     [
         dbc.Tab(
             [dbc.Row(id="youth-figures")],
-            # [
-            #     dbc.Row(
-            #         [dcc.Graph(figure=fig, className="m-4") for fig in youth_figures],
-            #     )
-            # ],
             label="Youth",
             tab_id="youth",
         ),
         dbc.Tab(
             [dbc.Row(id="adult-figures")],
-            # [
-            #     dbc.Row(
-            #         [dcc.Graph(figure=fig, className="m-4") for fig in adult_figures]
-            #     ),
-            # ],
             label="Adult",
             tab_id="adult",
         ),
@@ -187,6 +192,18 @@ app.layout = html.Div(
     ]
 )
 
+
+# callback for slider
+@app.callback(
+    Output("years", "min"),
+    Input("tabs", "active_tab"),
+)
+def update_slider_min(active_tab):
+    if active_tab == "youth":
+        return 1997
+    return 2000
+
+
 # callback for alert
 @app.callback(
     Output("alert-auto", "is_open"),
@@ -215,69 +232,69 @@ def render_tab_content(active_tab, years, provinces, theme):
     stored graphs, and renders the tab content depending on what the value of
     'active_tab' is.
     """
-    print('render_tab_content:',active_tab, years, provinces, theme)
+    # debug
+    print(active_tab, years, provinces, theme)
     start_year = years[0]
     end_year = years[1]
-    if active_tab is not None:
-        # figures for youth tab
-        fig1 = data_youth.youth_indigenous_vs_nonindigenous(
-            start_year, end_year, template_from_url(theme), provinces
-        )
-        fig2 = data_youth.youth_commencing_correctional_services(
-            start_year, end_year, template_from_url(theme), provinces
-        )
-        fig3 = data_youth.youth_admissions_and_releases_to_correctional_services(
-            start_year, end_year, template_from_url(theme), provinces
-        )
-        fig5 = data_youth.youth_gender_trends_and_pie(
-            start_year, end_year, template_from_url(theme), provinces
-        )
-        fig6 = data_youth.youth_age_by_geo(
-            start_year, end_year, template_from_url(theme), provinces
-        )
-
-        # figures for adult tab
-        fig7 = data_adult.adult_admissions_3dtrend(
-            start_year, end_year, template_from_url(theme), provinces
-        )
-        fig8 = data_adult.adult_custody_admissions_age_group(
-            start_year, end_year, template_from_url(theme), provinces
-        )
-        fig10 = data_adult.adult_indigenous_vs_nonindigenous(
-            start_year, end_year, template_from_url(theme), provinces
-        )
-        fig11 = data_adult.adult_sentence_length_by_sex(
-            start_year, end_year, template_from_url(theme), provinces
-        )
-
-        youth_graphs = [
-            dcc.Graph(figure=fig1, className="m-4"),
-            dcc.Graph(figure=fig2, className="m-4"),
-            dcc.Graph(figure=fig3, className="m-4"),
-            dcc.Graph(figure=fig5, className="m-4"),
-            radio,
-            dcc.Graph(id="fig4", className="m-4"),
-            dcc.Graph(figure=fig6, className="m-4"),
-        ]
-
-        adult_graphs = [
-            dcc.Graph(figure=fig7, className="m-4"),
-            dcc.Graph(figure=fig8, className="m-4"),
-            radio2,
-            dcc.Graph(id="fig9", className="m-4"),
-            dcc.Graph(figure=fig10, className="m-4"),
-            dcc.Graph(figure=fig11, className="m-4"),
-        ]
-
+    if active_tab is not None and len(provinces) != 0 and years is not None:
         if active_tab == "youth":
-            return (youth_graphs, adult_graphs)
+            # figures for youth tab
+            print(provinces)
+            fig1 = data_youth.youth_indigenous_vs_nonindigenous(
+                start_year, end_year, template_from_url(theme), provinces
+            )
+            fig2 = data_youth.youth_commencing_correctional_services(
+                start_year, end_year, template_from_url(theme), provinces
+            )
+            fig3 = data_youth.youth_admissions_and_releases_to_correctional_services(
+                start_year, end_year, template_from_url(theme), provinces
+            )
+            fig5 = data_youth.youth_gender_trends_and_pie(
+                start_year, end_year, template_from_url(theme), provinces
+            )
+            fig6 = data_youth.youth_age_by_geo(
+                start_year, end_year, template_from_url(theme), provinces
+            )
+            youth_graphs = [
+                dcc.Graph(figure=fig1, className="m-4"),
+                dcc.Graph(figure=fig2, className="m-4"),
+                dcc.Graph(figure=fig3, className="m-4"),
+                dcc.Graph(figure=fig5, className="m-4"),
+                radio,
+                dcc.Graph(id="fig4", className="m-4"),
+                dcc.Graph(figure=fig6, className="m-4"),
+            ]
+            years = year_list()
+            return (youth_graphs, [])
 
         elif active_tab == "adult":
-            return (youth_graphs, adult_graphs)
+            # figures for adult tab
+            fig7 = data_adult.adult_admissions_3dtrend(
+                start_year, end_year, template_from_url(theme), provinces
+            )
+            fig8 = data_adult.adult_custody_admissions_age_group(
+                start_year, end_year, template_from_url(theme), provinces
+            )
+            fig10 = data_adult.adult_indigenous_vs_nonindigenous(
+                start_year, end_year, template_from_url(theme), provinces
+            )
+            fig11 = data_adult.adult_sentence_length_by_sex(
+                start_year, end_year, template_from_url(theme), provinces
+            )
+
+            adult_graphs = [
+                dcc.Graph(figure=fig7, className="m-4"),
+                dcc.Graph(figure=fig8, className="m-4"),
+                radio2,
+                dcc.Graph(id="fig9", className="m-4"),
+                dcc.Graph(figure=fig10, className="m-4"),
+                dcc.Graph(figure=fig11, className="m-4"),
+            ]
+            return ([], adult_graphs)
 
         elif active_tab == "misc":
             return
-    return "no tabs selected"
+    return [], []
 
 
 # callback for radio
@@ -285,11 +302,12 @@ def render_tab_content(active_tab, years, provinces, theme):
     Output("fig4", "figure"),
     Input("radio", "value"),
     Input("provinces", "value"),
+    Input("years", "value"),
     Input(ThemeChangerAIO.ids.radio("theme"), "value"),
 )
-def update_radio(value, provinces, theme):
+def update_radio(value, provinces, years, theme):
     fig = data_youth.youth_in_correctional_services_trend_3d(
-        template_from_url(theme), value, provinces
+        years[0], years[-1], template_from_url(theme), value, provinces
     )
     return fig
 
