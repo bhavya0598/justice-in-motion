@@ -18,7 +18,8 @@ from controls import geo_list, year_list
 
 df = px.data.gapminder()
 geos = geo_list()
-allprovince = geos[0]
+allprovince = [geos[0]]
+print(allprovince)
 years = year_list()
 
 # stylesheet with the .dbc class
@@ -70,7 +71,7 @@ checklist = html.Div(
         dbc.Checklist(
             id="provinces",
             options=[{"label": i, "value": i} for i in geos],
-            value=[allprovince],
+            value=allprovince,
             inline=False,
         ),
     ],
@@ -192,6 +193,27 @@ app.layout = html.Div(
     ]
 )
 
+# callback to disable provinces checklist when allprovinces is selected
+@app.callback(
+    Output("provinces", "options"),
+    Input("provinces", "value"),
+    State("provinces", "options"),
+)
+def update_checklist(selected_value, options):
+    if allprovince[0] in selected_value:
+        # Disable all options except the first one
+        new_options = []
+        new_options.append(options[0])
+        for option in options[1:]:
+            new_option = option.copy()
+            new_option['disabled'] = True
+            new_options.append(new_option)
+        return new_options
+    else:
+        # Enable all options
+        for option in options:
+            option['disabled'] = False
+        return options
 
 # callback for slider
 @app.callback(
@@ -236,6 +258,8 @@ def render_tab_content(active_tab, years, provinces, theme):
     print(active_tab, years, provinces, theme)
     start_year = years[0]
     end_year = years[1]
+    if allprovince[0] in provinces:
+        provinces = allprovince
     if active_tab is not None and len(provinces) != 0 and years is not None:
         if active_tab == "youth":
             # figures for youth tab
