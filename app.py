@@ -146,19 +146,18 @@ radio2 = html.Div(
 tabs = dbc.Tabs(
     [
         dbc.Tab(
-            [dbc.Row(id="youth-figures")],
-            label="Youth",
-            tab_id="youth",
-        ),
-        dbc.Tab(
             [dbc.Row(id="adult-figures")],
             label="Adult",
             tab_id="adult",
         ),
-        dbc.Tab(label="Misc", tab_id="misc"),
+        dbc.Tab(
+            [dbc.Row(id="youth-figures")],
+            label="Youth",
+            tab_id="youth",
+        ),
     ],
     id="tabs",
-    active_tab="youth",
+    active_tab="adult",
 )
 
 # app layout
@@ -206,14 +205,15 @@ def update_checklist(selected_value, options):
         new_options.append(options[0])
         for option in options[1:]:
             new_option = option.copy()
-            new_option['disabled'] = True
+            new_option["disabled"] = True
             new_options.append(new_option)
         return new_options
     else:
         # Enable all options
         for option in options:
-            option['disabled'] = False
+            option["disabled"] = False
         return options
+
 
 # callback for slider
 @app.callback(
@@ -315,9 +315,6 @@ def render_tab_content(active_tab, years, provinces, theme):
                 dcc.Graph(figure=fig11, className="m-4"),
             ]
             return ([], adult_graphs)
-
-        elif active_tab == "misc":
-            return
     return [], []
 
 
