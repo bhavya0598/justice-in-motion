@@ -20,7 +20,6 @@ import plotly.graph_objs as go
 df = px.data.gapminder()
 geos = geo_list()
 allprovince = [geos[0]]
-print(allprovince)
 years = year_list()
 
 # stylesheet with the .dbc class
@@ -257,8 +256,6 @@ def render_tab_content(active_tab, years, provinces, theme):
     stored graphs, and renders the tab content depending on what the value of
     'active_tab' is.
     """
-    # debug
-    print(active_tab, years, provinces, theme)
     start_year = years[0]
     end_year = years[1]
     if allprovince[0] in provinces:
@@ -266,7 +263,6 @@ def render_tab_content(active_tab, years, provinces, theme):
     if active_tab is not None and len(provinces) != 0 and years is not None:
         if active_tab == "youth":
             # figures for youth tab
-            print(provinces)
             fig1 = data_youth.youth_indigenous_vs_nonindigenous(
                 start_year, end_year, template_from_url(theme), provinces
             )
