@@ -15,6 +15,7 @@ import data_youth
 import data_adult
 from dash.dependencies import Input, Output, State
 from controls import geo_list, year_list
+import plotly.graph_objs as go
 
 df = px.data.gapminder()
 geos = geo_list()
@@ -120,6 +121,7 @@ radio = html.Div(
         id="radio",
         inputClassName="mx-2 form-check-input",
     ),
+    className="mt-4",
 )
 
 # radio items for youth tab only (male vs female)
@@ -171,9 +173,9 @@ app.layout = html.Div(
                     [
                         dbc.Col(
                             controls,
-                            width=3,
+                            width=2,
                         ),
-                        dbc.Col(tabs, width=9, className="custom-scrollbar px-4"),
+                        dbc.Col(tabs, width=10, className="custom-scrollbar px-4"),
                     ],
                 ),
                 dbc.Row(
@@ -182,11 +184,12 @@ app.layout = html.Div(
                         radio2,
                         dcc.Graph(id="fig4", className="m-4"),
                         dcc.Graph(id="fig9", className="m-4"),
+                        dcc.Graph(id="fig12", className="m-4"),
                     ],
                     className="d-none",
                 ),
             ],
-            fluid=False,
+            fluid=True,
             className="dbc",
         ),
     ]
@@ -280,12 +283,12 @@ def render_tab_content(active_tab, years, provinces, theme):
                 start_year, end_year, template_from_url(theme), provinces
             )
             youth_graphs = [
+                radio,
+                dcc.Graph(id="fig4", className="m-4"),
                 dcc.Graph(figure=fig1, className="m-4"),
                 dcc.Graph(figure=fig2, className="m-4"),
                 dcc.Graph(figure=fig3, className="m-4"),
                 dcc.Graph(figure=fig5, className="m-4"),
-                radio,
-                dcc.Graph(id="fig4", className="m-4"),
                 dcc.Graph(figure=fig6, className="m-4"),
             ]
             years = year_list()
@@ -307,6 +310,8 @@ def render_tab_content(active_tab, years, provinces, theme):
             )
 
             adult_graphs = [
+                radio,
+                dcc.Graph(id="fig12", className="m-4"),
                 dcc.Graph(figure=fig7, className="m-4"),
                 dcc.Graph(figure=fig8, className="m-4"),
                 radio2,
@@ -318,19 +323,38 @@ def render_tab_content(active_tab, years, provinces, theme):
     return [], []
 
 
-# callback for radio
+# callback for radio youth
 @app.callback(
     Output("fig4", "figure"),
+    Input("tabs", "active_tab"),
     Input("radio", "value"),
     Input("provinces", "value"),
     Input("years", "value"),
     Input(ThemeChangerAIO.ids.radio("theme"), "value"),
 )
-def update_radio(value, provinces, years, theme):
-    fig = data_youth.youth_in_correctional_services_trend_3d(
-        years[0], years[-1], template_from_url(theme), value, provinces
-    )
-    return fig
+def update_radio(active_tabs, value, provinces, years, theme):
+    if active_tabs == "youth":
+        fig = data_youth.youth_in_correctional_services_trend_3d(
+            years[0], years[-1], template_from_url(theme), value, provinces
+        )
+        return fig
+
+
+# callback for radio adult
+@app.callback(
+    Output("fig12", "figure"),
+    Input("tabs", "active_tab"),
+    Input("radio", "value"),
+    Input("provinces", "value"),
+    Input("years", "value"),
+    Input(ThemeChangerAIO.ids.radio("theme"), "value"),
+)
+def update_radio(active_tabs, value, provinces, years, theme):
+    if active_tabs == "adult":
+        fig = data_adult.adults_rates_geomap(
+            years[0], years[-1], template_from_url(theme), value
+        )
+        return fig
 
 
 # callback for radio2
@@ -349,4 +373,4 @@ def update_radio2(value, provinces, years, theme):
 
 
 if __name__ == "__main__":
-    app.run_server(debug=True)
+    app.run_server(port=8050, debug=True)

@@ -10,27 +10,33 @@ import plotly.express as px
 import pandas as pd
 import plotly.express as px
 
-def adults_rates_geomap(start_year, end_year,rate_type):
+
+def adults_rates_geomap(start_year, end_year, template, rate_type):
     # load data
     df = pd.read_csv("./dataset/adult/35100154.csv")
-    
-    data = df[df['GEO'] != 'Provinces and Territories']
+
+    data = df[df["GEO"] != "Provinces and Territories"]
 
     data = data[
         (data["REF_DATE"].str[:4].astype(int) >= start_year)
         & (data["REF_DATE"].str[:4].astype(int) <= end_year)
     ]
-    
 
     # filter the data to include only the specified rate type
-    if rate_type == 'Incarceration':
-        data = data[data['Custodial and community supervision'] == 'Incarceration rates per 100,000 adults']
-        title = 'Incarceration rate by province over time'
-        color_label = 'Incarceration rate'
-    elif rate_type == 'Probation':
-        data = data[data['Custodial and community supervision'] == 'Probation rates per 100,000 adults']
-        title = 'Probation rate by province over time'
-        color_label = 'Probation rate'
+    if rate_type == "Incarceration":
+        data = data[
+            data["Custodial and community supervision"]
+            == "Incarceration rates per 100,000 adults"
+        ]
+        title = "Incarceration rate by province over time"
+        color_label = "Incarceration rate"
+    elif rate_type == "Probation":
+        data = data[
+            data["Custodial and community supervision"]
+            == "Probation rates per 100,000 adults"
+        ]
+        title = "Probation rate by province over time"
+        color_label = "Probation rate"
     else:
         return "Error: Invalid rate type. Please enter 'Incarceration' or 'Probation'."
 
@@ -38,27 +44,32 @@ def adults_rates_geomap(start_year, end_year,rate_type):
     fig = px.choropleth(
         data,
         geojson="https://raw.githubusercontent.com/codeforamerica/click_that_hood/master/public/data/canada.geojson",
-        locations='GEO',
-        featureidkey='properties.name',
-        color='VALUE',
-        animation_frame='REF_DATE',
-        hover_data=['GEO', 'VALUE'],
-        labels={'VALUE': color_label},
+        locations="GEO",
+        featureidkey="properties.name",
+        color="VALUE",
+        animation_frame="REF_DATE",
+        hover_data=["GEO", "VALUE"],
+        labels={"VALUE": color_label},
         title=title,
-        locationmode='geojson-id',
-        scope="north america"
+        locationmode="geojson-id",
+        scope="north america",
     )
     fig.update_geos(
         center=dict(lon=-95, lat=60),
-        projection_type='orthographic',
-        fitbounds="locations"
-        
+        projection_type="orthographic",
+        fitbounds="locations",
+    )
+    fig.update_layout(
+        height=650,
+        template=template,
     )
 
-    return fig.show()
- 
+    return fig
+
+
 # Usage: adults_rates_geomap(2005,2022,'Incarceration')
 # Usage: adults_rates_geomap(2005,2022,'Probation')
+
 
 def adult_admissions_3dtrend(start_year, end_year, template, geos=None):
 
@@ -170,7 +181,11 @@ def adult_custody_admissions_age_group(start_year, end_year, template, geos=None
     fig.update_layout(
         title=f"Adult admissions to correctional services by age group, ({start_year} to {end_year})"
     )
-    fig.update_layout(barmode="stack", template=template, height=550,)
+    fig.update_layout(
+        barmode="stack",
+        template=template,
+        height=550,
+    )
     fig.update_layout(
         annotations=[
             go.layout.Annotation(
@@ -215,7 +230,7 @@ def adult_custody_gender_heatmap(sex, start_year, end_year, template, geos=None)
     )
     fig.update_xaxes(title="Year")
     fig.update_yaxes(title="Geography")
-    fig.update_layout(height=600, width=800, template=template)
+    fig.update_layout(height=650, template=template)
     return fig
 
 
