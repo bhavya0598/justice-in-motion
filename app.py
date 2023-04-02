@@ -29,19 +29,6 @@ app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP, dbc_css])
 # theme changer button
 theme_changer = html.Div(ThemeChangerAIO(aio_id="theme"), className="mb-4")
 
-# loading spinner
-spinner = dbc.Spinner(
-    size="md",
-    color="info",
-    type="grow",
-    fullscreen=False,
-    show_initially=False,
-    spinnerClassName="d-none",
-    id="spinner",
-    children=[html.Div(id="output")],
-)
-
-
 # update alert
 alert = html.Div(
     dbc.Alert(
@@ -147,12 +134,16 @@ radio2 = html.Div(
 tabs = dbc.Tabs(
     [
         dbc.Tab(
-            [dbc.Row(id="adult-figures")],
+            dcc.Loading(
+                id="loading", type="circle", className= "mt-5 pt-5", children=[dbc.Row(id="adult-figures")]
+            ),
             label="Adult",
             tab_id="adult",
         ),
         dbc.Tab(
-            [dbc.Row(id="youth-figures")],
+            dcc.Loading(
+                id="loading-1", type="circle", className="mt-5 pt-5", children=[dbc.Row(id="youth-figures")]
+            ),
             label="Youth",
             tab_id="youth",
         ),
@@ -341,11 +332,10 @@ def update_radio(active_tabs, value, provinces, years, theme):
     Output("fig12", "figure"),
     Input("tabs", "active_tab"),
     Input("radio", "value"),
-    Input("provinces", "value"),
     Input("years", "value"),
     Input(ThemeChangerAIO.ids.radio("theme"), "value"),
 )
-def update_radio(active_tabs, value, provinces, years, theme):
+def update_radio(active_tabs, value, years, theme):
     if active_tabs == "adult":
         fig = data_adult.adults_rates_geomap(
             years[0], years[-1], template_from_url(theme), value
@@ -369,4 +359,4 @@ def update_radio2(value, provinces, years, theme):
 
 
 if __name__ == "__main__":
-    app.run_server(port=8050, debug=True)
+    app.run_server(debug=True)
