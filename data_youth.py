@@ -363,7 +363,7 @@ def youth_admissions_and_releases_to_correctional_services(
 
 def youth_gender_trends_and_pie(start_year, end_year, template, geos=None):
     """Admissions to correctional services by gender (trend and distribution)"""
-    print('youth_gender_trends_and_pie:',start_year, end_year, template, geos)
+    # print('youth_gender_trends_and_pie:',start_year, end_year, template, geos)
     df = pd.read_csv("./dataset/youth/35100006.csv", low_memory=False)
     df = df[
         (df["REF_DATE"].str[:4].astype(int) >= start_year)
