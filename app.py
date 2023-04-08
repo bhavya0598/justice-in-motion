@@ -212,8 +212,9 @@ def update_checklist(selected_value, options):
 @app.callback(
     Output("years", "min"),
     Input("tabs", "active_tab"),
+    Input("youth-figures", "children"),
 )
-def update_slider_min(active_tab):
+def update_slider_min(active_tab, children):
     if active_tab == "youth":
         return 1997
     return 2000
@@ -318,8 +319,9 @@ def render_tab_content(active_tab, years, provinces, theme):
     Input("provinces", "value"),
     Input("years", "value"),
     Input(ThemeChangerAIO.ids.radio("theme"), "value"),
+    Input("youth-figures", "children"),
 )
-def update_radio(active_tabs, value, provinces, years, theme):
+def update_radio(active_tabs, value, provinces, years, theme, children):
     if active_tabs == "youth":
         fig = data_youth.youth_in_correctional_services_trend_3d(
             years[0], years[-1], template_from_url(theme), value, provinces
@@ -334,29 +336,33 @@ def update_radio(active_tabs, value, provinces, years, theme):
     Input("radio", "value"),
     Input("years", "value"),
     Input(ThemeChangerAIO.ids.radio("theme"), "value"),
+    Input("adult-figures", "children"),
 )
-def update_radio(active_tabs, value, years, theme):
+def update_radio(active_tabs, value, years, theme, children):
     if active_tabs == "adult":
         fig = data_adult.adults_rates_geomap(
             years[0], years[-1], template_from_url(theme), value
         )
         return fig
-
+    return []
 
 # callback for radio2
 @app.callback(
     Output("fig9", "figure"),
+    Input("tabs", "active_tab"),
     Input("radio2", "value"),
     Input("provinces", "value"),
     Input("years", "value"),
     Input(ThemeChangerAIO.ids.radio("theme"), "value"),
+    Input("adult-figures", "children"),
 )
-def update_radio2(value, provinces, years, theme):
-    fig = data_adult.adult_custody_gender_heatmap(
-        value, years[0], years[-1], template_from_url(theme), provinces
-    )
-    return fig
-
+def update_radio2(active_tabs, value, provinces, years, theme, children):
+    if active_tabs == "adult":
+        fig = data_adult.adult_custody_gender_heatmap(
+            value, years[0], years[-1], template_from_url(theme), provinces
+        )
+        return fig
+    return []
 
 if __name__ == "__main__":
     app.run_server(debug=True)
